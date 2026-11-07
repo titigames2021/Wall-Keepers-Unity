@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ec6e305c8c796146b7037eacba81aeb, type: 3}
+  m_Name: 35_Bubble
+  m_EditorClassIdentifier: 
+  i_spell_ID: 35
+  i_spellStarTier: 2
+  spr_spellCard: {fileID: -937018930210944903, guid: 100c1b5781a50ed45af5fc0621e0b454, type: 3}
+  spellData_sObject: {fileID: 11400000, guid: 774e3904f1facd84cb9b9daee243e1cb, type: 2}
+  i_spellCost: 500

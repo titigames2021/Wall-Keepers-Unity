@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: 1251efa6af80cae4190ec81dee14ea84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1701390512383887587
+    second: LavaBallAnim01v01_0
+  - first:
+      213: 8858111679928584651
+    second: LavaBallAnim01v01_1
+  - first:
+      213: 5631858594229510447
+    second: LavaBallAnim01v01_2
+  - first:
+      213: -7648057594753498931
+    second: LavaBallAnim01v01_3
+  - first:
+      213: -3059014614917310266
+    second: LavaBallAnim01v01_4
+  - first:
+      213: -5086070995497547864
+    second: LavaBallAnim01v01_5
+  - first:
+      213: 1901172658383035267
+    second: LavaBallAnim01v01_6
+  - first:
+      213: 2376071802282053864
+    second: LavaBallAnim01v01_7
+  - first:
+      213: 928626090526643326
+    second: LavaBallAnim01v01_8
+  - first:
+      213: 251090689470409585
+    second: LavaBallAnim01v01_9
+  - first:
+      213: -6299544376570197040
+    second: LavaBallAnim01v01_10
+  - first:
+      213: 7032266380320440220
+    second: LavaBallAnim01v01_11
+  - first:
+      213: -2779592532727963932
+    second: LavaBallAnim01v01_12
+  - first:
+      213: -811609457193046344
+    second: LavaBallAnim01v01_13
+  - first:
+      213: 8099835123317306675
+    second: LavaBallAnim01v01_14
+  - first:
+      213: -8159536295484737847
+    second: LavaBallAnim01v01_15
+  - first:
+      213: -2233856705243651334
+    second: LavaBallAnim01v01_16
+  - first:
+      213: -6803393082089836452
+    second: LavaBallAnim01v01_17
+  - first:
+      213: 5948657518327358400
+    second: LavaBallAnim01v01_18
+  - first:
+      213: -7292327628086824918
+    second: LavaBallAnim01v01_19
+  - first:
+      213: 8828830105862082523
+    second: LavaBallAnim01v01_20
+  - first:
+      213: 8977860849945193340
+    second: LavaBallAnim01v01_21
+  - first:
+      213: 2087760032647765488
+    second: LavaBallAnim01v01_22
+  - first:
+      213: 3724000108842626584
+    second: LavaBallAnim01v01_23
+  - first:
+      213: -1399567274965844479
+    second: LavaBallAnim01v01_24
+  - first:
+      213: 605045697226149696
+    second: LavaBallAnim01v01_25
+  - first:
+      213: 1063294734608328644
+    second: LavaBallAnim01v01_26
+  - first:
+      213: 3655931041419271726
+    second: LavaBallAnim01v01_27
+  - first:
+      213: -3739510030179274538
+    second: LavaBallAnim01v01_28
+  - first:
+      213: 1671814183149847854
+    second: LavaBallAnim01v01_29
+  - first:
+      213: -5332570418204570406
+    second: LavaBallAnim01v01_30
+  - first:
+      213: -4995947190566999501
+    second: LavaBallAnim01v01_31
+  - first:
+      213: -3536785029272710940
+    second: LavaBallAnim01v01_32
+  - first:
+      213: 346190659662379979
+    second: LavaBallAnim01v01_33
+  - first:
+      213: -8047155411139258603
+    second: LavaBallAnim01v01_34
+  - first:
+      213: 3947575143465041208
+    second: LavaBallAnim01v01_35
+  - first:
+      213: -3889391835338488277
+    second: LavaBallAnim01v01_36
+  - first:
+      213: 8958221251283969126
+    second: LavaBallAnim01v01_37
+  - first:
+      213: -4254788966545294486
+    second: LavaBallAnim01v01_38
+  - first:
+      213: 4071931643451193565
+    second: LavaBallAnim01v01_39
+  - first:
+      213: 4341499413769420106
+    second: LavaBallAnim01v01_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinalMagmaBall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6729e897771863a49b92bf5b8d74ccfa
+      internalID: -2143321212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a37bd474975d439eeed6b449bc5ac
+      internalID: 1509150909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733460c84ebc21b4f8df62cc59e95aea
+      internalID: -753650071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8cd9e97619d27439d8867be8aa940c
+      internalID: 1656002322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb0d4fb645113d48961f3402d8f2e61
+      internalID: -479027975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_5
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62633d1ade9e92244a054fce43af941a
+      internalID: 1603599251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.61346143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9320a3e3eadf0d8429447130665e66eb
+      internalID: -1287548833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.45291892, y: 0.5979894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992c30cb1fcebe342929c125f021bee9
+      internalID: -292664271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.48116758, y: 0.58251745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc61cf6c8daa814fa82e1fc618fa353
+      internalID: 418951541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_9
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.49058357, y: 0.60830396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43031b9d33d74c240b7159fcac474427
+      internalID: -1076658027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_10
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.48116672, y: 0.57220274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc810f866ded8e409365fad71177690
+      internalID: 766308885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_11
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.48587558, y: 0.623776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d60641e66f5f4dad60391ea4f0381
+      internalID: 2087930409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_12
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a310d3ce975940839fb172d5c5d17
+      internalID: -1631777415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_13
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2713d846f15324e84f03b00183ec84
+      internalID: 914987537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.4952919, y: 0.43295467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d447d6f7718443048806d5b734908f60
+      internalID: -100988331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.49058378, y: 0.45358405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9078aa9343954da4da2b7ac647844ddf
+      internalID: -1605933804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_16
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.47175136, y: 0.4587414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54dcce21d81f07f468cbdd8f1479af66
+      internalID: 1676127123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_17
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.48587558, y: 0.48968548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd644a6f873aef45a30f8786ae9f05d
+      internalID: 541962201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_18
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.48116714, y: 0.47937074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae3bd6fd489efc41acace7e416fcc5c
+      internalID: -1569863626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_19
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.48587558, y: 0.46905607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82565924a9ff8d1499eba58d21165628
+      internalID: 166127045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_20
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.48116758, y: 0.4742134}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fef7d3a8366a844b82e77661b02555f
+      internalID: 765342390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMagmaBall_21
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.49529156, y: 0.42779732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5187da5db239d4478827e0dd4187b0b
+      internalID: -1963414433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d9b2aaa20d683c7459ce2f312de6e808
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FinalMagmaBall_0: -2143321212
+      FinalMagmaBall_1: 1509150909
+      FinalMagmaBall_10: 766308885
+      FinalMagmaBall_11: 2087930409
+      FinalMagmaBall_12: -1631777415
+      FinalMagmaBall_13: 914987537
+      FinalMagmaBall_14: -100988331
+      FinalMagmaBall_15: -1605933804
+      FinalMagmaBall_16: 1676127123
+      FinalMagmaBall_17: 541962201
+      FinalMagmaBall_18: -1569863626
+      FinalMagmaBall_19: 166127045
+      FinalMagmaBall_2: -753650071
+      FinalMagmaBall_20: 765342390
+      FinalMagmaBall_21: -1963414433
+      FinalMagmaBall_3: 1656002322
+      FinalMagmaBall_4: -479027975
+      FinalMagmaBall_5: 1603599251
+      FinalMagmaBall_6: -1287548833
+      FinalMagmaBall_7: -292664271
+      FinalMagmaBall_8: 418951541
+      FinalMagmaBall_9: -1076658027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

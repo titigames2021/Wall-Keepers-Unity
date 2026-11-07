@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: c975e1a39819a9b4a8d8be949a2e354a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tornado-fuego_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666.6666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.5280112, y: 0.63266087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a78ef2baaef14d449d331840b13958e
+      internalID: 1716906320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 666.6666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.53734815, y: 0.4892435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fce8352b6e1de4590f839a5f741f81
+      internalID: -1378568042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 666.6666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.5280111, y: 0.46773082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33a38b01da05a64880a92f585471725
+      internalID: 1909143198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 667
+        width: 246
+        height: 333
+      alignment: 9
+      pivot: {x: 0.48874545, y: 0.3254028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8276cf7bcd7d8248a248a54d0b582b2
+      internalID: 535927585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_4
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 667
+        width: 266
+        height: 333
+      alignment: 9
+      pivot: {x: 0.44474438, y: 0.23394683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494518c4fb672ff45ada14368f920ab7
+      internalID: 734122218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 666.6666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.38824606, y: 0.30342847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e72a3c2d9ac8428e5d5fc982e77a6
+      internalID: -659045359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 666.6666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.3846407, y: 0.29512262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a0fd988f62de47a4baf973ab3a587
+      internalID: 1685482601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 666.6666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.46395016, y: 0.34218913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a02f4008071ce4a98e64b6376bbd9c
+      internalID: -182440826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333.66666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.6333837, y: 0.27297372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec22b3fe463c445b106a47ec001318
+      internalID: 1649665364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 333.66666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.36301124, y: 0.26189923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e25904defd634a962385495817123
+      internalID: -1463995870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 333.66666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.36301136, y: 0.3006598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5b4b6e1bada294983dc3377a3e2534
+      internalID: -1742816470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 333.66666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.32696152, y: 0.23975033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e69ab31c539c49adf1822b03d5225
+      internalID: 523056772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 333.66666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.38824606, y: 0.27020508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270f8ca083c45ba4f856b8479b77fae4
+      internalID: -2046298056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 333.66666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.33417177, y: 0.23421313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91980d1734c7241b1f41544647ee54
+      internalID: -2099692498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 333.66666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.44592524, y: 0.29789117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8d701c73bde6346a6c9d593911beae
+      internalID: -377192329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 333.66666
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.46034527, y: 0.34218904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8651a13fec4ba4f8d75694f69e4dc0
+      internalID: -71122390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.43511063, y: 0.22590733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ea3bd4c1ed5f46a0fd443a9510da8
+      internalID: 313967624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0.6666565
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.24044251, y: 0.30342847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1442211331a393c49893ef71e534d808
+      internalID: 920900445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0.6666565
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.26207232, y: 0.12900588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c5fa0eb069c464bb1f2e6153efe649
+      internalID: -839084151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0.6666565
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.5648892, y: 0.19268396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269ebf969c3e5646804a597fa4a1892
+      internalID: 150021665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0.6666565
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.6297784, y: 0.40586713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60afb044a4e7115439c67e53b850765e
+      internalID: -1832422288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0.6666565
+        width: 256
+        height: 333.33334
+      alignment: 9
+      pivot: {x: 0.57930946, y: 0.39479268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2aa972e94c4524e83842e50d4176f0
+      internalID: -2134700402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tornado-fuego_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0.6666565
+        width: 256
+        height: 333.33334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0807c5ba7c1d3b34ea0ff6d9a93d824d
+      internalID: -938373589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tornado-fuego_0: 1716906320
+      tornado-fuego_1: -1378568042
+      tornado-fuego_10: -1742816470
+      tornado-fuego_11: 523056772
+      tornado-fuego_12: -2046298056
+      tornado-fuego_13: -2099692498
+      tornado-fuego_14: -377192329
+      tornado-fuego_15: -71122390
+      tornado-fuego_16: 313967624
+      tornado-fuego_17: 920900445
+      tornado-fuego_18: -839084151
+      tornado-fuego_19: 150021665
+      tornado-fuego_2: 1909143198
+      tornado-fuego_20: -1832422288
+      tornado-fuego_21: -2134700402
+      tornado-fuego_22: -938373589
+      tornado-fuego_3: 535927585
+      tornado-fuego_4: 734122218
+      tornado-fuego_5: -659045359
+      tornado-fuego_6: 1685482601
+      tornado-fuego_7: -182440826
+      tornado-fuego_8: 1649665364
+      tornado-fuego_9: -1463995870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

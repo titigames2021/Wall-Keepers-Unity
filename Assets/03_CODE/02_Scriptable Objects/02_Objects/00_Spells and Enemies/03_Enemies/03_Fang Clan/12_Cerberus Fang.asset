@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095fe339d410b2b4fb3ae82e354c45cc, type: 3}
+  m_Name: 12_Cerberus Fang
+  m_EditorClassIdentifier: 
+  sprite_bestiary: {fileID: 4223902928154368751, guid: d6f704bcbb26bd2479f016d689aabde9, type: 3}
+  i_id: 12
+  i_hp: 20000
+  i_dmg: 1750
+  f_speed: 1
+  f_RageOfAction: 6
+  f_projectailSpeed: 1
+  i_manaEnergyReleased: 2
+  Description: 'Best gate guardians thanks, cerberus demonitos throw great fireballs
+    to their targets.
+
+
+    Size: Huge'
+  deathClip: {fileID: 0}
+  e_Clan: 3
+  e_ElementalType: 1
+  e_size: 2

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_MagmaBall Animator
+  m_Controller: {fileID: 9100000, guid: 492b5ac707c47e240aedbefdfaa2b8e9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 174e4e44290f19e4ba64d3746fea8f89, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 96118dc8f5e58d749b8a0a9a1deac78d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5932056294f341f46aa72a49a96c648c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 040f4da38ac23c942beb557093226c1b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 668530b7a5e65ec40a449c31a5080821, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6bcf2f7b5ac17e44690a3090e8d49fa3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 396d4418d0f29ad4badf2dddd945918e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20936c75eeb2d3649befbf0810ca18d7, type: 2}

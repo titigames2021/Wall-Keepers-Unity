@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3437194011807338267
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 624243025780841981, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -635497110, guid: 679572bdb018acf40a9bdf998546f6ca, type: 3}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3305258558540259068, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3650482070449739290, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_Name
+      value: 00_BlackDog Fang Demonito
+      objectReference: {fileID: 0}
+    - target: {fileID: 5690274150969169209, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: 054cb1796a31c4049aa58fb170e2aec5, type: 2}
+    - target: {fileID: 6502948530216482400, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: baseStats
+      value: 
+      objectReference: {fileID: 11400000, guid: 248f576f7b3c2d547994331093e68d63, type: 2}
+    - target: {fileID: 6502948530216482400, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: aC_enemyDefeated
+      value: 
+      objectReference: {fileID: 8300000, guid: bea2940dc444c3a43af0bbd4ef4fe0a3, type: 3}
+    - target: {fileID: 7809240886798016510, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 2.8799999
+      objectReference: {fileID: 0}
+    - target: {fileID: 7809240886798016510, guid: 987eb037603a07e40ae333665b139928, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 2.8733253
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 987eb037603a07e40ae333665b139928, type: 3}

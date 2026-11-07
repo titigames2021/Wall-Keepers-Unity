@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spells Tiers VFxs
+  m_Controller: {fileID: 9100000, guid: 333ddfdfcde5dfb4e988194ba140353c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 458da61824c4980468fbaf5e276c7ca5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 458da61824c4980468fbaf5e276c7ca5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 496e16e4671b85948b01d2f90d08cc50, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8b1b783b4ce37414e9182f446547e1e9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0acc50e6c518b9c4399e5decf13e2881, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 094e02b65494c124fa70d3f13f4a0fbc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 658936fb0499227479efbdae4f38bc00, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f525e888cf035304d986a8c6d5fa8c7b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 838342a4d7b35cb4d9d7f9511d2f4ed6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0b4dac3af53588f48b217872b1772b50, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8e124674ef690724a9d54652100208f3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 27b9367bbf1f24c4d977be21f3de8fc5, type: 2}

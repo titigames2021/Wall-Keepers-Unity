@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 128e30d5fc208f24b91cfaf3cab9ca88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -932333025533969428
+    second: ShooterNewt_Walking_0
+  - first:
+      213: 7248182693974020457
+    second: ShooterNewt_Walking_1
+  - first:
+      213: 5427924290842926024
+    second: ShooterNewt_Walking_2
+  - first:
+      213: 8548261171873099059
+    second: ShooterNewt_Walking_3
+  - first:
+      213: -2675343691519495456
+    second: ShooterNewt_Walking_4
+  - first:
+      213: -8157879076057753440
+    second: ShooterNewt_Walking_5
+  - first:
+      213: 7758196463909624703
+    second: ShooterNewt_Walking_6
+  - first:
+      213: -3150595484800309900
+    second: ShooterNewt_Walking_7
+  - first:
+      213: 9028604216479915965
+    second: ShooterNewt_Walking_8
+  - first:
+      213: -4912106248292635928
+    second: ShooterNewt_Walking_9
+  - first:
+      213: 626160705804266203
+    second: ShooterNewt_Walking_10
+  - first:
+      213: 3666999581581246596
+    second: ShooterNewt_Walking_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 349
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5740883, y: 0.27296075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebbea09d00bf03f0800000000000000
+      internalID: -932333025533969428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 504
+        width: 309
+        height: 503
+      alignment: 9
+      pivot: {x: 0.52789325, y: 0.26439324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9619475f1c7b69460800000000000000
+      internalID: 7248182693974020457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 504
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5540276, y: 0.26439324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb1867526cd35b40800000000000000
+      internalID: 5427924290842926024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 504
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5349596, y: 0.26439324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33da2c4ce3681a670800000000000000
+      internalID: 8548261171873099059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_4
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 504
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5444934, y: 0.27081895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2f5ee46154fdad0800000000000000
+      internalID: -2675343691519495456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_5
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 504
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5254252, y: 0.25582576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a85cfed33469ce80800000000000000
+      internalID: -8157879076057753440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.61758876, y: 0.5085677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b56094496aaab60800000000000000
+      internalID: 7758196463909624703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5349589, y: 0.5128514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47527816916d644d0800000000000000
+      internalID: -3150595484800309900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.52224684, y: 0.54283774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf11e403bb0c4d70800000000000000
+      internalID: 9028604216479915965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_9
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.49364442, y: 0.53641206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea6a838461b4dbb0800000000000000
+      internalID: -4912106248292635928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_10
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5476715, y: 0.56425655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda65c928d190b800800000000000000
+      internalID: 626160705804266203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Walking_11
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1
+        width: 339
+        height: 503
+      alignment: 9
+      pivot: {x: 0.5508497, y: 0.56425655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48008abd0bcc3e230800000000000000
+      internalID: 3666999581581246596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb2faaa1b980e2a4ebfc629e8409bab6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShooterNewt_Walking_0: -932333025533969428
+      ShooterNewt_Walking_1: 7248182693974020457
+      ShooterNewt_Walking_10: 626160705804266203
+      ShooterNewt_Walking_11: 3666999581581246596
+      ShooterNewt_Walking_2: 5427924290842926024
+      ShooterNewt_Walking_3: 8548261171873099059
+      ShooterNewt_Walking_4: -2675343691519495456
+      ShooterNewt_Walking_5: -8157879076057753440
+      ShooterNewt_Walking_6: 7758196463909624703
+      ShooterNewt_Walking_7: -3150595484800309900
+      ShooterNewt_Walking_8: 9028604216479915965
+      ShooterNewt_Walking_9: -4912106248292635928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

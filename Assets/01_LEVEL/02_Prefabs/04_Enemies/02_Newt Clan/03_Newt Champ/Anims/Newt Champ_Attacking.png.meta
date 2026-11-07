@@ -1,0 +1,710 @@
+fileFormatVersion: 2
+guid: 97641f532f8d13d46951577219a1b12e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9007159003969542831
+    second: Newt Champ_Attacking_0
+  - first:
+      213: 6021349114268163738
+    second: Newt Champ_Attacking_1
+  - first:
+      213: 6504307683873189967
+    second: Newt Champ_Attacking_2
+  - first:
+      213: 5404376494465087171
+    second: Newt Champ_Attacking_3
+  - first:
+      213: -5693925920574449215
+    second: Newt Champ_Attacking_4
+  - first:
+      213: -4485171679547340244
+    second: Newt Champ_Attacking_5
+  - first:
+      213: -8663047208711408977
+    second: Newt Champ_Attacking_6
+  - first:
+      213: 1850899710082102589
+    second: Newt Champ_Attacking_7
+  - first:
+      213: 1862249306115591407
+    second: Newt Champ_Attacking_8
+  - first:
+      213: 8375779840956946821
+    second: Newt Champ_Attacking_9
+  - first:
+      213: 7096658044399949604
+    second: Newt Champ_Attacking_10
+  - first:
+      213: -7225896424208186944
+    second: Newt Champ_Attacking_11
+  - first:
+      213: -1244226882865449147
+    second: Newt Champ_Attacking_12
+  - first:
+      213: 7721558603592037868
+    second: Newt Champ_Attacking_13
+  - first:
+      213: 2413880016175559851
+    second: Newt Champ_Attacking_14
+  - first:
+      213: -5797112019127153085
+    second: Newt Champ_Attacking_15
+  - first:
+      213: 850339314092041614
+    second: Newt Champ_Attacking_16
+  - first:
+      213: -7107288157741195264
+    second: Newt Champ_Attacking_17
+  - first:
+      213: -1708171480505237895
+    second: Newt Champ_Attacking_18
+  - first:
+      213: 4198362639463597235
+    second: Newt Champ_Attacking_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1085
+        width: 583
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5366901, y: 0.21245737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1552fec9b94200380800000000000000
+      internalID: -9007159003969542831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1008
+        width: 543
+        height: 606
+      alignment: 9
+      pivot: {x: 0.7087825, y: 0.30233312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e1190fd11209350800000000000000
+      internalID: 6021349114268163738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1092
+        width: 898
+        height: 635
+      alignment: 9
+      pivot: {x: 0.6095721, y: 0.065455444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40fa1f8061f34a50800000000000000
+      internalID: 6504307683873189967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_3
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 1465
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ff01c9c3300b40800000000000000
+      internalID: 5404376494465087171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1098
+        width: 591
+        height: 587
+      alignment: 9
+      pivot: {x: 0.69182557, y: 0.040854044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c955cefa8c1bf0b0800000000000000
+      internalID: -5693925920574449215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_5
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 1441
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a40f3fe1871c1c0800000000000000
+      internalID: -4485171679547340244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_6
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 1434
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa23154667ca6c780800000000000000
+      internalID: -8663047208711408977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_7
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 1305
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab7e8c08c4a8f4bb5b712b8e16c63d
+      internalID: 1850899710082102589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_8
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 1260
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89614a56c44e0ee46a877ecf0bcecd7e
+      internalID: 1862249306115591407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: None
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 517
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c27b7308f0d2f47b2a627409fe77e7
+      internalID: -1578065736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_10
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 1086
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467dc29ff75447f4fbe7c92f55fea4b9
+      internalID: 7096658044399949604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_11
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 1061
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612e4194e21193944a540b998488077b
+      internalID: -7225896424208186944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 475
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb1ac3044325314bb3742fa06d34710
+      internalID: -1244226882865449147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 176
+        width: 484
+        height: 597
+      alignment: 9
+      pivot: {x: 0.44696593, y: 0.055710837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5467dca49930b4d8da8aa7a3b0ce1d
+      internalID: -1183314791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 22
+        width: 1048
+        height: 933
+      alignment: 9
+      pivot: {x: 0.39794666, y: 0.49770746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1a4e56387929142b43c9eee7d03ab1
+      internalID: 660649278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_15
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 358
+        width: 50
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35917d8a466fbb245841afcfde41cfee
+      internalID: -5797112019127153085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 436
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddb346e44618ef4a90da2d4af18c207
+      internalID: 850339314092041614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 420
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a15d5a796429d4c97e2cba31f61b9a
+      internalID: -7107288157741195264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_18
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 181
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aca1fab32b795443b5ab0da735100f6
+      internalID: -1708171480505237895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_19
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 191
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82652df5318b3b5438ae42ff8d7b9b56
+      internalID: 4198362639463597235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_20
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 142
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc9e41d1f8bb2847b7fa7f909eee873
+      internalID: 815527278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Newt Champ_Attacking_21
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 156
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144a41cc4073cb4492f146cf8301182
+      internalID: 337657495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a80d7e6654f99e54084be90a4c90b8c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      0: -9007159003969542831
+      1: 6021349114268163738
+      2: 6504307683873189967
+      3: -5693925920574449215
+      4: -1183314791
+      5: 660649278
+      Newt Champ_Attacking_10: 7096658044399949604
+      Newt Champ_Attacking_11: -7225896424208186944
+      Newt Champ_Attacking_12: -1244226882865449147
+      Newt Champ_Attacking_15: -5797112019127153085
+      Newt Champ_Attacking_16: 850339314092041614
+      Newt Champ_Attacking_17: -7107288157741195264
+      Newt Champ_Attacking_18: -1708171480505237895
+      Newt Champ_Attacking_19: 4198362639463597235
+      Newt Champ_Attacking_20: 815527278
+      Newt Champ_Attacking_21: 337657495
+      Newt Champ_Attacking_3: 5404376494465087171
+      Newt Champ_Attacking_5: -4485171679547340244
+      Newt Champ_Attacking_6: -8663047208711408977
+      Newt Champ_Attacking_7: 1850899710082102589
+      Newt Champ_Attacking_8: 1862249306115591407
+      None: -1578065736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

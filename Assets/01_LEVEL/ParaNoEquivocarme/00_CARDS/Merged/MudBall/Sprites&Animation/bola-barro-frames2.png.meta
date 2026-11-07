@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: eaf57dc0d8cbf5041a73e8e7c2183c30
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 700
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bola-barro-frames2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1836.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.4579832, y: 0.4897478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e49d14a8df5891449d8e7372f82127e
+      internalID: -869849938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_1
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1836.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.48249295, y: 0.5307581}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd84d645c7585f645bc95d41a53445da
+      internalID: 789155838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_2
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1836.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.4719891, y: 0.566642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d3a38e71d04cb4783b5c6ae51426df
+      internalID: -1105466798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_3
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1836.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dd313962c68f04da73b31b7b8e3560
+      internalID: -847219375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.44397762, y: 0.7101776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb085ed7dc1ac2478fc7edbd89191ef
+      internalID: -523643671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 918.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.49649858, y: 0.6794199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2d953a24a13434186d616d72f4c0b7
+      internalID: -830683139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_6
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 918.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.454482, y: 0.6742936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe7a2f5d7ee02a408a47fe8da245e3a
+      internalID: 620644798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_7
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 918.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.48949605, y: 0.66404116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ba661acf2dc541af67ced139c7046
+      internalID: -1363959734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_8
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 918.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.47549042, y: 0.61277825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a769ca498ae994fb15d7d2b90ce1af
+      internalID: -47384046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_9
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 918.6667
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.39145702, y: 0.6845462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d28a8b5142cf5a46a987eb7705e6090
+      internalID: -935149523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.666687
+        width: 1344.5
+        height: 918.3333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e977092a065584492c5e49569abe79
+      internalID: 583334043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_11
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0.666687
+        width: 1344.5
+        height: 918.3333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a272a698a89004485ce19ed0a81cc8
+      internalID: 230982578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_12
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0.666687
+        width: 1344.5
+        height: 918.3333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a29e61f8ad694dbf65049e75ef0f0
+      internalID: 643277939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_13
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0.666687
+        width: 1344.5
+        height: 918.3333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e5e09b19a085446858c1d150d0ad7e
+      internalID: 373759060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_14
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0.666687
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.48949605, y: 0.44873714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee6ff57834ffdb48abda9669e214f43
+      internalID: 1182199978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bola-barro-frames2_15
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0.666687
+        width: 1344.5
+        height: 918.3333
+      alignment: 9
+      pivot: {x: 0.47549078, y: 0.4589897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6b9d5fa815c344faa6bc1fa7706016
+      internalID: -1610022155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bola-barro-frames2_0: -869849938
+      bola-barro-frames2_1: 789155838
+      bola-barro-frames2_10: 583334043
+      bola-barro-frames2_11: 230982578
+      bola-barro-frames2_12: 643277939
+      bola-barro-frames2_13: 373759060
+      bola-barro-frames2_14: 1182199978
+      bola-barro-frames2_15: -1610022155
+      bola-barro-frames2_2: -1105466798
+      bola-barro-frames2_3: -847219375
+      bola-barro-frames2_4: -523643671
+      bola-barro-frames2_5: -830683139
+      bola-barro-frames2_6: 620644798
+      bola-barro-frames2_7: -1363959734
+      bola-barro-frames2_8: -47384046
+      bola-barro-frames2_9: -935149523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

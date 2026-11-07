@@ -1,0 +1,1041 @@
+fileFormatVersion: 2
+guid: 69e65532880e0764186d8faaa836f998
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9006701706023336592
+    second: ShooterNewt_Attacking_0
+  - first:
+      213: -2569420722447395330
+    second: ShooterNewt_Attacking_1
+  - first:
+      213: 2679242746568119288
+    second: ShooterNewt_Attacking_2
+  - first:
+      213: -3316111662416503558
+    second: ShooterNewt_Attacking_3
+  - first:
+      213: -7341242096636807876
+    second: ShooterNewt_Attacking_4
+  - first:
+      213: 8951455716891875802
+    second: ShooterNewt_Attacking_5
+  - first:
+      213: 5718348819112003975
+    second: ShooterNewt_Attacking_6
+  - first:
+      213: 6292956022924864025
+    second: ShooterNewt_Attacking_7
+  - first:
+      213: -425483185556594864
+    second: ShooterNewt_Attacking_8
+  - first:
+      213: 2972063322219266884
+    second: ShooterNewt_Attacking_9
+  - first:
+      213: 7375943200674033582
+    second: ShooterNewt_Attacking_10
+  - first:
+      213: -3335960560406931104
+    second: ShooterNewt_Attacking_11
+  - first:
+      213: -4990301023717503285
+    second: ShooterNewt_Attacking_12
+  - first:
+      213: -5299400687926817066
+    second: ShooterNewt_Attacking_13
+  - first:
+      213: 3365075623171273642
+    second: ShooterNewt_Attacking_14
+  - first:
+      213: 7793052883528002190
+    second: ShooterNewt_Attacking_15
+  - first:
+      213: -3561408828033516809
+    second: ShooterNewt_Attacking_16
+  - first:
+      213: 3895518059330440155
+    second: ShooterNewt_Attacking_17
+  - first:
+      213: -3306762339956944524
+    second: ShooterNewt_Attacking_18
+  - first:
+      213: 1393831030733119421
+    second: ShooterNewt_Attacking_19
+  - first:
+      213: 446107925316386389
+    second: ShooterNewt_Attacking_20
+  - first:
+      213: -3844415301842184770
+    second: ShooterNewt_Attacking_21
+  - first:
+      213: -3857550745358978941
+    second: ShooterNewt_Attacking_22
+  - first:
+      213: -7652728230366507632
+    second: ShooterNewt_Attacking_23
+  - first:
+      213: -8865864444843126547
+    second: ShooterNewt_Attacking_24
+  - first:
+      213: -3617651062161492325
+    second: ShooterNewt_Attacking_25
+  - first:
+      213: -3894243558833664086
+    second: ShooterNewt_Attacking_26
+  - first:
+      213: 3014102529329993617
+    second: ShooterNewt_Attacking_27
+  - first:
+      213: 5218349804656936856
+    second: ShooterNewt_Attacking_28
+  - first:
+      213: 1275186172462910020
+    second: ShooterNewt_Attacking_29
+  - first:
+      213: -8143792248384749317
+    second: ShooterNewt_Attacking_30
+  - first:
+      213: 7157867071532678853
+    second: ShooterNewt_Attacking_31
+  - first:
+      213: -181115160617999653
+    second: ShooterNewt_Attacking_32
+  - first:
+      213: -143933130906781
+    second: ShooterNewt_Attacking_33
+  - first:
+      213: 4550123793271620687
+    second: ShooterNewt_Attacking_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1020
+        width: 302
+        height: 220
+      alignment: 9
+      pivot: {x: 0.528362, y: 0.21881492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07503969484c10380800000000000000
+      internalID: -9006701706023336592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1088
+        width: 18
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5deff5775975cd0800000000000000
+      internalID: -2569420722447395330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1035
+        width: 315
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5453192, y: 0.14962177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f31c3035159e2520800000000000000
+      internalID: 2679242746568119288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1058
+        width: 329
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5318199, y: 0.056878954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc5226330ecaf1d0800000000000000
+      internalID: -3316111662416503558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_4
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1038
+        width: 22
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35b1db653bae1a90800000000000000
+      internalID: -7341242096636807876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 998
+        width: 293
+        height: 248
+      alignment: 9
+      pivot: {x: 0.56171465, y: 0.29661167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9daf33c85f93c70800000000000000
+      internalID: 8951455716891875802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1029
+        width: 275
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5034606, y: 0.19758962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78902f034f7ab5f40800000000000000
+      internalID: 5718348819112003975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1012
+        width: 275
+        height: 220
+      alignment: 9
+      pivot: {x: 0.5, y: 0.22746693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a679d4922155750800000000000000
+      internalID: 6292956022924864025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1052
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f5ffa0c41681af0800000000000000
+      internalID: -425483185556594864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_9
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1000
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443c8da48d3ee3920800000000000000
+      internalID: 2972063322219266884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 715
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf22a7f24d9c5660800000000000000
+      internalID: 7375943200674033582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 637
+        width: 29
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0695b348b8944b1d0800000000000000
+      internalID: -3335960560406931104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 208
+        width: 349
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcecc0f98a3eebab0800000000000000
+      internalID: -4990301023717503285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 637
+        width: 20
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de49a9d62fb476b0800000000000000
+      internalID: -5299400687926817066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_14
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 720
+        width: 25
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa33379437623be20800000000000000
+      internalID: 3365075623171273642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_15
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 592
+        width: 36
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a2586ee4c762c60800000000000000
+      internalID: 7793052883528002190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear 1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 195
+        width: 337
+        height: 673
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa3f114a85539ec0800000000000000
+      internalID: -3561408828033516809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_17
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 637
+        width: 21
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb828e1909af0630800000000000000
+      internalID: 3895518059330440155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_18
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 675
+        width: 16
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4711a3afb250c12d0800000000000000
+      internalID: -3306762339956944524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_19
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 664
+        width: 20
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf93c700f1e75310800000000000000
+      internalID: 1393831030733119421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spear 2
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 107
+        width: 315
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e38f36bc4e03600800000000000000
+      internalID: 446107925316386389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_21
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 511
+        width: 27
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5de9cc6a4e5aac0800000000000000
+      internalID: -3844415301842184770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 251
+        width: 80
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380b5d7090a377ac0800000000000000
+      internalID: -3857550745358978941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 216
+        width: 119
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d866a683c0cc590800000000000000
+      internalID: -7652728230366507632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 252
+        width: 24
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de01c52c24f16f480800000000000000
+      internalID: -8865864444843126547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 352
+        width: 20
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96bc8ea6858bcdc0800000000000000
+      internalID: -3617651062161492325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_26
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 231
+        width: 59
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafcdd6ad1ed4f9c0800000000000000
+      internalID: -3894243558833664086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_27
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 207
+        width: 72
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1971251f74e34d920800000000000000
+      internalID: 3014102529329993617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_28
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 194
+        width: 53
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8974e44df7d4b6840800000000000000
+      internalID: 5218349804656936856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 276
+        width: 28
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a4420511f52b110800000000000000
+      internalID: 1275186172462910020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_30
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 148
+        width: 47
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0827609107bfe80800000000000000
+      internalID: -8143792248384749317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_31
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 371
+        width: 58
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cebb247d2ad55360800000000000000
+      internalID: 7157867071532678853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_32
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 189
+        width: 29
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd22de398bc8c7df0800000000000000
+      internalID: -181115160617999653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_33
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 110
+        width: 98
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3636cd4f71d7ffff0800000000000000
+      internalID: -143933130906781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShooterNewt_Attacking_34
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 160
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44020e7b79452f30800000000000000
+      internalID: 4550123793271620687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7600832fbfa08f643a91ceca4209f883
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      0: -9006701706023336592
+      1: 2679242746568119288
+      2: -3316111662416503558
+      3: 8951455716891875802
+      4: 5718348819112003975
+      5: 6292956022924864025
+      ShooterNewt_Attacking_1: -2569420722447395330
+      ShooterNewt_Attacking_10: 7375943200674033582
+      ShooterNewt_Attacking_11: -3335960560406931104
+      ShooterNewt_Attacking_13: -5299400687926817066
+      ShooterNewt_Attacking_14: 3365075623171273642
+      ShooterNewt_Attacking_15: 7793052883528002190
+      ShooterNewt_Attacking_17: 3895518059330440155
+      ShooterNewt_Attacking_18: -3306762339956944524
+      ShooterNewt_Attacking_19: 1393831030733119421
+      ShooterNewt_Attacking_21: -3844415301842184770
+      ShooterNewt_Attacking_22: -3857550745358978941
+      ShooterNewt_Attacking_23: -7652728230366507632
+      ShooterNewt_Attacking_24: -8865864444843126547
+      ShooterNewt_Attacking_25: -3617651062161492325
+      ShooterNewt_Attacking_26: -3894243558833664086
+      ShooterNewt_Attacking_27: 3014102529329993617
+      ShooterNewt_Attacking_28: 5218349804656936856
+      ShooterNewt_Attacking_29: 1275186172462910020
+      ShooterNewt_Attacking_30: -8143792248384749317
+      ShooterNewt_Attacking_31: 7157867071532678853
+      ShooterNewt_Attacking_32: -181115160617999653
+      ShooterNewt_Attacking_33: -143933130906781
+      ShooterNewt_Attacking_34: 4550123793271620687
+      ShooterNewt_Attacking_4: -7341242096636807876
+      ShooterNewt_Attacking_8: -425483185556594864
+      ShooterNewt_Attacking_9: 2972063322219266884
+      Spear: -4990301023717503285
+      Spear 1: -3561408828033516809
+      Spear 2: 446107925316386389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

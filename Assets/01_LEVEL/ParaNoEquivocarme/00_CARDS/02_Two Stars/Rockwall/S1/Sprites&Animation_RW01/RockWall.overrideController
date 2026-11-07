@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RockWall
+  m_Controller: {fileID: 9100000, guid: abf7574e2629f8240b0df537e892e8e0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 65521915918e3ef4eb21c6909f1dde11, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 87e9c901a18ada549970affb8e301917, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3e614fc0d46bb6642b105dc6855fd7c1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5a1e0e1f17d9a0d459e8e96f38a54d5f, type: 2}

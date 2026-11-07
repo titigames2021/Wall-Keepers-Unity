@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cerberus Anmtor
+  m_Controller: {fileID: 9100000, guid: e2539ee7ddc83784abcf5c924eec109c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4554cc4a467c51748a7db2cfb23b482a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 68593d603af2f5d42babe5dd224365f8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a1fec743a37d21b41834a0543d92d0cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cbbb0fff0039a8f4bacd62ec19ef7ab6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f5b87446124a9ba4ba3e8965aa44dae8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5fbff6687e1e14747b15fe4fbd7bb242, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7699dc97d06f1644085d8cbf4d23fe23, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ffbc06ee1e050994fbf12d51885e710c, type: 2}

@@ -1,0 +1,2260 @@
+fileFormatVersion: 2
+guid: f2c4fa2207ae013459bed9cf27e843d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3376034147642376795
+    second: Swrimp Dm_Defeated_0
+  - first:
+      213: -8061583740907646261
+    second: Swrimp Dm_Defeated_1
+  - first:
+      213: -2924218890836025378
+    second: Swrimp Dm_Defeated_2
+  - first:
+      213: -4999894917628763277
+    second: Swrimp Dm_Defeated_3
+  - first:
+      213: -1660861902956180245
+    second: Swrimp Dm_Defeated_4
+  - first:
+      213: 346969894935435712
+    second: Swrimp Dm_Defeated_5
+  - first:
+      213: 4927927702495030531
+    second: Swrimp Dm_Defeated_6
+  - first:
+      213: 6717379259209848416
+    second: Swrimp Dm_Defeated_7
+  - first:
+      213: 4981375475638667925
+    second: Swrimp Dm_Defeated_8
+  - first:
+      213: 9128438832715393274
+    second: Swrimp Dm_Defeated_9
+  - first:
+      213: -144843323168862988
+    second: Swrimp Dm_Defeated_10
+  - first:
+      213: -4239329018566764874
+    second: Swrimp Dm_Defeated_11
+  - first:
+      213: 6871826237618359865
+    second: Swrimp Dm_Defeated_12
+  - first:
+      213: 5396621034437546828
+    second: Swrimp Dm_Defeated_13
+  - first:
+      213: 6818031754952704724
+    second: Swrimp Dm_Defeated_14
+  - first:
+      213: -2537364054652555897
+    second: Swrimp Dm_Defeated_15
+  - first:
+      213: 4269630939518334651
+    second: Swrimp Dm_Defeated_16
+  - first:
+      213: -3723165106784487215
+    second: Swrimp Dm_Defeated_17
+  - first:
+      213: -3222014653669229261
+    second: Swrimp Dm_Defeated_18
+  - first:
+      213: -6424634309481603794
+    second: Swrimp Dm_Defeated_19
+  - first:
+      213: 6092259994607771877
+    second: Swrimp Dm_Defeated_20
+  - first:
+      213: -8899241056708278249
+    second: Swrimp Dm_Defeated_21
+  - first:
+      213: -8499983892119169551
+    second: Swrimp Dm_Defeated_22
+  - first:
+      213: 185562790212175139
+    second: Swrimp Dm_Defeated_23
+  - first:
+      213: 4429712329185307727
+    second: Swrimp Dm_Defeated_24
+  - first:
+      213: 1578259753836074320
+    second: Swrimp Dm_Defeated_25
+  - first:
+      213: 6112153252411716384
+    second: Swrimp Dm_Defeated_26
+  - first:
+      213: 4502562568165175075
+    second: Swrimp Dm_Defeated_27
+  - first:
+      213: 1776675078787581832
+    second: Swrimp Dm_Defeated_28
+  - first:
+      213: -741143435272304392
+    second: Swrimp Dm_Defeated_29
+  - first:
+      213: 7064680443647593729
+    second: Swrimp Dm_Defeated_30
+  - first:
+      213: 7673694310773816534
+    second: Swrimp Dm_Defeated_31
+  - first:
+      213: 5599789202078068055
+    second: Swrimp Dm_Defeated_32
+  - first:
+      213: -139029735817146453
+    second: Swrimp Dm_Defeated_33
+  - first:
+      213: 7150090400785410110
+    second: Swrimp Dm_Defeated_34
+  - first:
+      213: -287628406806342187
+    second: Swrimp Dm_Defeated_35
+  - first:
+      213: -5595179649231320732
+    second: Swrimp Dm_Defeated_36
+  - first:
+      213: 7599379016592972374
+    second: Swrimp Dm_Defeated_37
+  - first:
+      213: -7994290384912808369
+    second: Swrimp Dm_Defeated_38
+  - first:
+      213: 8548843579241169973
+    second: Swrimp Dm_Defeated_39
+  - first:
+      213: -1308822626371056990
+    second: Swrimp Dm_Defeated_40
+  - first:
+      213: -7003660613307270844
+    second: Swrimp Dm_Defeated_41
+  - first:
+      213: 4180721353837450872
+    second: Swrimp Dm_Defeated_42
+  - first:
+      213: -8601298670767306475
+    second: Swrimp Dm_Defeated_43
+  - first:
+      213: 3678726592125995572
+    second: Swrimp Dm_Defeated_44
+  - first:
+      213: 3100705609710995667
+    second: Swrimp Dm_Defeated_45
+  - first:
+      213: -4123991258835078610
+    second: Swrimp Dm_Defeated_46
+  - first:
+      213: 1467791353731396037
+    second: Swrimp Dm_Defeated_47
+  - first:
+      213: -2065607128635722742
+    second: Swrimp Dm_Defeated_48
+  - first:
+      213: -153542102265842866
+    second: Swrimp Dm_Defeated_49
+  - first:
+      213: 2764342426610394649
+    second: Swrimp Dm_Defeated_50
+  - first:
+      213: 4690818631808973842
+    second: Swrimp Dm_Defeated_51
+  - first:
+      213: -1768462737945496878
+    second: Swrimp Dm_Defeated_52
+  - first:
+      213: 3403373359539268365
+    second: Swrimp Dm_Defeated_53
+  - first:
+      213: 1848621118995553814
+    second: Swrimp Dm_Defeated_54
+  - first:
+      213: -7104965046590883752
+    second: Swrimp Dm_Defeated_55
+  - first:
+      213: 2037163777532250099
+    second: Swrimp Dm_Defeated_56
+  - first:
+      213: -1872543842836094278
+    second: Swrimp Dm_Defeated_57
+  - first:
+      213: 32696891986177574
+    second: Swrimp Dm_Defeated_58
+  - first:
+      213: 1797938219906352577
+    second: Swrimp Dm_Defeated_59
+  - first:
+      213: 5545229961747574072
+    second: Swrimp Dm_Defeated_60
+  - first:
+      213: 365704678582828194
+    second: Swrimp Dm_Defeated_61
+  - first:
+      213: -4358750772378514708
+    second: Swrimp Dm_Defeated_62
+  - first:
+      213: -4634727172822127322
+    second: Swrimp Dm_Defeated_63
+  - first:
+      213: 6339659427815396420
+    second: Swrimp Dm_Defeated_64
+  - first:
+      213: -215593726883540089
+    second: Swrimp Dm_Defeated_65
+  - first:
+      213: -2161107752419672477
+    second: Swrimp Dm_Defeated_66
+  - first:
+      213: -6120690160341674689
+    second: Swrimp Dm_Defeated_67
+  - first:
+      213: 7919272911106964913
+    second: Swrimp Dm_Defeated_68
+  - first:
+      213: -7687205836963353515
+    second: Swrimp Dm_Defeated_69
+  - first:
+      213: 3848130654858258967
+    second: Swrimp Dm_Defeated_70
+  - first:
+      213: -3446684857475691831
+    second: Swrimp Dm_Defeated_71
+  - first:
+      213: 2624339020390217659
+    second: Swrimp Dm_Defeated_72
+  - first:
+      213: -9136492193875347101
+    second: Swrimp Dm_Defeated_73
+  - first:
+      213: 1401397115194628519
+    second: Swrimp Dm_Defeated_74
+  - first:
+      213: -3158263342917546762
+    second: Swrimp Dm_Defeated_75
+  - first:
+      213: -5445552970317330267
+    second: Swrimp Dm_Defeated_76
+  - first:
+      213: -338671267653573358
+    second: Swrimp Dm_Defeated_77
+  - first:
+      213: 5772960047687882892
+    second: Swrimp Dm_Defeated_78
+  - first:
+      213: -1020491759911723039
+    second: Swrimp Dm_Defeated_79
+  - first:
+      213: -1630354749968889519
+    second: Swrimp Dm_Defeated_80
+  - first:
+      213: -7050277276806465939
+    second: Swrimp Dm_Defeated_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 799
+        width: 279
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adff2864dae521d0800000000000000
+      internalID: -3376034147642376795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 799
+        width: 316
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2922cbc408f1090800000000000000
+      internalID: -8061583740907646261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 799
+        width: 303
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf5b3679661b67d0800000000000000
+      internalID: -2924218890836025378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1037
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373e470201ecc9ab0800000000000000
+      internalID: -4999894917628763277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 792
+        width: 302
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec415d16ee63f8e0800000000000000
+      internalID: -1660861902956180245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_5
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1037
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99167f74fa0d400800000000000000
+      internalID: 346969894935435712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 791
+        width: 302
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30de50ad224836440800000000000000
+      internalID: 4927927702495030531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_7
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1037
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06697c698dce83d50800000000000000
+      internalID: 6717379259209848416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_8
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 799
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a09464a96612540800000000000000
+      internalID: 4981375475638667925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 440
+        width: 303
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8e1e9f0cabeae70800000000000000
+      internalID: 9128438832715393274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 706
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcce66d3c96dfdf0800000000000000
+      internalID: -144843323168862988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_11
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 723
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b69252f7b0ea25c0800000000000000
+      internalID: -4239329018566764874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 442
+        width: 302
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e837bfd81ad5f50800000000000000
+      internalID: 6871826237618359865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 707
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c431d010d36a4ea40800000000000000
+      internalID: 5396621034437546828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 725
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d20a45f1c38e9e50800000000000000
+      internalID: 6818031754952704724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 440
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78de698f5d879ccd0800000000000000
+      internalID: -2537364054652555897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_16
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 708
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f100d7b6c04b30800000000000000
+      internalID: 4269630939518334651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_17
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 725
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d83bf1cf09a45cc0800000000000000
+      internalID: -3723165106784487215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 443
+        width: 303
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d31f25eba1943d0800000000000000
+      internalID: -3222014653669229261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 442
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ddf8b722d17d6a0800000000000000
+      internalID: -6424634309481603794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_20
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 707
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e06be9df2e0c8450800000000000000
+      internalID: 6092259994607771877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_21
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 725
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c45cb86b8f7480800000000000000
+      internalID: -8899241056708278249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 327
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5d1b95fadf90a80800000000000000
+      internalID: -8499983892119169551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 254
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3258022ef50439200800000000000000
+      internalID: 185562790212175139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_24
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 204
+        width: 191
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c224ec4ef797d30800000000000000
+      internalID: 4429712329185307727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 274
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d1b652ea17e510800000000000000
+      internalID: 1578259753836074320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 345
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023bfbedffab2d450800000000000000
+      internalID: 6112153252411716384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_27
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 330
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fa476dcc05c7e30800000000000000
+      internalID: 4502562568165175075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_28
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 336
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8874c68229408a810800000000000000
+      internalID: 1776675078787581832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_29
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 323
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f84bfce8fde6b5f0800000000000000
+      internalID: -741143435272304392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_30
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 323
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d8347ee69ca0260800000000000000
+      internalID: 7064680443647593729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_31
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 315
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcfb9491507e7a60800000000000000
+      internalID: 7673694310773816534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_32
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 305
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d6eee3c9276bd40800000000000000
+      internalID: 5599789202078068055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_33
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 204
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf076f1131121ef0800000000000000
+      internalID: -139029735817146453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 301
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38aeb236593a3360800000000000000
+      internalID: 7150090400785410110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_35
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 306
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d51ff8ec73220cf0800000000000000
+      internalID: -287628406806342187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 155
+        width: 56
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4698219e0cde952b0800000000000000
+      internalID: -5595179649231320732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 250
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ad49dc3fa667960800000000000000
+      internalID: 7599379016592972374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_38
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 260
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4683ff10439e0190800000000000000
+      internalID: -7994290384912808369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 275
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5348c0d01f793a670800000000000000
+      internalID: 8548843579241169973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 281
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aac82971c026dde0800000000000000
+      internalID: -1308822626371056990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_41
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 227
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449fc6877cffdce90800000000000000
+      internalID: -7003660613307270844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_42
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 209
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761f50cbe7e40a30800000000000000
+      internalID: 4180721353837450872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 238
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51900e93e6c02a880800000000000000
+      internalID: -8601298670767306475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_44
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 224
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a047548567d0330800000000000000
+      internalID: 3678726592125995572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_45
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 235
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d882e3e25be70b20800000000000000
+      internalID: 3100705609710995667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_46
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 211
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22b158ccc3a4c6c0800000000000000
+      internalID: -4123991258835078610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_47
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 194
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1bc83a574ae5410800000000000000
+      internalID: 1467791353731396037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_48
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 159
+        width: 12
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a043724b24d7553e0800000000000000
+      internalID: -2065607128635722742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 184
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43b06085428eddf0800000000000000
+      internalID: -153542102265842866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 169
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91667a77acaec5620800000000000000
+      internalID: 2764342426610394649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_51
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 194
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf1ce41b2291140800000000000000
+      internalID: 4690818631808973842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 76
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d27e3272882577e0800000000000000
+      internalID: -1768462737945496878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 59
+        width: 121
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bad55e9063b3f20800000000000000
+      internalID: 3403373359539268365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 172
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ed3020d1f97a910800000000000000
+      internalID: 1848621118995553814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_55
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 159
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85832601fe7166d90800000000000000
+      internalID: -7104965046590883752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_56
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 162
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f74a1d89a5754c10800000000000000
+      internalID: 2037163777532250099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_57
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 157
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e86dcb436306e0800000000000000
+      internalID: -1872543842836094278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_58
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 140
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e681866a9247000800000000000000
+      internalID: 32696891986177574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 115
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5cd9df84f83f810800000000000000
+      internalID: 1797938219906352577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_60
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 107
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d21d3354d94fc40800000000000000
+      internalID: 5545229961747574072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_61
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 100
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acb0a3b77e331500800000000000000
+      internalID: 365704678582828194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 154
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea4be3244b9283c0800000000000000
+      internalID: -4358750772378514708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_63
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 155
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d261131342eafb0800000000000000
+      internalID: -4634727172822127322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_64
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 63
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44494ef19aefaf750800000000000000
+      internalID: 6339659427815396420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_65
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 104
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783dd4dc5ae020df0800000000000000
+      internalID: -215593726883540089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_66
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 113
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ebeaff2f33202e0800000000000000
+      internalID: -2161107752419672477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_67
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 116
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f351b9c5ab0fe0ba0800000000000000
+      internalID: -6120690160341674689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_68
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 57
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd77e921c8e6ed60800000000000000
+      internalID: 7919272911106964913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 94
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6d74150f815590800000000000000
+      internalID: -7687205836963353515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 89
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a2e1c317e476530800000000000000
+      internalID: 3848130654858258967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_71
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 93
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca8179226aea20d0800000000000000
+      internalID: -3446684857475691831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_72
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 82
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb73e884f668b6420800000000000000
+      internalID: 2624339020390217659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_73
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 80
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3693ee2c1c8a43180800000000000000
+      internalID: -9136492193875347101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_74
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 76
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9de685043c27310800000000000000
+      internalID: 1401397115194628519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_75
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc034a09389b24d0800000000000000
+      internalID: -3158263342917546762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_76
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 63
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a889aedc628d64b0800000000000000
+      internalID: -5445552970317330267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_77
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 67
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215a0e3c64ccc4bf0800000000000000
+      internalID: -338671267653573358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_78
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 72
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8855f0b39cad1050800000000000000
+      internalID: 5772960047687882892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_79
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 66
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef9f32b62c76d1f0800000000000000
+      internalID: -1020491759911723039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_80
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 68
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159cb3e2ef0df59e0800000000000000
+      internalID: -1630354749968889519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swrimp Dm_Defeated_81
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 61
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6631f3bb22682e90800000000000000
+      internalID: -7050277276806465939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 58
+        width: 301
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0af11f5ed03ed4293ef11d4dfa7fea
+      internalID: -427232467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 60
+        width: 300
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8372df24f68554499961ca7e9c06f8
+      internalID: -633563840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b6cf14da30a2d124dbbf7c45d43481b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1: -3376034147642376795
+      10: -6424634309481603794
+      11: -427232467
+      12: -633563840
+      2: -8061583740907646261
+      3: -2924218890836025378
+      4: -1660861902956180245
+      5: 4927927702495030531
+      6: 9128438832715393274
+      7: 6871826237618359865
+      8: -2537364054652555897
+      9: -3222014653669229261
+      Swrimp Dm_Defeated_10: -144843323168862988
+      Swrimp Dm_Defeated_11: -4239329018566764874
+      Swrimp Dm_Defeated_13: 5396621034437546828
+      Swrimp Dm_Defeated_14: 6818031754952704724
+      Swrimp Dm_Defeated_16: 4269630939518334651
+      Swrimp Dm_Defeated_17: -3723165106784487215
+      Swrimp Dm_Defeated_20: 6092259994607771877
+      Swrimp Dm_Defeated_21: -8899241056708278249
+      Swrimp Dm_Defeated_22: -8499983892119169551
+      Swrimp Dm_Defeated_23: 185562790212175139
+      Swrimp Dm_Defeated_24: 4429712329185307727
+      Swrimp Dm_Defeated_25: 1578259753836074320
+      Swrimp Dm_Defeated_26: 6112153252411716384
+      Swrimp Dm_Defeated_27: 4502562568165175075
+      Swrimp Dm_Defeated_28: 1776675078787581832
+      Swrimp Dm_Defeated_29: -741143435272304392
+      Swrimp Dm_Defeated_3: -4999894917628763277
+      Swrimp Dm_Defeated_30: 7064680443647593729
+      Swrimp Dm_Defeated_31: 7673694310773816534
+      Swrimp Dm_Defeated_32: 5599789202078068055
+      Swrimp Dm_Defeated_33: -139029735817146453
+      Swrimp Dm_Defeated_34: 7150090400785410110
+      Swrimp Dm_Defeated_35: -287628406806342187
+      Swrimp Dm_Defeated_36: -5595179649231320732
+      Swrimp Dm_Defeated_37: 7599379016592972374
+      Swrimp Dm_Defeated_38: -7994290384912808369
+      Swrimp Dm_Defeated_39: 8548843579241169973
+      Swrimp Dm_Defeated_40: -1308822626371056990
+      Swrimp Dm_Defeated_41: -7003660613307270844
+      Swrimp Dm_Defeated_42: 4180721353837450872
+      Swrimp Dm_Defeated_43: -8601298670767306475
+      Swrimp Dm_Defeated_44: 3678726592125995572
+      Swrimp Dm_Defeated_45: 3100705609710995667
+      Swrimp Dm_Defeated_46: -4123991258835078610
+      Swrimp Dm_Defeated_47: 1467791353731396037
+      Swrimp Dm_Defeated_48: -2065607128635722742
+      Swrimp Dm_Defeated_49: -153542102265842866
+      Swrimp Dm_Defeated_5: 346969894935435712
+      Swrimp Dm_Defeated_50: 2764342426610394649
+      Swrimp Dm_Defeated_51: 4690818631808973842
+      Swrimp Dm_Defeated_52: -1768462737945496878
+      Swrimp Dm_Defeated_53: 3403373359539268365
+      Swrimp Dm_Defeated_54: 1848621118995553814
+      Swrimp Dm_Defeated_55: -7104965046590883752
+      Swrimp Dm_Defeated_56: 2037163777532250099
+      Swrimp Dm_Defeated_57: -1872543842836094278
+      Swrimp Dm_Defeated_58: 32696891986177574
+      Swrimp Dm_Defeated_59: 1797938219906352577
+      Swrimp Dm_Defeated_60: 5545229961747574072
+      Swrimp Dm_Defeated_61: 365704678582828194
+      Swrimp Dm_Defeated_62: -4358750772378514708
+      Swrimp Dm_Defeated_63: -4634727172822127322
+      Swrimp Dm_Defeated_64: 6339659427815396420
+      Swrimp Dm_Defeated_65: -215593726883540089
+      Swrimp Dm_Defeated_66: -2161107752419672477
+      Swrimp Dm_Defeated_67: -6120690160341674689
+      Swrimp Dm_Defeated_68: 7919272911106964913
+      Swrimp Dm_Defeated_69: -7687205836963353515
+      Swrimp Dm_Defeated_7: 6717379259209848416
+      Swrimp Dm_Defeated_70: 3848130654858258967
+      Swrimp Dm_Defeated_71: -3446684857475691831
+      Swrimp Dm_Defeated_72: 2624339020390217659
+      Swrimp Dm_Defeated_73: -9136492193875347101
+      Swrimp Dm_Defeated_74: 1401397115194628519
+      Swrimp Dm_Defeated_75: -3158263342917546762
+      Swrimp Dm_Defeated_76: -5445552970317330267
+      Swrimp Dm_Defeated_77: -338671267653573358
+      Swrimp Dm_Defeated_78: 5772960047687882892
+      Swrimp Dm_Defeated_79: -1020491759911723039
+      Swrimp Dm_Defeated_8: 4981375475638667925
+      Swrimp Dm_Defeated_80: -1630354749968889519
+      Swrimp Dm_Defeated_81: -7050277276806465939
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

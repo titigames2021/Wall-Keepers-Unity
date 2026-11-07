@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Newt Champ
+  m_Controller: {fileID: 9100000, guid: e2539ee7ddc83784abcf5c924eec109c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4554cc4a467c51748a7db2cfb23b482a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b7b623894f597a64782babd7d18192bc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a1fec743a37d21b41834a0543d92d0cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20e3536767b793a4eb99ba979bf89d04, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f5b87446124a9ba4ba3e8965aa44dae8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b45a05dd3cdce3a4d8bc02d454ad4108, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7699dc97d06f1644085d8cbf4d23fe23, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c772d423fa603a349b0b22394579a5eb, type: 2}

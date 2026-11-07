@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095fe339d410b2b4fb3ae82e354c45cc, type: 3}
+  m_Name: 11_WolfMan
+  m_EditorClassIdentifier: 
+  sprite_bestiary: {fileID: 1168412101, guid: 825b698c6def9824b80840fe5d210629, type: 3}
+  i_id: 11
+  i_hp: 750
+  i_dmg: 500
+  f_speed: 0.5
+  f_RageOfAction: 1
+  f_projectailSpeed: 0
+  i_manaEnergyReleased: 10
+  Description: 'Wolfmans are really strong and tough but the are not as fast as their
+    siblings from the Fang Clan.
+
+
+    Size: medium'
+  deathClip: {fileID: 0}
+  e_Clan: 3
+  e_ElementalType: 1
+  e_size: 1

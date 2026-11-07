@@ -1,0 +1,986 @@
+fileFormatVersion: 2
+guid: 339c991e035bece44ba206d153f2409f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4696442967090558653
+    second: bola-barro-frames2_0
+  - first:
+      213: -7773534887872227617
+    second: bola-barro-frames2_1
+  - first:
+      213: -2049311462484924847
+    second: bola-barro-frames2_2
+  - first:
+      213: 718523729020946462
+    second: bola-barro-frames2_3
+  - first:
+      213: 3541784200340791128
+    second: bola-barro-frames2_4
+  - first:
+      213: -2977010336916819244
+    second: bola-barro-frames2_5
+  - first:
+      213: -9072650134658226969
+    second: bola-barro-frames2_6
+  - first:
+      213: 6029861448987688878
+    second: bola-barro-frames2_7
+  - first:
+      213: 391481316933830788
+    second: bola-barro-frames2_8
+  - first:
+      213: -6553932326968160251
+    second: bola-barro-frames2_9
+  - first:
+      213: 5194809573291319697
+    second: bola-barro-frames2_10
+  - first:
+      213: 365637290117217792
+    second: bola-barro-frames2_11
+  - first:
+      213: 876675684116928876
+    second: bola-barro-frames2_12
+  - first:
+      213: 8279743008534907516
+    second: bola-barro-frames2_13
+  - first:
+      213: 8184890178750434818
+    second: bola-barro-frames2_14
+  - first:
+      213: -7812016830347702093
+    second: bola-barro-frames2_15
+  - first:
+      213: -8056117772233818223
+    second: bola-barro-frames2_16
+  - first:
+      213: -1219193620813070664
+    second: bola-barro-frames2_17
+  - first:
+      213: -2430349814914006614
+    second: bola-barro-frames2_18
+  - first:
+      213: 7146620944668393014
+    second: bola-barro-frames2_19
+  - first:
+      213: -7124576183598271622
+    second: bola-barro-frames2_20
+  - first:
+      213: -1745685914241568559
+    second: bola-barro-frames2_21
+  - first:
+      213: 1405719817722538251
+    second: bola-barro-frames2_22
+  - first:
+      213: 7585122171763539559
+    second: bola-barro-frames2_23
+  - first:
+      213: 718073794248957680
+    second: bola-barro-frames2_24
+  - first:
+      213: 9168038730555795098
+    second: bola-barro-frames2_25
+  - first:
+      213: 9118105912284839776
+    second: bola-barro-frames2_26
+  - first:
+      213: -9048513293605859337
+    second: bola-barro-frames2_27
+  - first:
+      213: -9088979814872931169
+    second: bola-barro-frames2_28
+  - first:
+      213: -2000095828922783724
+    second: bola-barro-frames2_29
+  - first:
+      213: -7035885797898224489
+    second: bola-barro-frames2_30
+  - first:
+      213: 7878799769707864823
+    second: bola-barro-frames2_31
+  - first:
+      213: -3285003863374478202
+    second: bola-barro-frames2_32
+  - first:
+      213: 5894180313292410812
+    second: bola-barro-frames2_33
+  - first:
+      213: -9152138399734362122
+    second: bola-barro-frames2_34
+  - first:
+      213: 2728396204860702768
+    second: bola-barro-frames2_35
+  - first:
+      213: 761455537473538775
+    second: bola-barro-frames2_36
+  - first:
+      213: 5748058053273929111
+    second: bola-barro-frames2_37
+  - first:
+      213: -8184883419256403957
+    second: bola-barro-frames2_38
+  - first:
+      213: 1592890922206588366
+    second: bola-barro-frames2_39
+  - first:
+      213: -1718937345838931419
+    second: bola-barro-frames2_40
+  - first:
+      213: -6611180692536085322
+    second: bola-barro-frames2_41
+  - first:
+      213: 936058659113449729
+    second: bola-barro-frames2_42
+  - first:
+      213: -3415254662306107375
+    second: bola-barro-frames2_43
+  - first:
+      213: -8766673664672746908
+    second: bola-barro-frames2_44
+  - first:
+      213: 1767941913298504948
+    second: bola-barro-frames2_45
+  - first:
+      213: -3278829854361100429
+    second: bola-barro-frames2_46
+  - first:
+      213: 627577999005157999
+    second: bola-barro-frames2_47
+  - first:
+      213: 6818033787458158624
+    second: bola-barro-frames2_48
+  - first:
+      213: 6666633856045183325
+    second: bola-barro-frames2_49
+  - first:
+      213: -8778672343408300312
+    second: bola-barro-frames2_50
+  - first:
+      213: -2918968225802728257
+    second: bola-barro-frames2_51
+  - first:
+      213: -124997956047102751
+    second: bola-barro-frames2_52
+  - first:
+      213: -8034538577282385903
+    second: bola-barro-frames2_53
+  - first:
+      213: 6369824070734290426
+    second: bola-barro-frames2_54
+  - first:
+      213: -5209882965559977631
+    second: bola-barro-frames2_55
+  - first:
+      213: -5985860060434154224
+    second: bola-barro-frames2_56
+  - first:
+      213: 6741808389493032901
+    second: bola-barro-frames2_57
+  - first:
+      213: -2978310922528226733
+    second: bola-barro-frames2_58
+  - first:
+      213: 1056539512846059112
+    second: bola-barro-frames2_59
+  - first:
+      213: -4670582143567451082
+    second: bola-barro-frames2_60
+  - first:
+      213: -3753567047798091924
+    second: bola-barro-frames2_61
+  - first:
+      213: -8612114539894650472
+    second: bola-barro-frames2_62
+  - first:
+      213: 2626769789980435018
+    second: bola-barro-frames2_63
+  - first:
+      213: 6809867985013454015
+    second: bola-barro-frames2_64
+  - first:
+      213: 6528168201793870039
+    second: bola-barro-frames2_65
+  - first:
+      213: -4837207605335123672
+    second: bola-barro-frames2_66
+  - first:
+      213: -7636607795429540508
+    second: bola-barro-frames2_67
+  - first:
+      213: 8134199435175740890
+    second: bola-barro-frames2_68
+  - first:
+      213: -8123260159658946247
+    second: bola-barro-frames2_69
+  - first:
+      213: 3906545278121862653
+    second: bola-barro-frames2_70
+  - first:
+      213: 4457987352821258252
+    second: bola-barro-frames2_71
+  - first:
+      213: 293254427722813389
+    second: bola-barro-frames2_72
+  - first:
+      213: -2861159831895198866
+    second: bola-barro-frames2_73
+  - first:
+      213: 5185323807017166051
+    second: bola-barro-frames2_74
+  - first:
+      213: 8597263033404028229
+    second: bola-barro-frames2_75
+  - first:
+      213: -8400793182533678231
+    second: bola-barro-frames2_76
+  - first:
+      213: 2194132601706858238
+    second: bola-barro-frames2_77
+  - first:
+      213: 1024765761218444107
+    second: bola-barro-frames2_78
+  - first:
+      213: 3283210490266183393
+    second: bola-barro-frames2_79
+  - first:
+      213: -978151547219729382
+    second: bola-barro-frames2_80
+  - first:
+      213: 2547545516941413312
+    second: bola-barro-frames2_81
+  - first:
+      213: -2053961089069361866
+    second: bola-barro-frames2_82
+  - first:
+      213: -2735135618575088291
+    second: bola-barro-frames2_83
+  - first:
+      213: -9052566001735545212
+    second: bola-barro-frames2_84
+  - first:
+      213: 8645740790531979830
+    second: bola-barro-frames2_85
+  - first:
+      213: 6037137293909599644
+    second: bola-barro-frames2_86
+  - first:
+      213: 6908293936017965535
+    second: bola-barro-frames2_87
+  - first:
+      213: -1082544950538467146
+    second: bola-barro-frames2_88
+  - first:
+      213: -9104064879538531956
+    second: bola-barro-frames2_89
+  - first:
+      213: -2494076270658608457
+    second: bola-barro-frames2_90
+  - first:
+      213: -1836240577676002110
+    second: bola-barro-frames2_91
+  - first:
+      213: -41318733410668327
+    second: bola-barro-frames2_92
+  - first:
+      213: 1747764264998778054
+    second: bola-barro-frames2_93
+  - first:
+      213: 4901857464793953317
+    second: bola-barro-frames2_94
+  - first:
+      213: 2442146514845878314
+    second: bola-barro-frames2_95
+  - first:
+      213: -6276655996854318091
+    second: bola-barro-frames2_96
+  - first:
+      213: 6215090975592889535
+    second: bola-barro-frames2_97
+  - first:
+      213: -5392824818898430224
+    second: bola-barro-frames2_98
+  - first:
+      213: -3888657305410274052
+    second: bola-barro-frames2_99
+  - first:
+      213: -3453137433759726189
+    second: bola-barro-frames2_100
+  - first:
+      213: -8523836000278412636
+    second: bola-barro-frames2_101
+  - first:
+      213: 7161759770891050759
+    second: bola-barro-frames2_102
+  - first:
+      213: 3259004056783750398
+    second: bola-barro-frames2_103
+  - first:
+      213: 5317357672543601592
+    second: bola-barro-frames2_104
+  - first:
+      213: 2669627813995836650
+    second: bola-barro-frames2_105
+  - first:
+      213: -1163081567723997330
+    second: bola-barro-frames2_106
+  - first:
+      213: -258505114386093248
+    second: bola-barro-frames2_107
+  - first:
+      213: -1587209793246529560
+    second: bola-barro-frames2_108
+  - first:
+      213: -6267587221931693703
+    second: bola-barro-frames2_109
+  - first:
+      213: 8964606363414719279
+    second: bola-barro-frames2_110
+  - first:
+      213: 324102041937568819
+    second: bola-barro-frames2_111
+  - first:
+      213: -8464939230532384836
+    second: bola-barro-frames2_112
+  - first:
+      213: 1003598700922784716
+    second: bola-barro-frames2_113
+  - first:
+      213: 2493886093073395265
+    second: bola-barro-frames2_114
+  - first:
+      213: 8823921949064639953
+    second: bola-barro-frames2_115
+  - first:
+      213: 1579124061242213779
+    second: bola-barro-frames2_116
+  - first:
+      213: -700055274000574832
+    second: bola-barro-frames2_117
+  - first:
+      213: -7361273037592595350
+    second: bola-barro-frames2_118
+  - first:
+      213: -4298354303577973046
+    second: bola-barro-frames2_119
+  - first:
+      213: -2325310439199984708
+    second: bola-barro-frames2_120
+  - first:
+      213: -6934387575174393073
+    second: bola-barro-frames2_121
+  - first:
+      213: 7571481631843285264
+    second: bola-barro-frames2_122
+  - first:
+      213: -6453146728513142382
+    second: bola-barro-frames2_123
+  - first:
+      213: -7063948789475060242
+    second: bola-barro-frames2_124
+  - first:
+      213: 1408641536890375974
+    second: bola-barro-frames2_125
+  - first:
+      213: 1508228732316480905
+    second: bola-barro-frames2_126
+  - first:
+      213: 761484278048315711
+    second: bola-barro-frames2_127
+  - first:
+      213: -6834197363647518247
+    second: bola-barro-frames2_128
+  - first:
+      213: 4865131417131717977
+    second: bola-barro-frames2_129
+  - first:
+      213: 406361177297882226
+    second: bola-barro-frames2_130
+  - first:
+      213: 177053704419900297
+    second: bola-barro-frames2_131
+  - first:
+      213: 3177492263913725708
+    second: bola-barro-frames2_132
+  - first:
+      213: 5975161175706670081
+    second: bola-barro-frames2_133
+  - first:
+      213: 127684049441469405
+    second: bola-barro-frames2_134
+  - first:
+      213: 1979409621379166904
+    second: bola-barro-frames2_135
+  - first:
+      213: 2381793273488884270
+    second: bola-barro-frames2_136
+  - first:
+      213: -4248946728171545701
+    second: bola-barro-frames2_137
+  - first:
+      213: 1846501645810144537
+    second: bola-barro-frames2_138
+  - first:
+      213: 4168586928943420248
+    second: bola-barro-frames2_139
+  - first:
+      213: 6200382650668692907
+    second: bola-barro-frames2_140
+  - first:
+      213: -8633800412410940217
+    second: bola-barro-frames2_141
+  - first:
+      213: 721822895062081249
+    second: bola-barro-frames2_142
+  - first:
+      213: 4468068224610815693
+    second: bola-barro-frames2_143
+  - first:
+      213: -3774287495709369388
+    second: bola-barro-frames2_144
+  - first:
+      213: -4240300854205757554
+    second: bola-barro-frames2_145
+  - first:
+      213: 1257178603807292112
+    second: bola-barro-frames2_146
+  - first:
+      213: 152552692316159416
+    second: bola-barro-frames2_147
+  - first:
+      213: -2531243506155862350
+    second: bola-barro-frames2_148
+  - first:
+      213: 9140158585175154075
+    second: bola-barro-frames2_149
+  - first:
+      213: 4251682392364462632
+    second: bola-barro-frames2_150
+  - first:
+      213: -562962372914502283
+    second: bola-barro-frames2_151
+  - first:
+      213: 4352563293385505147
+    second: bola-barro-frames2_152
+  - first:
+      213: 7973247441260726785
+    second: bola-barro-frames2_153
+  - first:
+      213: 566027465343455066
+    second: bola-barro-frames2_154
+  - first:
+      213: 1056428107213428353
+    second: bola-barro-frames2_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1837
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.44348186, y: 0.49482837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fd1011f994be545bc3538b7b552060
+      internalID: -232724781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1837
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.4788058, y: 0.5310295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d4cac5346a30e4ebb71024b093fe01
+      internalID: -2014601000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1828
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.48233813, y: 0.54654443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b09c0182a2122f408f23ba9060da376
+      internalID: 1133857686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1837
+        width: 1344
+        height: 918
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0845e116dc0afc40ae7c796071a3d8d
+      internalID: 1285728583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.454079, y: 0.64997643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03bc04ab5646474ba6f5b7864c88201
+      internalID: 731845931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 919
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.49646768, y: 0.6396331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cedfaaa8cad8143971b37d253fa46d
+      internalID: -1048312616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 919
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.46467626, y: 0.6448048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba97ea4a10548446bdbe30481bbdacd
+      internalID: -296238799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 919
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.4682083, y: 0.68100595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b92fbe56be96f54f9e2bbe966bec4b8
+      internalID: 1116358418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 919
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.46114385, y: 0.66549116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc387801e942b848839697eb3012261
+      internalID: 300386543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 919
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.40109363, y: 0.64997643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7cc21c5996d8a4094ea1b7ab05c87b
+      internalID: 146334677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.46820855, y: 0.5310296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9946ef78967254bb6f57f50ee41e70
+      internalID: 1362560364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1
+        width: 1344
+        height: 918
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb82b80cf1af784693e903e4d7c5004
+      internalID: -1325259869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1
+        width: 1344
+        height: 918
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e541191498e92444697d2ea23325a8e0
+      internalID: 803779746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 1
+        width: 1344
+        height: 918
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab782b18818ff6647a4dcc182210eec8
+      internalID: -1830206045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.48587072, y: 0.44828394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf597dd059bf290429e3ca75e6ab335f
+      internalID: 1114601541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalMudBall-SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 1
+        width: 1344
+        height: 918
+      alignment: 9
+      pivot: {x: 0.46820867, y: 0.46897036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50709272cd82d17438dffd3de42a6643
+      internalID: 2011567740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 40cd0d1d1153aa94699d0febbf49395e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FinalMudBall-SpriteSheet_0: -232724781
+      FinalMudBall-SpriteSheet_1: -2014601000
+      FinalMudBall-SpriteSheet_10: 1362560364
+      FinalMudBall-SpriteSheet_11: -1325259869
+      FinalMudBall-SpriteSheet_12: 803779746
+      FinalMudBall-SpriteSheet_13: -1830206045
+      FinalMudBall-SpriteSheet_14: 1114601541
+      FinalMudBall-SpriteSheet_15: 2011567740
+      FinalMudBall-SpriteSheet_2: 1133857686
+      FinalMudBall-SpriteSheet_3: 1285728583
+      FinalMudBall-SpriteSheet_4: 731845931
+      FinalMudBall-SpriteSheet_5: -1048312616
+      FinalMudBall-SpriteSheet_6: -296238799
+      FinalMudBall-SpriteSheet_7: 1116358418
+      FinalMudBall-SpriteSheet_8: 300386543
+      FinalMudBall-SpriteSheet_9: 146334677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

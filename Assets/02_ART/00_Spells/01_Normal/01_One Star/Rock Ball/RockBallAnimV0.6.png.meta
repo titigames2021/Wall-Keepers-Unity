@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: cfcfcff7648083544b0a09688d2d4334
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5288064407473804209
+    second: RockBallAnimV0.6_0
+  - first:
+      213: -818645299948256717
+    second: RockBallAnimV0.6_1
+  - first:
+      213: 3811336043817356065
+    second: RockBallAnimV0.6_2
+  - first:
+      213: -2840595759191505627
+    second: RockBallAnimV0.6_3
+  - first:
+      213: -910671040138829175
+    second: RockBallAnimV0.6_4
+  - first:
+      213: 5328597402256459497
+    second: RockBallAnimV0.6_5
+  - first:
+      213: 8090383779413639154
+    second: RockBallAnimV0.6_6
+  - first:
+      213: -3074844226176888535
+    second: RockBallAnimV0.6_7
+  - first:
+      213: 8177418809926849657
+    second: RockBallAnimV0.6_8
+  - first:
+      213: 8748040668379865287
+    second: RockBallAnimV0.6_9
+  - first:
+      213: 2136245928671775697
+    second: RockBallAnimV0.6_10
+  - first:
+      213: -8933097203387539753
+    second: RockBallAnimV0.6_11
+  - first:
+      213: -1692786932369215576
+    second: RockBallAnimV0.6_12
+  - first:
+      213: 925204989297772377
+    second: RockBallAnimV0.6_13
+  - first:
+      213: -8894851743003907844
+    second: RockBallAnimV0.6_14
+  - first:
+      213: 570096062319768291
+    second: RockBallAnimV0.6_15
+  - first:
+      213: 1659889364511945352
+    second: RockBallAnimV0.6_16
+  - first:
+      213: 4903914121119582925
+    second: RockBallAnimV0.6_17
+  - first:
+      213: 7834740164349494407
+    second: RockBallAnimV0.6_18
+  - first:
+      213: 7268246503926095758
+    second: RockBallAnimV0.6_19
+  - first:
+      213: -7270031829294797000
+    second: RockBallAnimV0.6_20
+  - first:
+      213: -4830492878254065154
+    second: RockBallAnimV0.6_21
+  - first:
+      213: -5629565832437234850
+    second: RockBallAnimV0.6_22
+  - first:
+      213: -6935558025543008340
+    second: RockBallAnimV0.6_23
+  - first:
+      213: 3672678761262781225
+    second: RockBallAnimV0.6_24
+  - first:
+      213: 6935966552598898082
+    second: RockBallAnimV0.6_25
+  - first:
+      213: -4813953133871256375
+    second: RockBallAnimV0.6_26
+  - first:
+      213: -3291374352694878173
+    second: RockBallAnimV0.6_27
+  - first:
+      213: -7460978149955618062
+    second: RockBallAnimV0.6_28
+  - first:
+      213: -7999466904442161481
+    second: RockBallAnimV0.6_29
+  - first:
+      213: -7751986065622112768
+    second: RockBallAnimV0.6_30
+  - first:
+      213: -6688961107727609372
+    second: RockBallAnimV0.6_31
+  - first:
+      213: -4756705239720210768
+    second: RockBallAnimV0.6_32
+  - first:
+      213: 7113340132229459921
+    second: RockBallAnimV0.6_33
+  - first:
+      213: -4311163392785511630
+    second: RockBallAnimV0.6_34
+  - first:
+      213: 2641326021436544822
+    second: RockBallAnimV0.6_35
+  - first:
+      213: 7565497241156435189
+    second: RockBallAnimV0.6_36
+  - first:
+      213: -7689295945259363227
+    second: RockBallAnimV0.6_37
+  - first:
+      213: 1824161834933078885
+    second: RockBallAnimV0.6_38
+  - first:
+      213: 6929609316562738567
+    second: RockBallAnimV0.6_39
+  - first:
+      213: 7710621240930262008
+    second: RockBallAnimV0.6_40
+  - first:
+      213: 7195611763010910629
+    second: RockBallAnimV0.6_41
+  - first:
+      213: -8305352946496047659
+    second: RockBallAnimV0.6_42
+  - first:
+      213: -257745228948118120
+    second: RockBallAnimV0.6_43
+  - first:
+      213: 737693203980265050
+    second: RockBallAnimV0.6_44
+  - first:
+      213: -5696636582222859275
+    second: RockBallAnimV0.6_45
+  - first:
+      213: -318251194850928081
+    second: RockBallAnimV0.6_46
+  - first:
+      213: -4514002381917732656
+    second: RockBallAnimV0.6_47
+  - first:
+      213: -9052155317129656657
+    second: RockBallAnimV0.6_48
+  - first:
+      213: -5751377966008034763
+    second: RockBallAnimV0.6_49
+  - first:
+      213: -9186761168603333099
+    second: RockBallAnimV0.6_50
+  - first:
+      213: 4462079150007725826
+    second: RockBallAnimV0.6_51
+  - first:
+      213: -7600767980574206398
+    second: RockBallAnimV0.6_52
+  - first:
+      213: 1716346459216130753
+    second: RockBallAnimV0.6_53
+  - first:
+      213: 3266483227164229823
+    second: RockBallAnimV0.6_54
+  - first:
+      213: 6024682413394522704
+    second: RockBallAnimV0.6_55
+  - first:
+      213: 7894352026340432072
+    second: RockBallAnimV0.6_56
+  - first:
+      213: -5935310162837208109
+    second: RockBallAnimV0.6_57
+  - first:
+      213: -8219501087962999868
+    second: RockBallAnimV0.6_58
+  - first:
+      213: -8927395442117870175
+    second: RockBallAnimV0.6_59
+  - first:
+      213: 3147891237965971581
+    second: RockBallAnimV0.6_60
+  - first:
+      213: 4144193569373634753
+    second: RockBallAnimV0.6_61
+  - first:
+      213: 4376958889630383843
+    second: RockBallAnimV0.6_62
+  - first:
+      213: 2197105035462011269
+    second: RockBallAnimV0.6_63
+  - first:
+      213: 3433008093769422211
+    second: RockBallAnimV0.6_64
+  - first:
+      213: -8797288971235087458
+    second: RockBallAnimV0.6_65
+  - first:
+      213: -1566194361991699050
+    second: RockBallAnimV0.6_66
+  - first:
+      213: -476492016549536400
+    second: RockBallAnimV0.6_67
+  - first:
+      213: -3542861036020770525
+    second: RockBallAnimV0.6_68
+  - first:
+      213: 1064814589360891914
+    second: RockBallAnimV0.6_69
+  - first:
+      213: -5052555022943269068
+    second: RockBallAnimV0.6_70
+  - first:
+      213: 2357055197651227253
+    second: RockBallAnimV0.6_71
+  - first:
+      213: 4059988243875695333
+    second: RockBallAnimV0.6_72
+  - first:
+      213: -8055769718937605102
+    second: RockBallAnimV0.6_73
+  - first:
+      213: -4445307818984029768
+    second: RockBallAnimV0.6_74
+  - first:
+      213: -2333419397557127220
+    second: RockBallAnimV0.6_75
+  - first:
+      213: 1883526185591799696
+    second: RockBallAnimV0.6_76
+  - first:
+      213: 2226030159342815608
+    second: RockBallAnimV0.6_77
+  - first:
+      213: 7267638212670835667
+    second: RockBallAnimV0.6_78
+  - first:
+      213: 9140977053920110581
+    second: RockBallAnimV0.6_79
+  - first:
+      213: 4648331077241490107
+    second: RockBallAnimV0.6_80
+  - first:
+      213: -4199846324061692748
+    second: RockBallAnimV0.6_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ae1bfb88d8714cb0aaecede2de212
+      internalID: -1272262709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e1b51065c1e54d9afe094eea011b9
+      internalID: -1344175998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066d9fd4d9cad1c44943245a03bec4d3
+      internalID: -835295911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e387ef797f3f5594dacb88023ff9e2f0
+      internalID: -1571509245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.5082391, y: 0.34656867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f1d8fff59b6354eb50f86f53d934a9
+      internalID: -1939025917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.51647824, y: 0.56768984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7723026f8c34f44d84a71cc4679f89b
+      internalID: 1884497030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fcc06d56365de4ea0a63f3d411c4bc
+      internalID: 714546579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.51647776, y: 0.5270757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b146d5fc1dff7a44fa9ff959b7966799
+      internalID: 603467198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_8
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 262
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.50823826, y: 0.5270757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfe57d1e93d07b4fb8c793c9ffddd05
+      internalID: -1454450347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.52471745, y: 0.56769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef329f58a72d6c449faf1f8bd24f395
+      internalID: 152850890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.50823903, y: 0.5722027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc25d7632539b604e9e61ddadf3b623d
+      internalID: 1461171856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.516478, y: 0.5496393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ec68e7319b3040be1d84a6fb7bffa
+      internalID: -2139699457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_12
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.50411916, y: 0.5451266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6a77d489c3a184d9e7fbdba36d3c29
+      internalID: 458474175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_13
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.49999914, y: 0.5451266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1fe2b4df1c32b4c88c9e0c075ce6f8
+      internalID: 1575863755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_14
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.50823826, y: 0.5451266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58113e06b1e6f7749ae79ab818082f12
+      internalID: 1414669822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockBallAnimV0.6_15
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 287
+        height: 262
+      alignment: 9
+      pivot: {x: 0.50823826, y: 0.5451266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d932a72bf427a541b4013f6ca711648
+      internalID: -375542166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ffad951afda124d4e8be7f458f92c733
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RockBallAnimV0.6_0: -1272262709
+      RockBallAnimV0.6_1: -1344175998
+      RockBallAnimV0.6_10: 1461171856
+      RockBallAnimV0.6_11: -2139699457
+      RockBallAnimV0.6_12: 458474175
+      RockBallAnimV0.6_13: 1575863755
+      RockBallAnimV0.6_14: 1414669822
+      RockBallAnimV0.6_15: -375542166
+      RockBallAnimV0.6_2: -835295911
+      RockBallAnimV0.6_3: -1571509245
+      RockBallAnimV0.6_4: -1939025917
+      RockBallAnimV0.6_5: 1884497030
+      RockBallAnimV0.6_6: 714546579
+      RockBallAnimV0.6_7: 603467198
+      RockBallAnimV0.6_8: -1454450347
+      RockBallAnimV0.6_9: 152850890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

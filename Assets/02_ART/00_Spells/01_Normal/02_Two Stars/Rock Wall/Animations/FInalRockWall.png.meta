@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 2b2ea9686dd59604ab6c3584c4a50f25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 943473963813257340
+    second: rockwall-anim2_0
+  - first:
+      213: 3816264044775179709
+    second: rockwall-anim2_1
+  - first:
+      213: -1883653302500862678
+    second: rockwall-anim2_2
+  - first:
+      213: -9124596430073817526
+    second: rockwall-anim2_3
+  - first:
+      213: -3478102486276741214
+    second: rockwall-anim2_4
+  - first:
+      213: 127311463458991747
+    second: rockwall-anim2_5
+  - first:
+      213: 6094458922421483302
+    second: rockwall-anim2_6
+  - first:
+      213: -2092393992459344561
+    second: rockwall-anim2_7
+  - first:
+      213: -1524705644073504110
+    second: rockwall-anim2_8
+  - first:
+      213: -7988178043103794334
+    second: rockwall-anim2_9
+  - first:
+      213: -1076061874922613779
+    second: rockwall-anim2_10
+  - first:
+      213: 8141126508527238663
+    second: rockwall-anim2_11
+  - first:
+      213: -3650559198951952255
+    second: rockwall-anim2_12
+  - first:
+      213: 4761572386588166051
+    second: rockwall-anim2_13
+  - first:
+      213: 7447175698413302699
+    second: rockwall-anim2_14
+  - first:
+      213: -856535566083750456
+    second: rockwall-anim2_15
+  - first:
+      213: 6237452992769675600
+    second: rockwall-anim2_16
+  - first:
+      213: -7923338283506262754
+    second: rockwall-anim2_17
+  - first:
+      213: -8921721544569996085
+    second: rockwall-anim2_18
+  - first:
+      213: 7605984606070698119
+    second: rockwall-anim2_19
+  - first:
+      213: 6224693062532026703
+    second: rockwall-anim2_20
+  - first:
+      213: -262808462593418188
+    second: rockwall-anim2_21
+  - first:
+      213: -2515585891540594583
+    second: rockwall-anim2_22
+  - first:
+      213: -4807668169731413683
+    second: rockwall-anim2_23
+  - first:
+      213: 2911308725650298844
+    second: rockwall-anim2_24
+  - first:
+      213: 9137778439872292113
+    second: rockwall-anim2_25
+  - first:
+      213: 8695363180487582064
+    second: rockwall-anim2_26
+  - first:
+      213: 6028338622202483658
+    second: rockwall-anim2_27
+  - first:
+      213: -206020519945523174
+    second: rockwall-anim2_28
+  - first:
+      213: 946051287152380032
+    second: rockwall-anim2_29
+  - first:
+      213: -676057860799775457
+    second: rockwall-anim2_30
+  - first:
+      213: 7698398234877732544
+    second: rockwall-anim2_31
+  - first:
+      213: -2205622157019625045
+    second: rockwall-anim2_32
+  - first:
+      213: -9092334718479080553
+    second: rockwall-anim2_33
+  - first:
+      213: -4589950968674700654
+    second: rockwall-anim2_34
+  - first:
+      213: 6593406892913728062
+    second: rockwall-anim2_35
+  - first:
+      213: -1774893939380271397
+    second: rockwall-anim2_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FInalRockWall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1667
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db732ec615ae970489a115249ef2a4c6
+      internalID: -1894496615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_1
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1667
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b49b8fe3cdcd24c9111e68999c8433
+      internalID: -1141183967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_2
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1667
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c929069c01818459ac20b231defb1b
+      internalID: -1099280702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1667
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb1b9e472a6d294a9b5c799ef03bd9d
+      internalID: 8152044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d0237ea9e442c47aacda6eb259994d
+      internalID: -1536486244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 834
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec4a3de33d9174ca54be7020035ca7
+      internalID: -494036837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_6
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 834
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06fb59b96a82274ebae1cd87c67c7b5
+      internalID: 1884205089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_7
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 834
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0391e5b0220ed3943a6b45e9525b9706
+      internalID: 44625232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76f132b8518b1498c083bf556131a8
+      internalID: -23221412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381a013a5b656e48b75bad89a121957
+      internalID: 928127949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851ba1638ef9ee4da9bab06501bc3bc
+      internalID: 2097723725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FInalRockWall_11
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1
+        width: 2000
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f37a589a3be79a43b83b64c8061be63
+      internalID: -1170580032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5939db21ed6a4504f96dcef3916b13d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FInalRockWall_0: -1894496615
+      FInalRockWall_1: -1141183967
+      FInalRockWall_10: 2097723725
+      FInalRockWall_11: -1170580032
+      FInalRockWall_2: -1099280702
+      FInalRockWall_3: 8152044
+      FInalRockWall_4: -1536486244
+      FInalRockWall_5: -494036837
+      FInalRockWall_6: 1884205089
+      FInalRockWall_7: 44625232
+      FInalRockWall_8: -23221412
+      FInalRockWall_9: 928127949
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

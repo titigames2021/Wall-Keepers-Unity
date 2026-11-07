@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LStorm_Preview
+  m_Controller: {fileID: 9100000, guid: 20fb9342a19f14d4080eefd198cd6ec0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cc3ef46b097527147b77e7b036211561, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 163f9b7ffd0f3c64f80ddb06b32fd456, type: 2}

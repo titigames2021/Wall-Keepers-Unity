@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 37bfc545a7cd3c548934d2b3224935d6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 55
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2666.6665
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.5682892, y: 0.564171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82cbc1c8b70a6c4fba5889df8d23b77
+      internalID: -181495962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_1
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2666.6665
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.5097556, y: 0.41443852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f61a119ada045498c7992d563c5eba
+      internalID: -1018321171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_2
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2666.6665
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.5146334, y: 0.3894831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2231790fea7ac34e8ea09f562bc6934
+      internalID: -1391433571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_3
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 2666.6665
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.49024415, y: 0.25401068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58cb8b0422c1104aa2f8bb8d8d430a0
+      internalID: 657102807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_4
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 2666.6665
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.4414664, y: 0.16488409}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcffe50fcb985a4da23bda68175d3de
+      internalID: 934648196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_5
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 2666.6665
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.43171078, y: 0.23975042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab488db5c216704ea9a737eadb2592f
+      internalID: -821134055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_6
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 2666.6665
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.4658554, y: 0.23975042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56536d4978087a643b89f8c0538c9b0a
+      internalID: 1520224012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_7
+      rect:
+        serializedVersion: 2
+        x: 6818
+        y: 2666.6665
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.5487775, y: 0.26470587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c75c9f7e04927a4a98373acaedc4b96
+      internalID: 1317045986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1333.6666
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.59267825, y: 0.2326201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b80787ccd213fb4ba8f06bd3bc0a07c
+      internalID: -970103159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_9
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1333.6666
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.36829948, y: 0.23618518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31787be5b2dc24248803f3e60e8d0612
+      internalID: 513253940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_10
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1333.6666
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.38293275, y: 0.25757554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc9b4ec5a61b9244aa23b7cd0a36984
+      internalID: -645947088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_11
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 1333.6666
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.3585435, y: 0.2147948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd332e6f284484a972979365cf9f3a
+      internalID: 228933759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_12
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 1333.6666
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.4414664, y: 0.22192492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ced7b31760710241b3f60703fbce439
+      internalID: -108352645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_13
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 1333.6666
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.36342156, y: 0.19696948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f39b50d5f69845b9ce85f981b8b62
+      internalID: -176538400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_14
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 1338
+        width: 974
+        height: 1333
+      alignment: 9
+      pivot: {x: 0.4951197, y: 0.28960857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b519dcfb6c456479051706409c43f0
+      internalID: -1709431620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_15
+      rect:
+        serializedVersion: 2
+        x: 6818
+        y: 1333.6666
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.56341094, y: 0.31105152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be17c5069fdcb428d9e8de957747ba
+      internalID: -512715751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.666626
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.3926884, y: 0.21836007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2141edc52c7e34449c3ee9ee6e0e0e7
+      internalID: 1459958281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_17
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 974
+        height: 1333
+      alignment: 9
+      pivot: {x: 0.46095756, y: 0.43581268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf6ad14e30e1d9499245e11839a934c
+      internalID: 181000674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_18
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 0.666626
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.2561099, y: 0.122103386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71e0fd97446a9d4da8c981e8c3fd09b
+      internalID: -1534766343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_19
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 0.666626
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.5731668, y: 0.21836007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb238ec7b3bdf64081cb54054b5bcee
+      internalID: 668542103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_20
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 0.666626
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.57804483, y: 0.36452764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567957c0ceb25634684074b4ed775d8e
+      internalID: -802846083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_21
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 0.666626
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.58292264, y: 0.4108734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fc9dd019806f24781b729e19c3d47d
+      internalID: -2066938450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tornado-AnimFinal_22
+      rect:
+        serializedVersion: 2
+        x: 5844
+        y: 0.666626
+        width: 974.5
+        height: 1333.3334
+      alignment: 9
+      pivot: {x: 0.524389, y: 0.45721924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9497a9ec44f84faa86a81f5d74e25
+      internalID: 625868452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tornado-AnimFinal_0: -181495962
+      Tornado-AnimFinal_1: -1018321171
+      Tornado-AnimFinal_10: -645947088
+      Tornado-AnimFinal_11: 228933759
+      Tornado-AnimFinal_12: -108352645
+      Tornado-AnimFinal_13: -176538400
+      Tornado-AnimFinal_14: -1709431620
+      Tornado-AnimFinal_15: -512715751
+      Tornado-AnimFinal_16: 1459958281
+      Tornado-AnimFinal_17: 181000674
+      Tornado-AnimFinal_18: -1534766343
+      Tornado-AnimFinal_19: 668542103
+      Tornado-AnimFinal_2: -1391433571
+      Tornado-AnimFinal_20: -802846083
+      Tornado-AnimFinal_21: -2066938450
+      Tornado-AnimFinal_22: 625868452
+      Tornado-AnimFinal_3: 657102807
+      Tornado-AnimFinal_4: 934648196
+      Tornado-AnimFinal_5: -821134055
+      Tornado-AnimFinal_6: 1520224012
+      Tornado-AnimFinal_7: 1317045986
+      Tornado-AnimFinal_8: -970103159
+      Tornado-AnimFinal_9: 513253940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67a28c5053d354cbc9b5d80ae0aaa875, type: 3}
+  m_Name: S3_Water Arrows_36
+  m_EditorClassIdentifier: 
+  i_id: 36
+  Description: Pulls enemies in area to its center while dealing burn damage.
+  e_spellType: 1
+  i_spellStarsTier: 3
+  i_mana_cost: 3
+  f_dmg: 275
+  f_duration: 0
+  f_projectileSpeed: 6
+  f_resistance: 0
+  requiredElementalRune: {fileID: 11400000, guid: fed4aaf3e278ee447868e6cf2800cc52, type: 2}
+  _card_Sprite: {fileID: 21300000, guid: a2478ddead45fb743a9e13f1f9ac44dc, type: 3}
+  _onField_Sprite: {fileID: 1909578519830951322, guid: d6cb27bb78b5f9d4c9467e12887cd8f5, type: 3}
+  spellPrefab: {fileID: 8552923680335254868, guid: 91d16e3320ba3ac43830eec412d54ea1, type: 3}
+  castClip: {fileID: 8300000, guid: 2b1df6e9228a48e46804c2ab22c37c9f, type: 3}
+  impactClip: {fileID: 0}
+  i_starLevel: 3
+  spr_spellRequiredCard_1: {fileID: 21300000, guid: e532fb3743b17cd448dbbde580d4ac71, type: 3}
+  spr_spellRequiredCard_2: {fileID: 21300000, guid: 09369eac6d36dfd40b47a18c5a0170cc, type: 3}
+  i_spellRequired_1_Id: 3
+  i_spellRequired_2_Id: 7
+  f_slowDown_value: 0
+  f_attackInterval: 0.5
+  f_repeatingDmgCoolDown: 0.5
+  e_CastingType: 1
+  e_Effect: 1
+  e_Element: 3
+  e_2Element: 4
+  b_isMerged: 1
+  fusionSprite1: {fileID: 21300000, guid: e532fb3743b17cd448dbbde580d4ac71, type: 3}
+  fusionSprite2: {fileID: 21300000, guid: 09369eac6d36dfd40b47a18c5a0170cc, type: 3}
+  fusionSprite3: {fileID: 0}
+  fusionSprite4: {fileID: 0}
+  fusionSprite5: {fileID: 0}
+  b_canAwake: 0
+  i_awakenLevel: 1

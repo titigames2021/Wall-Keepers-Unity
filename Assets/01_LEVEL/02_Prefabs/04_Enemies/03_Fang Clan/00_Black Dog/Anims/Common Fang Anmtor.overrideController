@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Common Fang Anmtor
+  m_Controller: {fileID: 9100000, guid: e2539ee7ddc83784abcf5c924eec109c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 4554cc4a467c51748a7db2cfb23b482a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6a7c423a28462ab4bb9ff8aeead1d065, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a1fec743a37d21b41834a0543d92d0cc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c0118c91393e9c04d898466688e37c47, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f5b87446124a9ba4ba3e8965aa44dae8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 17b0d657c90e09e4794f89896b2d3ac3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7699dc97d06f1644085d8cbf4d23fe23, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 27b589c05e1abdc4880c62d97ae3b117, type: 2}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67a28c5053d354cbc9b5d80ae0aaa875, type: 3}
+  m_Name: S3_Magmaball_12
+  m_EditorClassIdentifier: 
+  i_id: 12
+  Description: Deals damage at impact to hitted enemies and leaves a magma lake that
+    deals 25% damage to enemies inside it.
+  e_spellType: 1
+  i_spellStarsTier: 3
+  i_mana_cost: 3
+  f_dmg: 300
+  f_duration: 1.5
+  f_projectileSpeed: 4
+  f_resistance: 0
+  requiredElementalRune: {fileID: 11400000, guid: fbe28b66f306cc74c909847eba3cdf2f, type: 2}
+  _card_Sprite: {fileID: 21300000, guid: 2c1052c07e243c047aa1a8187c591c91, type: 3}
+  _onField_Sprite: {fileID: 6585663717174138110, guid: 03ce541a0ef925949b9f6ce96b8b1537, type: 3}
+  spellPrefab: {fileID: 0}
+  castClip: {fileID: 8300000, guid: f290d89f6a37c7a4c89db7b41dc627d2, type: 3}
+  impactClip: {fileID: 8300000, guid: 007b853fea379b34c8a399e20987d432, type: 3}
+  i_starLevel: 3
+  spr_spellRequiredCard_1: {fileID: 21300000, guid: 98c5e5e3d84daae42b3aea85d9a6c1c6, type: 3}
+  spr_spellRequiredCard_2: {fileID: 21300000, guid: 56e43086f278d9c45b61663d5a1f7345, type: 3}
+  i_spellRequired_1_Id: 1
+  i_spellRequired_2_Id: 2
+  f_slowDown_value: 0
+  f_attackInterval: 1.3
+  f_repeatingDmgCoolDown: 1.5
+  e_CastingType: 1
+  e_Effect: 3
+  e_Element: 1
+  e_2Element: 0
+  b_isMerged: 1
+  fusionSprite1: {fileID: 21300000, guid: 025795bce8e06b642a1523fe07280593, type: 3}
+  fusionSprite2: {fileID: 21300000, guid: 56e43086f278d9c45b61663d5a1f7345, type: 3}
+  fusionSprite3: {fileID: 0}
+  fusionSprite4: {fileID: 0}
+  fusionSprite5: {fileID: 0}
+  b_canAwake: 0
+  i_awakenLevel: 1

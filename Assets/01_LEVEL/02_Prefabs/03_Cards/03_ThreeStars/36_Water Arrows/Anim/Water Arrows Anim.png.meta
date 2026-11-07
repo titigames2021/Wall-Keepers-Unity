@@ -1,0 +1,2330 @@
+fileFormatVersion: 2
+guid: 7f243bcad8e72f642a8e8884cb1a75a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -833561966611018310
+    second: Water Arrows Anim_0
+  - first:
+      213: 3679957608805175351
+    second: Water Arrows Anim_1
+  - first:
+      213: 7786765417598916984
+    second: Water Arrows Anim_2
+  - first:
+      213: -569001580713655978
+    second: Water Arrows Anim_3
+  - first:
+      213: 8809687615360194088
+    second: Water Arrows Anim_4
+  - first:
+      213: -6278243560689509759
+    second: Water Arrows Anim_5
+  - first:
+      213: 6072296463639940427
+    second: Water Arrows Anim_6
+  - first:
+      213: 2842679270907782816
+    second: Water Arrows Anim_7
+  - first:
+      213: 7059877765284195227
+    second: Water Arrows Anim_8
+  - first:
+      213: -1296926487908257516
+    second: Water Arrows Anim_9
+  - first:
+      213: 3475113876458133134
+    second: Water Arrows Anim_10
+  - first:
+      213: 2090930172871774583
+    second: Water Arrows Anim_11
+  - first:
+      213: 6783080827738675234
+    second: Water Arrows Anim_12
+  - first:
+      213: 4773791297261368190
+    second: Water Arrows Anim_13
+  - first:
+      213: -3547577450748214064
+    second: Water Arrows Anim_14
+  - first:
+      213: -8441230358398851267
+    second: Water Arrows Anim_15
+  - first:
+      213: -3981639780931898053
+    second: Water Arrows Anim_16
+  - first:
+      213: -618328822370374867
+    second: Water Arrows Anim_17
+  - first:
+      213: -3800363061460707694
+    second: Water Arrows Anim_18
+  - first:
+      213: 2689147918387603529
+    second: Water Arrows Anim_19
+  - first:
+      213: 1088075983395916594
+    second: Water Arrows Anim_20
+  - first:
+      213: 3924032779857789897
+    second: Water Arrows Anim_21
+  - first:
+      213: 7383798297987268570
+    second: Water Arrows Anim_22
+  - first:
+      213: 7115203402681151641
+    second: Water Arrows Anim_23
+  - first:
+      213: -7424483715350901933
+    second: Water Arrows Anim_24
+  - first:
+      213: 2177233751714274229
+    second: Water Arrows Anim_25
+  - first:
+      213: -6113209021481984684
+    second: Water Arrows Anim_26
+  - first:
+      213: 2286936731571873425
+    second: Water Arrows Anim_27
+  - first:
+      213: 5174392510725052466
+    second: Water Arrows Anim_28
+  - first:
+      213: 8336366508404128053
+    second: Water Arrows Anim_29
+  - first:
+      213: 5103805399970398670
+    second: Water Arrows Anim_30
+  - first:
+      213: 5958369930928579982
+    second: Water Arrows Anim_31
+  - first:
+      213: -8190090158644359
+    second: Water Arrows Anim_32
+  - first:
+      213: -5811476182470546497
+    second: Water Arrows Anim_33
+  - first:
+      213: -5258265237096127857
+    second: Water Arrows Anim_34
+  - first:
+      213: 2769448442624862867
+    second: Water Arrows Anim_35
+  - first:
+      213: 7418092138096667901
+    second: Water Arrows Anim_36
+  - first:
+      213: 7756426786012723874
+    second: Water Arrows Anim_37
+  - first:
+      213: 5761316197399978768
+    second: Water Arrows Anim_38
+  - first:
+      213: 6455943620650840566
+    second: Water Arrows Anim_39
+  - first:
+      213: -2635902136014181346
+    second: Water Arrows Anim_40
+  - first:
+      213: -7658569864404782818
+    second: Water Arrows Anim_41
+  - first:
+      213: -7358323263724885744
+    second: Water Arrows Anim_42
+  - first:
+      213: 5568555679994734496
+    second: Water Arrows Anim_43
+  - first:
+      213: 8981215820510851380
+    second: Water Arrows Anim_44
+  - first:
+      213: 1895316752199608543
+    second: Water Arrows Anim_45
+  - first:
+      213: 3212571739155839920
+    second: Water Arrows Anim_46
+  - first:
+      213: 716839862814135013
+    second: Water Arrows Anim_47
+  - first:
+      213: 5723768759391747107
+    second: Water Arrows Anim_48
+  - first:
+      213: 8478412042934284667
+    second: Water Arrows Anim_49
+  - first:
+      213: -659843023191700494
+    second: Water Arrows Anim_50
+  - first:
+      213: -3198008527400270893
+    second: Water Arrows Anim_51
+  - first:
+      213: -6903657975541893783
+    second: Water Arrows Anim_52
+  - first:
+      213: 8973312131500165320
+    second: Water Arrows Anim_53
+  - first:
+      213: 6235687106774041900
+    second: Water Arrows Anim_54
+  - first:
+      213: -464117064092280710
+    second: Water Arrows Anim_55
+  - first:
+      213: -5012099777327535197
+    second: Water Arrows Anim_56
+  - first:
+      213: 4736637324862742611
+    second: Water Arrows Anim_57
+  - first:
+      213: 8747440334158934713
+    second: Water Arrows Anim_58
+  - first:
+      213: -5445712427894327907
+    second: Water Arrows Anim_59
+  - first:
+      213: -891993754183399288
+    second: Water Arrows Anim_60
+  - first:
+      213: 2572094922460196394
+    second: Water Arrows Anim_61
+  - first:
+      213: 6111539731028756207
+    second: Water Arrows Anim_62
+  - first:
+      213: -1147968300359697056
+    second: Water Arrows Anim_63
+  - first:
+      213: 2711993960579605812
+    second: Water Arrows Anim_64
+  - first:
+      213: 8625375456639076866
+    second: Water Arrows Anim_65
+  - first:
+      213: 7152939490950478382
+    second: Water Arrows Anim_66
+  - first:
+      213: 3499950281268717395
+    second: Water Arrows Anim_67
+  - first:
+      213: -3093738002525357128
+    second: Water Arrows Anim_68
+  - first:
+      213: 884321440929796874
+    second: Water Arrows Anim_69
+  - first:
+      213: 5121538115215808937
+    second: Water Arrows Anim_70
+  - first:
+      213: -3011029244629866625
+    second: Water Arrows Anim_71
+  - first:
+      213: 3180610397921459411
+    second: Water Arrows Anim_72
+  - first:
+      213: 6712065803016396581
+    second: Water Arrows Anim_73
+  - first:
+      213: 7455326486716190705
+    second: Water Arrows Anim_74
+  - first:
+      213: 8263505726895913307
+    second: Water Arrows Anim_75
+  - first:
+      213: -2533007795715321137
+    second: Water Arrows Anim_76
+  - first:
+      213: -6627480212233315328
+    second: Water Arrows Anim_77
+  - first:
+      213: 8627534002277313305
+    second: Water Arrows Anim_78
+  - first:
+      213: 4563647780884314519
+    second: Water Arrows Anim_79
+  - first:
+      213: -2310212755209921959
+    second: Water Arrows Anim_80
+  - first:
+      213: 1104375025502264828
+    second: Water Arrows Anim_81
+  - first:
+      213: -2397120924215075591
+    second: Water Arrows Anim_82
+  - first:
+      213: -1704673697107707088
+    second: Water Arrows Anim_83
+  - first:
+      213: -3361304164636980177
+    second: Water Arrows Anim_84
+  - first:
+      213: 759028305246412409
+    second: Water Arrows Anim_85
+  - first:
+      213: -6888728717285173015
+    second: Water Arrows Anim_86
+  - first:
+      213: -7309148965716727125
+    second: Water Arrows Anim_87
+  - first:
+      213: -6788486144113128323
+    second: Water Arrows Anim_88
+  - first:
+      213: -636540069436911659
+    second: Water Arrows Anim_89
+  - first:
+      213: 1887480471353674908
+    second: Water Arrows Anim_90
+  - first:
+      213: 5098492904308680858
+    second: Water Arrows Anim_91
+  - first:
+      213: -2439349459310324591
+    second: Water Arrows Anim_92
+  - first:
+      213: -7643853948650498090
+    second: Water Arrows Anim_93
+  - first:
+      213: -599670769792130490
+    second: Water Arrows Anim_94
+  - first:
+      213: 5423532665087946610
+    second: Water Arrows Anim_95
+  - first:
+      213: 4198501806898194305
+    second: Water Arrows Anim_96
+  - first:
+      213: 7272801373414395440
+    second: Water Arrows Anim_97
+  - first:
+      213: 5654482416343325169
+    second: Water Arrows Anim_98
+  - first:
+      213: -7665625609087613285
+    second: Water Arrows Anim_99
+  - first:
+      213: -991571334655081353
+    second: Water Arrows Anim_100
+  - first:
+      213: -16997886646964203
+    second: Water Arrows Anim_101
+  - first:
+      213: 6458472567801020212
+    second: Water Arrows Anim_102
+  - first:
+      213: 7881772718120953169
+    second: Water Arrows Anim_103
+  - first:
+      213: 4873556675446502770
+    second: Water Arrows Anim_104
+  - first:
+      213: -1449171012588561475
+    second: Water Arrows Anim_105
+  - first:
+      213: 528853727557577200
+    second: Water Arrows Anim_106
+  - first:
+      213: -5788480683229501127
+    second: Water Arrows Anim_107
+  - first:
+      213: -1450731553179855611
+    second: Water Arrows Anim_108
+  - first:
+      213: 2280496144684399887
+    second: Water Arrows Anim_109
+  - first:
+      213: 7778430016858468719
+    second: Water Arrows Anim_110
+  - first:
+      213: -8218321829827367455
+    second: Water Arrows Anim_111
+  - first:
+      213: -3153577614228052418
+    second: Water Arrows Anim_112
+  - first:
+      213: 251050841651583371
+    second: Water Arrows Anim_113
+  - first:
+      213: 3171804565567546017
+    second: Water Arrows Anim_114
+  - first:
+      213: -7047098381066720833
+    second: Water Arrows Anim_115
+  - first:
+      213: -2222661572177515570
+    second: Water Arrows Anim_116
+  - first:
+      213: -169026545842744352
+    second: Water Arrows Anim_117
+  - first:
+      213: 2941936220513628846
+    second: Water Arrows Anim_118
+  - first:
+      213: -4533644207874918257
+    second: Water Arrows Anim_119
+  - first:
+      213: -6328592238461291101
+    second: Water Arrows Anim_120
+  - first:
+      213: 1847618686948276804
+    second: Water Arrows Anim_121
+  - first:
+      213: -8954646793623656306
+    second: Water Arrows Anim_122
+  - first:
+      213: -9021287060675904407
+    second: Water Arrows Anim_123
+  - first:
+      213: 7882035255258457597
+    second: Water Arrows Anim_124
+  - first:
+      213: 5551287999223309377
+    second: Water Arrows Anim_125
+  - first:
+      213: 2093991159187787560
+    second: Water Arrows Anim_126
+  - first:
+      213: 9155511542242152444
+    second: Water Arrows Anim_127
+  - first:
+      213: -5957016453980657967
+    second: Water Arrows Anim_128
+  - first:
+      213: 2832902314281743568
+    second: Water Arrows Anim_129
+  - first:
+      213: 565951002225486792
+    second: Water Arrows Anim_130
+  - first:
+      213: 4357017044603922381
+    second: Water Arrows Anim_131
+  - first:
+      213: -65916584826614703
+    second: Water Arrows Anim_132
+  - first:
+      213: 1268171634662852835
+    second: Water Arrows Anim_133
+  - first:
+      213: -5997352249950587643
+    second: Water Arrows Anim_134
+  - first:
+      213: -6465848688628016374
+    second: Water Arrows Anim_135
+  - first:
+      213: -6644361859174518624
+    second: Water Arrows Anim_136
+  - first:
+      213: 801028159979631020
+    second: Water Arrows Anim_137
+  - first:
+      213: 6620780471362500097
+    second: Water Arrows Anim_138
+  - first:
+      213: -15666291415015321
+    second: Water Arrows Anim_139
+  - first:
+      213: 1206746092900254741
+    second: Water Arrows Anim_140
+  - first:
+      213: -5048392490961156965
+    second: Water Arrows Anim_141
+  - first:
+      213: -9048012856515910600
+    second: Water Arrows Anim_142
+  - first:
+      213: 6323153407268448889
+    second: Water Arrows Anim_143
+  - first:
+      213: -2289345301160807208
+    second: Water Arrows Anim_144
+  - first:
+      213: -3633215307699331547
+    second: Water Arrows Anim_145
+  - first:
+      213: -7794798238160049468
+    second: Water Arrows Anim_146
+  - first:
+      213: 3210167930651936882
+    second: Water Arrows Anim_147
+  - first:
+      213: -8972319650912894173
+    second: Water Arrows Anim_148
+  - first:
+      213: 7409894399253177045
+    second: Water Arrows Anim_149
+  - first:
+      213: 8102593594178524137
+    second: Water Arrows Anim_150
+  - first:
+      213: -906623557552666134
+    second: Water Arrows Anim_151
+  - first:
+      213: 876327534520466765
+    second: Water Arrows Anim_152
+  - first:
+      213: 1909862218514435613
+    second: Water Arrows Anim_153
+  - first:
+      213: -7293876550708634294
+    second: Water Arrows Anim_154
+  - first:
+      213: 708020034992016903
+    second: Water Arrows Anim_155
+  - first:
+      213: -4231553012054886613
+    second: Water Arrows Anim_156
+  - first:
+      213: 2127232759006793961
+    second: Water Arrows Anim_157
+  - first:
+      213: 8584948470792297567
+    second: Water Arrows Anim_158
+  - first:
+      213: -1690285588035071246
+    second: Water Arrows Anim_159
+  - first:
+      213: 820959144440653266
+    second: Water Arrows Anim_160
+  - first:
+      213: -4055398567446588640
+    second: Water Arrows Anim_161
+  - first:
+      213: -2812588360836060073
+    second: Water Arrows Anim_162
+  - first:
+      213: -3151657006011870097
+    second: Water Arrows Anim_163
+  - first:
+      213: -5166755539667796843
+    second: Water Arrows Anim_164
+  - first:
+      213: 3076464398277004907
+    second: Water Arrows Anim_165
+  - first:
+      213: 2874579147192382592
+    second: Water Arrows Anim_166
+  - first:
+      213: 8612655214559483415
+    second: Water Arrows Anim_167
+  - first:
+      213: 8800035506439518389
+    second: Water Arrows Anim_168
+  - first:
+      213: -1393648324072970465
+    second: Water Arrows Anim_169
+  - first:
+      213: 1549576891280317722
+    second: Water Arrows Anim_170
+  - first:
+      213: 6919914248635831496
+    second: Water Arrows Anim_171
+  - first:
+      213: 8148885343750649104
+    second: Water Arrows Anim_172
+  - first:
+      213: -8869623133367160802
+    second: Water Arrows Anim_173
+  - first:
+      213: -8393570655303548554
+    second: Water Arrows Anim_174
+  - first:
+      213: 8749353271011034516
+    second: Water Arrows Anim_175
+  - first:
+      213: 7498461010557019605
+    second: Water Arrows Anim_176
+  - first:
+      213: 5654699949410746764
+    second: Water Arrows Anim_177
+  - first:
+      213: 8121676553025815653
+    second: Water Arrows Anim_178
+  - first:
+      213: 3183251128449540021
+    second: Water Arrows Anim_179
+  - first:
+      213: 1070863356462135835
+    second: Water Arrows Anim_180
+  - first:
+      213: -9148399208148797181
+    second: Water Arrows Anim_181
+  - first:
+      213: -7578036713968248014
+    second: Water Arrows Anim_182
+  - first:
+      213: 8725188136968856867
+    second: Water Arrows Anim_183
+  - first:
+      213: 788292074320795481
+    second: Water Arrows Anim_184
+  - first:
+      213: 8181789132187544763
+    second: Water Arrows Anim_185
+  - first:
+      213: 6954479505125020665
+    second: Water Arrows Anim_186
+  - first:
+      213: 3229669209478541127
+    second: Water Arrows Anim_187
+  - first:
+      213: 2732476932292169980
+    second: Water Arrows Anim_188
+  - first:
+      213: -5270972111648999839
+    second: Water Arrows Anim_189
+  - first:
+      213: -5808918714017963044
+    second: Water Arrows Anim_190
+  - first:
+      213: 2723577355019915546
+    second: Water Arrows Anim_191
+  - first:
+      213: -7142441421032756102
+    second: Water Arrows Anim_192
+  - first:
+      213: 7539178944255799774
+    second: Water Arrows Anim_193
+  - first:
+      213: 4573113714686815548
+    second: Water Arrows Anim_194
+  - first:
+      213: -8050107440750126155
+    second: Water Arrows Anim_195
+  - first:
+      213: 4651857813911865619
+    second: Water Arrows Anim_196
+  - first:
+      213: 2648352657561024882
+    second: Water Arrows Anim_197
+  - first:
+      213: -4531588457450454263
+    second: Water Arrows Anim_198
+  - first:
+      213: 4782612488289049446
+    second: Water Arrows Anim_199
+  - first:
+      213: 7515682179943265062
+    second: Water Arrows Anim_200
+  - first:
+      213: -6244300464638564646
+    second: Water Arrows Anim_201
+  - first:
+      213: -1673375531227048289
+    second: Water Arrows Anim_202
+  - first:
+      213: 3561715808164325052
+    second: Water Arrows Anim_203
+  - first:
+      213: -9162308683989802049
+    second: Water Arrows Anim_204
+  - first:
+      213: -594833330844353291
+    second: Water Arrows Anim_205
+  - first:
+      213: -65690729544099468
+    second: Water Arrows Anim_206
+  - first:
+      213: -5502153908086746131
+    second: Water Arrows Anim_207
+  - first:
+      213: 6696537448493361838
+    second: Water Arrows Anim_208
+  - first:
+      213: 5569934710020418737
+    second: Water Arrows Anim_209
+  - first:
+      213: -6586826731484815506
+    second: Water Arrows Anim_210
+  - first:
+      213: -7362722482211640971
+    second: Water Arrows Anim_211
+  - first:
+      213: 478455203163068725
+    second: Water Arrows Anim_212
+  - first:
+      213: 1232439257387958968
+    second: Water Arrows Anim_213
+  - first:
+      213: 4129571611973069357
+    second: Water Arrows Anim_214
+  - first:
+      213: 4692737771628045649
+    second: Water Arrows Anim_215
+  - first:
+      213: -4897296168335613174
+    second: Water Arrows Anim_216
+  - first:
+      213: 3575732245909921399
+    second: Water Arrows Anim_217
+  - first:
+      213: 579244728369523389
+    second: Water Arrows Anim_218
+  - first:
+      213: 4783133353166230990
+    second: Water Arrows Anim_219
+  - first:
+      213: 3831606486733558520
+    second: Water Arrows Anim_220
+  - first:
+      213: 8331069088687729769
+    second: Water Arrows Anim_221
+  - first:
+      213: -5740995096406597309
+    second: Water Arrows Anim_222
+  - first:
+      213: 4506089362778297538
+    second: Water Arrows Anim_223
+  - first:
+      213: -2499921066097507741
+    second: Water Arrows Anim_224
+  - first:
+      213: 8975201863095966712
+    second: Water Arrows Anim_225
+  - first:
+      213: -2801890828368717974
+    second: Water Arrows Anim_226
+  - first:
+      213: -8330885462066159211
+    second: Water Arrows Anim_227
+  - first:
+      213: -2584457620525110458
+    second: Water Arrows Anim_228
+  - first:
+      213: -5325929187212183023
+    second: Water Arrows Anim_229
+  - first:
+      213: 8220495650518836898
+    second: Water Arrows Anim_230
+  - first:
+      213: 1784659832989639023
+    second: Water Arrows Anim_231
+  - first:
+      213: -6854472248597754056
+    second: Water Arrows Anim_232
+  - first:
+      213: 5940032600381623026
+    second: Water Arrows Anim_233
+  - first:
+      213: -4903401938097329871
+    second: Water Arrows Anim_234
+  - first:
+      213: -7764714515661162834
+    second: Water Arrows Anim_235
+  - first:
+      213: -5441630847524733937
+    second: Water Arrows Anim_236
+  - first:
+      213: -4869682920030411712
+    second: Water Arrows Anim_237
+  - first:
+      213: -936357594740448287
+    second: Water Arrows Anim_238
+  - first:
+      213: 3882362855312243681
+    second: Water Arrows Anim_239
+  - first:
+      213: 7135219806458868048
+    second: Water Arrows Anim_240
+  - first:
+      213: 308874113799351339
+    second: Water Arrows Anim_241
+  - first:
+      213: 828365607177561971
+    second: Water Arrows Anim_242
+  - first:
+      213: 308994040409179470
+    second: Water Arrows Anim_243
+  - first:
+      213: -4463037837940596829
+    second: Water Arrows Anim_244
+  - first:
+      213: 3215866852653776629
+    second: Water Arrows Anim_245
+  - first:
+      213: -7826399206492202176
+    second: Water Arrows Anim_246
+  - first:
+      213: 786123107250199757
+    second: Water Arrows Anim_247
+  - first:
+      213: 5881810801266412411
+    second: Water Arrows Anim_248
+  - first:
+      213: 5180186507514891338
+    second: Water Arrows Anim_249
+  - first:
+      213: 9183738415709770936
+    second: Water Arrows Anim_250
+  - first:
+      213: -7265664999313452974
+    second: Water Arrows Anim_251
+  - first:
+      213: 6494359770249913153
+    second: Water Arrows Anim_252
+  - first:
+      213: -3915294765034072889
+    second: Water Arrows Anim_253
+  - first:
+      213: -2369267604663632016
+    second: Water Arrows Anim_254
+  - first:
+      213: -3363742953996954279
+    second: Water Arrows Anim_255
+  - first:
+      213: 6976781751661348869
+    second: Water Arrows Anim_256
+  - first:
+      213: -5542694688751413400
+    second: Water Arrows Anim_257
+  - first:
+      213: 8776376921918628705
+    second: Water Arrows Anim_258
+  - first:
+      213: 634051580190577431
+    second: Water Arrows Anim_259
+  - first:
+      213: -4644893278858280060
+    second: Water Arrows Anim_260
+  - first:
+      213: 4099582272663890671
+    second: Water Arrows Anim_261
+  - first:
+      213: 1232596151883418109
+    second: Water Arrows Anim_262
+  - first:
+      213: -5749527143869150995
+    second: Water Arrows Anim_263
+  - first:
+      213: -848548939176024871
+    second: Water Arrows Anim_264
+  - first:
+      213: -715389126254432836
+    second: Water Arrows Anim_265
+  - first:
+      213: 6742340506042759008
+    second: Water Arrows Anim_266
+  - first:
+      213: -1956974791607958830
+    second: Water Arrows Anim_267
+  - first:
+      213: 3569178163967824547
+    second: Water Arrows Anim_268
+  - first:
+      213: 5616564823827186529
+    second: Water Arrows Anim_269
+  - first:
+      213: 7865880816126507580
+    second: Water Arrows Anim_270
+  - first:
+      213: 5021241537214927969
+    second: Water Arrows Anim_271
+  - first:
+      213: -2236817547576218363
+    second: Water Arrows Anim_272
+  - first:
+      213: 3473786626229519196
+    second: Water Arrows Anim_273
+  - first:
+      213: -5163827023379657930
+    second: Water Arrows Anim_274
+  - first:
+      213: 3500674326181320798
+    second: Water Arrows Anim_275
+  - first:
+      213: -3368559029950224562
+    second: Water Arrows Anim_276
+  - first:
+      213: -5593396212741184898
+    second: Water Arrows Anim_277
+  - first:
+      213: 7825786956331353418
+    second: Water Arrows Anim_278
+  - first:
+      213: -7925310153601163623
+    second: Water Arrows Anim_279
+  - first:
+      213: 6361629458981619386
+    second: Water Arrows Anim_280
+  - first:
+      213: 6797865138359992858
+    second: Water Arrows Anim_281
+  - first:
+      213: 2922869466494501926
+    second: Water Arrows Anim_282
+  - first:
+      213: -7893258281068114592
+    second: Water Arrows Anim_283
+  - first:
+      213: 2233823538531743471
+    second: Water Arrows Anim_284
+  - first:
+      213: -4984066490367170408
+    second: Water Arrows Anim_285
+  - first:
+      213: -5098877304443903420
+    second: Water Arrows Anim_286
+  - first:
+      213: -3552575357382800431
+    second: Water Arrows Anim_287
+  - first:
+      213: 4149527186930651608
+    second: Water Arrows Anim_288
+  - first:
+      213: 2303793960809373775
+    second: Water Arrows Anim_289
+  - first:
+      213: 1487108586965367159
+    second: Water Arrows Anim_290
+  - first:
+      213: 5902627198431457449
+    second: Water Arrows Anim_291
+  - first:
+      213: -333674950493831261
+    second: Water Arrows Anim_292
+  - first:
+      213: 2689244844998823834
+    second: Water Arrows Anim_293
+  - first:
+      213: -4234227288939364110
+    second: Water Arrows Anim_294
+  - first:
+      213: 1985649427245325835
+    second: Water Arrows Anim_295
+  - first:
+      213: -8433764889970670304
+    second: Water Arrows Anim_296
+  - first:
+      213: -2105543858006270145
+    second: Water Arrows Anim_297
+  - first:
+      213: -6539946838013131092
+    second: Water Arrows Anim_298
+  - first:
+      213: -8933765456539534475
+    second: Water Arrows Anim_299
+  - first:
+      213: -2248395867892923251
+    second: Water Arrows Anim_300
+  - first:
+      213: 6294052023796155148
+    second: Water Arrows Anim_301
+  - first:
+      213: 676036017545316433
+    second: Water Arrows Anim_302
+  - first:
+      213: -3182331728658024342
+    second: Water Arrows Anim_303
+  - first:
+      213: -8928668981457639865
+    second: Water Arrows Anim_304
+  - first:
+      213: 6807427307517351170
+    second: Water Arrows Anim_305
+  - first:
+      213: 8517344619214131879
+    second: Water Arrows Anim_306
+  - first:
+      213: 2613150713616300039
+    second: Water Arrows Anim_307
+  - first:
+      213: -628562217481945891
+    second: Water Arrows Anim_308
+  - first:
+      213: 8397095830365738430
+    second: Water Arrows Anim_309
+  - first:
+      213: 141497840721340925
+    second: Water Arrows Anim_310
+  - first:
+      213: -7540684578717407731
+    second: Water Arrows Anim_311
+  - first:
+      213: 472384728735005100
+    second: Water Arrows Anim_312
+  - first:
+      213: 1433152349699859021
+    second: Water Arrows Anim_313
+  - first:
+      213: -1409921792395585627
+    second: Water Arrows Anim_314
+  - first:
+      213: 4356517696201879591
+    second: Water Arrows Anim_315
+  - first:
+      213: 8547236092678075584
+    second: Water Arrows Anim_316
+  - first:
+      213: 1824833669650575239
+    second: Water Arrows Anim_317
+  - first:
+      213: 744640297082244309
+    second: Water Arrows Anim_318
+  - first:
+      213: 1880071239193532318
+    second: Water Arrows Anim_319
+  - first:
+      213: -2996243810343947248
+    second: Water Arrows Anim_320
+  - first:
+      213: -7632658210014148065
+    second: Water Arrows Anim_321
+  - first:
+      213: -1287835055063968809
+    second: Water Arrows Anim_322
+  - first:
+      213: 2463738138977285270
+    second: Water Arrows Anim_323
+  - first:
+      213: -7900595252669311271
+    second: Water Arrows Anim_324
+  - first:
+      213: 9197485537363521492
+    second: Water Arrows Anim_325
+  - first:
+      213: 6285747646385707066
+    second: Water Arrows Anim_326
+  - first:
+      213: 982491188225882831
+    second: Water Arrows Anim_327
+  - first:
+      213: -8331522656375071159
+    second: Water Arrows Anim_328
+  - first:
+      213: -5731074293176596016
+    second: Water Arrows Anim_329
+  - first:
+      213: 8942848868625390649
+    second: Water Arrows Anim_330
+  - first:
+      213: 7189644867444072329
+    second: Water Arrows Anim_331
+  - first:
+      213: 2652950821752463887
+    second: Water Arrows Anim_332
+  - first:
+      213: -904622600207614278
+    second: Water Arrows Anim_333
+  - first:
+      213: 7824173032151474346
+    second: Water Arrows Anim_334
+  - first:
+      213: -5999277516669981509
+    second: Water Arrows Anim_335
+  - first:
+      213: 4549100459778243222
+    second: Water Arrows Anim_336
+  - first:
+      213: 2500905706595452301
+    second: Water Arrows Anim_337
+  - first:
+      213: -2754827648631325285
+    second: Water Arrows Anim_338
+  - first:
+      213: 410680917643328420
+    second: Water Arrows Anim_339
+  - first:
+      213: -6819458802576691282
+    second: Water Arrows Anim_340
+  - first:
+      213: 5378899306479502099
+    second: Water Arrows Anim_341
+  - first:
+      213: -2671809590444066026
+    second: Water Arrows Anim_342
+  - first:
+      213: 3972346903684808030
+    second: Water Arrows Anim_343
+  - first:
+      213: 6707722530324681918
+    second: Water Arrows Anim_344
+  - first:
+      213: -3325600212202187591
+    second: Water Arrows Anim_345
+  - first:
+      213: -3223061928168089108
+    second: Water Arrows Anim_346
+  - first:
+      213: -8856492385181485676
+    second: Water Arrows Anim_347
+  - first:
+      213: 4490384688652222106
+    second: Water Arrows Anim_348
+  - first:
+      213: 3076273479170951525
+    second: Water Arrows Anim_349
+  - first:
+      213: 7469436420091512504
+    second: Water Arrows Anim_350
+  - first:
+      213: 2762201920828177768
+    second: Water Arrows Anim_351
+  - first:
+      213: -6207095728515971549
+    second: Water Arrows Anim_352
+  - first:
+      213: -7859801824103245742
+    second: Water Arrows Anim_353
+  - first:
+      213: -327141074601293164
+    second: Water Arrows Anim_354
+  - first:
+      213: -1464878094671878183
+    second: Water Arrows Anim_355
+  - first:
+      213: -3309843603343817967
+    second: Water Arrows Anim_356
+  - first:
+      213: -3146952170361805620
+    second: Water Arrows Anim_357
+  - first:
+      213: -3836027870128403377
+    second: Water Arrows Anim_358
+  - first:
+      213: -5194180315510306227
+    second: Water Arrows Anim_359
+  - first:
+      213: -6525439741612811298
+    second: Water Arrows Anim_360
+  - first:
+      213: 2632413811672757685
+    second: Water Arrows Anim_361
+  - first:
+      213: -3903271191205913570
+    second: Water Arrows Anim_362
+  - first:
+      213: 2823536112439111077
+    second: Water Arrows Anim_363
+  - first:
+      213: -8205673979649118182
+    second: Water Arrows Anim_364
+  - first:
+      213: -3068396781319052855
+    second: Water Arrows Anim_365
+  - first:
+      213: 5122989260907472665
+    second: Water Arrows Anim_366
+  - first:
+      213: -2979474550674266214
+    second: Water Arrows Anim_367
+  - first:
+      213: -6221303187462953677
+    second: Water Arrows Anim_368
+  - first:
+      213: -1003391641517182639
+    second: Water Arrows Anim_369
+  - first:
+      213: 595807168729639688
+    second: Water Arrows Anim_370
+  - first:
+      213: -5364268409314150329
+    second: Water Arrows Anim_371
+  - first:
+      213: 175716730985459649
+    second: Water Arrows Anim_372
+  - first:
+      213: 3460875335788773432
+    second: Water Arrows Anim_373
+  - first:
+      213: 8831616470843671165
+    second: Water Arrows Anim_374
+  - first:
+      213: 7384144444107535552
+    second: Water Arrows Anim_375
+  - first:
+      213: -152364567196822740
+    second: Water Arrows Anim_376
+  - first:
+      213: 4733505967497454978
+    second: Water Arrows Anim_377
+  - first:
+      213: -9210896688847662697
+    second: Water Arrows Anim_378
+  - first:
+      213: 2475714473796797491
+    second: Water Arrows Anim_379
+  - first:
+      213: 3633047931754190181
+    second: Water Arrows Anim_380
+  - first:
+      213: 7996939173687604951
+    second: Water Arrows Anim_381
+  - first:
+      213: -97003881344066993
+    second: Water Arrows Anim_382
+  - first:
+      213: 5025822207291682827
+    second: Water Arrows Anim_383
+  - first:
+      213: 2483950543269187035
+    second: Water Arrows Anim_384
+  - first:
+      213: -5529915019501175513
+    second: Water Arrows Anim_385
+  - first:
+      213: -5033559129114856217
+    second: Water Arrows Anim_386
+  - first:
+      213: 1982497361745283199
+    second: Water Arrows Anim_387
+  - first:
+      213: 7984037405260435672
+    second: Water Arrows Anim_388
+  - first:
+      213: -5790218015364187541
+    second: Water Arrows Anim_389
+  - first:
+      213: 4034395450975392368
+    second: Water Arrows Anim_390
+  - first:
+      213: 2964750074741341705
+    second: Water Arrows Anim_391
+  - first:
+      213: 8401291077973365542
+    second: Water Arrows Anim_392
+  - first:
+      213: -7931977344513248385
+    second: Water Arrows Anim_393
+  - first:
+      213: 6365977867261257218
+    second: Water Arrows Anim_394
+  - first:
+      213: 1316315036942279996
+    second: Water Arrows Anim_395
+  - first:
+      213: -2856849585483802044
+    second: Water Arrows Anim_396
+  - first:
+      213: -1970042544223257461
+    second: Water Arrows Anim_397
+  - first:
+      213: -2797862553527669335
+    second: Water Arrows Anim_398
+  - first:
+      213: -2256641659419472296
+    second: Water Arrows Anim_399
+  - first:
+      213: 4889307100837067065
+    second: Water Arrows Anim_400
+  - first:
+      213: 6946485346768211155
+    second: Water Arrows Anim_401
+  - first:
+      213: -6772490580829731470
+    second: Water Arrows Anim_402
+  - first:
+      213: -1185379495823281771
+    second: Water Arrows Anim_403
+  - first:
+      213: -1569947597227316228
+    second: Water Arrows Anim_404
+  - first:
+      213: 1000962381886734160
+    second: Water Arrows Anim_405
+  - first:
+      213: -5333482368400609475
+    second: Water Arrows Anim_406
+  - first:
+      213: 8618261917117489636
+    second: Water Arrows Anim_407
+  - first:
+      213: -4183095293219011833
+    second: Water Arrows Anim_408
+  - first:
+      213: -5675313918273858277
+    second: Water Arrows Anim_409
+  - first:
+      213: 5018279880960856666
+    second: Water Arrows Anim_410
+  - first:
+      213: 5049779123431655718
+    second: Water Arrows Anim_411
+  - first:
+      213: -2481231744750311639
+    second: Water Arrows Anim_412
+  - first:
+      213: 960272645432012762
+    second: Water Arrows Anim_413
+  - first:
+      213: -5036461801838407366
+    second: Water Arrows Anim_414
+  - first:
+      213: 635577680177926316
+    second: Water Arrows Anim_415
+  - first:
+      213: -1630312938469557029
+    second: Water Arrows Anim_416
+  - first:
+      213: -6771395813779820364
+    second: Water Arrows Anim_417
+  - first:
+      213: 2656008716916230930
+    second: Water Arrows Anim_418
+  - first:
+      213: -3267724223784296615
+    second: Water Arrows Anim_419
+  - first:
+      213: 7715112983355552327
+    second: Water Arrows Anim_420
+  - first:
+      213: 2529957710842275212
+    second: Water Arrows Anim_421
+  - first:
+      213: 858260017728892524
+    second: Water Arrows Anim_422
+  - first:
+      213: -381469830659763727
+    second: Water Arrows Anim_423
+  - first:
+      213: -5769783560365466899
+    second: Water Arrows Anim_424
+  - first:
+      213: -9098427903331938967
+    second: Water Arrows Anim_425
+  - first:
+      213: 9029799812973831628
+    second: Water Arrows Anim_426
+  - first:
+      213: -1948221431814640518
+    second: Water Arrows Anim_427
+  - first:
+      213: -2241959346693404972
+    second: Water Arrows Anim_428
+  - first:
+      213: 1721129343933559083
+    second: Water Arrows Anim_429
+  - first:
+      213: 1583980986649962453
+    second: Water Arrows Anim_430
+  - first:
+      213: -4964701323501295862
+    second: Water Arrows Anim_431
+  - first:
+      213: -7901053575932039287
+    second: Water Arrows Anim_432
+  - first:
+      213: -4930352194747743008
+    second: Water Arrows Anim_433
+  - first:
+      213: 181644505038705728
+    second: Water Arrows Anim_434
+  - first:
+      213: 1981330791296667468
+    second: Water Arrows Anim_435
+  - first:
+      213: -4829638639040120720
+    second: Water Arrows Anim_436
+  - first:
+      213: -8201580319576684334
+    second: Water Arrows Anim_437
+  - first:
+      213: 6701159714884095381
+    second: Water Arrows Anim_438
+  - first:
+      213: -3537499701355348995
+    second: Water Arrows Anim_439
+  - first:
+      213: -479900386044747029
+    second: Water Arrows Anim_440
+  - first:
+      213: 9096264981031712255
+    second: Water Arrows Anim_441
+  - first:
+      213: 3279630093073363518
+    second: Water Arrows Anim_442
+  - first:
+      213: -259307653245253806
+    second: Water Arrows Anim_443
+  - first:
+      213: -8425814678285572925
+    second: Water Arrows Anim_444
+  - first:
+      213: 3493063624167211582
+    second: Water Arrows Anim_445
+  - first:
+      213: 4109175796732553708
+    second: Water Arrows Anim_446
+  - first:
+      213: -3978086480723002420
+    second: Water Arrows Anim_447
+  - first:
+      213: -2167918840373391921
+    second: Water Arrows Anim_448
+  - first:
+      213: 2845241745139040180
+    second: Water Arrows Anim_449
+  - first:
+      213: -2911961857468666259
+    second: Water Arrows Anim_450
+  - first:
+      213: 1390164413253241340
+    second: Water Arrows Anim_451
+  - first:
+      213: 1829709454023581442
+    second: Water Arrows Anim_452
+  - first:
+      213: -6650165468056135009
+    second: Water Arrows Anim_453
+  - first:
+      213: 8630667448872902063
+    second: Water Arrows Anim_454
+  - first:
+      213: 3427845353378019016
+    second: Water Arrows Anim_455
+  - first:
+      213: 3966727789790957198
+    second: Water Arrows Anim_456
+  - first:
+      213: -1200300566798396511
+    second: Water Arrows Anim_457
+  - first:
+      213: -8428335838756936682
+    second: Water Arrows Anim_458
+  - first:
+      213: -6564661223686670040
+    second: Water Arrows Anim_459
+  - first:
+      213: 76588645812369803
+    second: Water Arrows Anim_460
+  - first:
+      213: -4555652547779725961
+    second: Water Arrows Anim_461
+  - first:
+      213: -5505243887906070344
+    second: Water Arrows Anim_462
+  - first:
+      213: 7206389995637821449
+    second: Water Arrows Anim_463
+  - first:
+      213: -3670774954551208792
+    second: Water Arrows Anim_464
+  - first:
+      213: -1025581084509934387
+    second: Water Arrows Anim_465
+  - first:
+      213: 8207312946595971831
+    second: Water Arrows Anim_466
+  - first:
+      213: 9154179995896591214
+    second: Water Arrows Anim_467
+  - first:
+      213: -8046804022832943607
+    second: Water Arrows Anim_468
+  - first:
+      213: -897269463838091955
+    second: Water Arrows Anim_469
+  - first:
+      213: 8172315761883253643
+    second: Water Arrows Anim_470
+  - first:
+      213: 8079387079291851391
+    second: Water Arrows Anim_471
+  - first:
+      213: 6182751436401563392
+    second: Water Arrows Anim_472
+  - first:
+      213: 615631942582424173
+    second: Water Arrows Anim_473
+  - first:
+      213: 4882568288844781131
+    second: Water Arrows Anim_474
+  - first:
+      213: 6349570662803978032
+    second: Water Arrows Anim_475
+  - first:
+      213: 2809194059606371342
+    second: Water Arrows Anim_476
+  - first:
+      213: 2783069043591408901
+    second: Water Arrows Anim_477
+  - first:
+      213: 2592534614483435711
+    second: Water Arrows Anim_478
+  - first:
+      213: 241766137872900572
+    second: Water Arrows Anim_479
+  - first:
+      213: -1688289062711291691
+    second: Water Arrows Anim_480
+  - first:
+      213: 5767605145213506598
+    second: Water Arrows Anim_481
+  - first:
+      213: -1604359325243037209
+    second: Water Arrows Anim_482
+  - first:
+      213: -8119410429421196854
+    second: Water Arrows Anim_483
+  - first:
+      213: 3704616653254052370
+    second: Water Arrows Anim_484
+  - first:
+      213: -4181221237469150683
+    second: Water Arrows Anim_485
+  - first:
+      213: -6715282685595777579
+    second: Water Arrows Anim_486
+  - first:
+      213: -2439702031768204413
+    second: Water Arrows Anim_487
+  - first:
+      213: 2103315647482099430
+    second: Water Arrows Anim_488
+  - first:
+      213: 2661167373328187629
+    second: Water Arrows Anim_489
+  - first:
+      213: -3560871122332189856
+    second: Water Arrows Anim_490
+  - first:
+      213: -5867899630545266549
+    second: Water Arrows Anim_491
+  - first:
+      213: 6634999322482096095
+    second: Water Arrows Anim_492
+  - first:
+      213: 669381588906224210
+    second: Water Arrows Anim_493
+  - first:
+      213: 8253995103980773757
+    second: Water Arrows Anim_494
+  - first:
+      213: -7564468204955376812
+    second: Water Arrows Anim_495
+  - first:
+      213: 1309773729575325119
+    second: Water Arrows Anim_496
+  - first:
+      213: -2529208998391484202
+    second: Water Arrows Anim_497
+  - first:
+      213: 5020676508530200683
+    second: Water Arrows Anim_498
+  - first:
+      213: -9101781634193393828
+    second: Water Arrows Anim_499
+  - first:
+      213: 4393409952146860050
+    second: Water Arrows Anim_500
+  - first:
+      213: -4274232315771308283
+    second: Water Arrows Anim_501
+  - first:
+      213: 7428046870426335089
+    second: Water Arrows Anim_502
+  - first:
+      213: 8810023183954423201
+    second: Water Arrows Anim_503
+  - first:
+      213: 1676452073783809663
+    second: Water Arrows Anim_504
+  - first:
+      213: 3930668937517818733
+    second: Water Arrows Anim_505
+  - first:
+      213: 3715675588724783145
+    second: Water Arrows Anim_506
+  - first:
+      213: 1014711729213293343
+    second: Water Arrows Anim_507
+  - first:
+      213: 1787633082374062642
+    second: Water Arrows Anim_508
+  - first:
+      213: 1747919275182307127
+    second: Water Arrows Anim_509
+  - first:
+      213: -92926974497427354
+    second: Water Arrows Anim_510
+  - first:
+      213: -408315253429383379
+    second: Water Arrows Anim_511
+  - first:
+      213: -5213115203280344854
+    second: Water Arrows Anim_512
+  - first:
+      213: 2460562828028047218
+    second: Water Arrows Anim_513
+  - first:
+      213: -6132622629097517419
+    second: Water Arrows Anim_514
+  - first:
+      213: -791344990172306971
+    second: Water Arrows Anim_515
+  - first:
+      213: -6298813855448863379
+    second: Water Arrows Anim_516
+  - first:
+      213: 91710906458584580
+    second: Water Arrows Anim_517
+  - first:
+      213: 6519739745695542611
+    second: Water Arrows Anim_518
+  - first:
+      213: 5816905524224542325
+    second: Water Arrows Anim_519
+  - first:
+      213: 5306920932448394154
+    second: Water Arrows Anim_520
+  - first:
+      213: 8539058092187606500
+    second: Water Arrows Anim_521
+  - first:
+      213: -2846548998688038980
+    second: Water Arrows Anim_522
+  - first:
+      213: 8738746316042173851
+    second: Water Arrows Anim_523
+  - first:
+      213: 7212590592787612780
+    second: Water Arrows Anim_524
+  - first:
+      213: -8664585613008231896
+    second: Water Arrows Anim_525
+  - first:
+      213: 5891630588525149472
+    second: Water Arrows Anim_526
+  - first:
+      213: 1353560228951428485
+    second: Water Arrows Anim_527
+  - first:
+      213: -4407198582853932271
+    second: Water Arrows Anim_528
+  - first:
+      213: -4564977693394050225
+    second: Water Arrows Anim_529
+  - first:
+      213: -8693500743714374423
+    second: Water Arrows Anim_530
+  - first:
+      213: 7382736106729832924
+    second: Water Arrows Anim_531
+  - first:
+      213: 3586898838721909124
+    second: Water Arrows Anim_532
+  - first:
+      213: 6174716013390221350
+    second: Water Arrows Anim_533
+  - first:
+      213: 3230075615466243640
+    second: Water Arrows Anim_534
+  - first:
+      213: 5746268824876107068
+    second: Water Arrows Anim_535
+  - first:
+      213: -1948857237313002015
+    second: Water Arrows Anim_536
+  - first:
+      213: -3446232764882268212
+    second: Water Arrows Anim_537
+  - first:
+      213: 3050804781989273755
+    second: Water Arrows Anim_538
+  - first:
+      213: -4306084112927067789
+    second: Water Arrows Anim_539
+  - first:
+      213: -5624535172529866664
+    second: Water Arrows Anim_540
+  - first:
+      213: -92285174653439487
+    second: Water Arrows Anim_541
+  - first:
+      213: -1478192713992710733
+    second: Water Arrows Anim_542
+  - first:
+      213: 3108760288935775909
+    second: Water Arrows Anim_543
+  - first:
+      213: -4952089047208931579
+    second: Water Arrows Anim_544
+  - first:
+      213: 7860396582599699107
+    second: Water Arrows Anim_545
+  - first:
+      213: 7151109524751310285
+    second: Water Arrows Anim_546
+  - first:
+      213: -3788030920728205880
+    second: Water Arrows Anim_547
+  - first:
+      213: -5275826229706218315
+    second: Water Arrows Anim_548
+  - first:
+      213: -1796507970245151384
+    second: Water Arrows Anim_549
+  - first:
+      213: 5720508065569831523
+    second: Water Arrows Anim_550
+  - first:
+      213: -8502469108452960590
+    second: Water Arrows Anim_551
+  - first:
+      213: 1355507978437890281
+    second: Water Arrows Anim_552
+  - first:
+      213: 7521329846362107231
+    second: Water Arrows Anim_553
+  - first:
+      213: 5611687112127351190
+    second: Water Arrows Anim_554
+  - first:
+      213: -4861783001760706578
+    second: Water Arrows Anim_555
+  - first:
+      213: -6024373373579151234
+    second: Water Arrows Anim_556
+  - first:
+      213: -1282735524760062514
+    second: Water Arrows Anim_557
+  - first:
+      213: 3496304236864788345
+    second: Water Arrows Anim_558
+  - first:
+      213: 2381476186358481329
+    second: Water Arrows Anim_559
+  - first:
+      213: -5811576006732638925
+    second: Water Arrows Anim_560
+  - first:
+      213: -2490291987488144763
+    second: Water Arrows Anim_561
+  - first:
+      213: -1219202334606533589
+    second: Water Arrows Anim_562
+  - first:
+      213: -5364362825476150895
+    second: Water Arrows Anim_563
+  - first:
+      213: -2948670739974538847
+    second: Water Arrows Anim_564
+  - first:
+      213: 6671405986175578367
+    second: Water Arrows Anim_565
+  - first:
+      213: -8437837558950482901
+    second: Water Arrows Anim_566
+  - first:
+      213: -8999558479329559815
+    second: Water Arrows Anim_567
+  - first:
+      213: 7689793407485364691
+    second: Water Arrows Anim_568
+  - first:
+      213: -4796492371451684311
+    second: Water Arrows Anim_569
+  - first:
+      213: 5818006333146171942
+    second: Water Arrows Anim_570
+  - first:
+      213: -5270208900321152355
+    second: Water Arrows Anim_571
+  - first:
+      213: 1809443371607052933
+    second: Water Arrows Anim_572
+  - first:
+      213: -8356706212133852837
+    second: Water Arrows Anim_573
+  - first:
+      213: 4062792592486300576
+    second: Water Arrows Anim_574
+  - first:
+      213: 6820636553990795733
+    second: Water Arrows Anim_575
+  - first:
+      213: -65578319181574987
+    second: Water Arrows Anim_576
+  - first:
+      213: -6828781405327292003
+    second: Water Arrows Anim_577
+  - first:
+      213: -7116083032313179460
+    second: Water Arrows Anim_578
+  - first:
+      213: 2545973204959148040
+    second: Water Arrows Anim_579
+  - first:
+      213: 6952762707123554002
+    second: Water Arrows Anim_580
+  - first:
+      213: -5390929094849404007
+    second: Water Arrows Anim_581
+  - first:
+      213: 8306707637208003315
+    second: Water Arrows Anim_582
+  - first:
+      213: 7749051145704923892
+    second: Water Arrows Anim_583
+  - first:
+      213: 8700570266468776317
+    second: Water Arrows Anim_584
+  - first:
+      213: -8902359535735566062
+    second: Water Arrows Anim_585
+  - first:
+      213: -9183434420177434482
+    second: Water Arrows Anim_586
+  - first:
+      213: -8184514654285482857
+    second: Water Arrows Anim_587
+  - first:
+      213: 2981766026886458496
+    second: Water Arrows Anim_588
+  - first:
+      213: -6895871610937875740
+    second: Water Arrows Anim_589
+  - first:
+      213: 4540571409271921444
+    second: Water Arrows Anim_590
+  - first:
+      213: 4351381006877608871
+    second: Water Arrows Anim_591
+  - first:
+      213: 1355647527795738970
+    second: Water Arrows Anim_592
+  - first:
+      213: 8862626266266805107
+    second: Water Arrows Anim_593
+  - first:
+      213: -4750729152009007441
+    second: Water Arrows Anim_594
+  - first:
+      213: -1933202036773836684
+    second: Water Arrows Anim_595
+  - first:
+      213: -9076509514054822762
+    second: Water Arrows Anim_596
+  - first:
+      213: 8871334117449909432
+    second: Water Arrows Anim_597
+  - first:
+      213: 5262841261318548209
+    second: Water Arrows Anim_598
+  - first:
+      213: 4244254652428711282
+    second: Water Arrows Anim_599
+  - first:
+      213: 7018919450870473111
+    second: Water Arrows Anim_600
+  - first:
+      213: 3264521861054007474
+    second: Water Arrows Anim_601
+  - first:
+      213: 4212951847358915562
+    second: Water Arrows Anim_602
+  - first:
+      213: -3953294455602364312
+    second: Water Arrows Anim_603
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Water Arrows Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdcfd9cec79e64f0800000000000000
+      internalID: -833561966611018310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730145da2f5d11330800000000000000
+      internalID: 3679957608805175351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879974924e5201c60800000000000000
+      internalID: 7786765417598916984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6514de8b3108a18f0800000000000000
+      internalID: -569001580713655978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826d3bfd53c424a70800000000000000
+      internalID: 8809687615360194088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ad7bfbeb23fd8a0800000000000000
+      internalID: -6278243560689509759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d8e161671254450800000000000000
+      internalID: 6072296463639940427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a623d85cb9337720800000000000000
+      internalID: 2842679270907782816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b61753c69b9f160800000000000000
+      internalID: 7059877765284195227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411fe6c0b34600ee0800000000000000
+      internalID: -1296926487908257516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e865150a8a51a3030800000000000000
+      internalID: 3475113876458133134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7711b2cf9e9740d10800000000000000
+      internalID: 2090930172871774583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22850241318522e50800000000000000
+      internalID: 6783080827738675234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e737d1964e9ef3240800000000000000
+      internalID: 4773791297261368190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d487faba1974cec0800000000000000
+      internalID: -3547577450748214064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Water Arrows Anim_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a46c66b9bada80800000000000000
+      internalID: -8441230358398851267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b41c581d34a508b499fd0a3073981a9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Water Arrows Anim_0: -833561966611018310
+      Water Arrows Anim_1: 3679957608805175351
+      Water Arrows Anim_10: 3475113876458133134
+      Water Arrows Anim_11: 2090930172871774583
+      Water Arrows Anim_12: 6783080827738675234
+      Water Arrows Anim_13: 4773791297261368190
+      Water Arrows Anim_14: -3547577450748214064
+      Water Arrows Anim_15: -8441230358398851267
+      Water Arrows Anim_2: 7786765417598916984
+      Water Arrows Anim_3: -569001580713655978
+      Water Arrows Anim_4: 8809687615360194088
+      Water Arrows Anim_5: -6278243560689509759
+      Water Arrows Anim_6: 6072296463639940427
+      Water Arrows Anim_7: 2842679270907782816
+      Water Arrows Anim_8: 7059877765284195227
+      Water Arrows Anim_9: -1296926487908257516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

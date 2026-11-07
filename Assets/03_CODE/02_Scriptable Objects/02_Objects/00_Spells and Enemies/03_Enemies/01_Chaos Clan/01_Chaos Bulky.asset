@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095fe339d410b2b4fb3ae82e354c45cc, type: 3}
+  m_Name: 01_Chaos Bulky
+  m_EditorClassIdentifier: 
+  sprite_bestiary: {fileID: 8182054888005741258, guid: 48e3b00ea3689be449baeedc30a84ab5, type: 3}
+  i_id: 1
+  i_hp: 1000
+  i_dmg: 500
+  f_speed: 0.7
+  f_RageOfAction: 3
+  f_projectailSpeed: 0
+  i_manaEnergyReleased: 5
+  Description: 'Slow but very hard to take down. Bulkies are known for being able
+    to take lots of damage thanks to their big bodies.
+
+
+    Size: Big'
+  deathClip: {fileID: 0}
+  e_Clan: 1
+  e_ElementalType: 0
+  e_size: 1

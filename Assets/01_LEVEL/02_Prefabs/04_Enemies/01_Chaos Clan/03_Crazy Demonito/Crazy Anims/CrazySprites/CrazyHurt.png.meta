@@ -1,0 +1,579 @@
+fileFormatVersion: 2
+guid: a59345003ac0f144aaf1637af224ada0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7155655985113742303
+    second: Dmg_Anim_CrazyDemon03_V0.5_0
+  - first:
+      213: -8815097307381288370
+    second: Dmg_Anim_CrazyDemon03_V0.5_1
+  - first:
+      213: -4586522596905910706
+    second: Dmg_Anim_CrazyDemon03_V0.5_2
+  - first:
+      213: 3607594482483661763
+    second: Dmg_Anim_CrazyDemon03_V0.5_3
+  - first:
+      213: -4673807394471001842
+    second: Dmg_Anim_CrazyDemon03_V0.5_4
+  - first:
+      213: -9096027270709913182
+    second: Dmg_Anim_CrazyDemon03_V0.5_5
+  - first:
+      213: 5499548322300066907
+    second: Dmg_Anim_CrazyDemon03_V0.5_6
+  - first:
+      213: 2822802573894790314
+    second: Dmg_Anim_CrazyDemon03_V0.5_7
+  - first:
+      213: 3279057186818916354
+    second: Dmg_Anim_CrazyDemon03_V0.5_8
+  - first:
+      213: -5403353692012592270
+    second: Dmg_Anim_CrazyDemon03_V0.5_9
+  - first:
+      213: 4913599477784892322
+    second: Dmg_Anim_CrazyDemon03_V0.5_10
+  - first:
+      213: 473774407280117068
+    second: Dmg_Anim_CrazyDemon03_V0.5_11
+  - first:
+      213: 9051549019098093242
+    second: Dmg_Anim_CrazyDemon03_V0.5_12
+  - first:
+      213: -1414339785735728375
+    second: Dmg_Anim_CrazyDemon03_V0.5_13
+  - first:
+      213: 2137810926694143651
+    second: Dmg_Anim_CrazyDemon03_V0.5_14
+  - first:
+      213: -6541762848303827175
+    second: Dmg_Anim_CrazyDemon03_V0.5_15
+  - first:
+      213: -5325944667462172485
+    second: Dmg_Anim_CrazyDemon03_V0.5_16
+  - first:
+      213: -2014934422626225398
+    second: Dmg_Anim_CrazyDemon03_V0.5_17
+  - first:
+      213: 3762109805203916290
+    second: Dmg_Anim_CrazyDemon03_V0.5_18
+  - first:
+      213: 8436401356521603582
+    second: Dmg_Anim_CrazyDemon03_V0.5_19
+  - first:
+      213: -3730771773941056965
+    second: Dmg_Anim_CrazyDemon03_V0.5_20
+  - first:
+      213: 7763254887781603191
+    second: Dmg_Anim_CrazyDemon03_V0.5_21
+  - first:
+      213: 6736137898323783062
+    second: Dmg_Anim_CrazyDemon03_V0.5_22
+  - first:
+      213: -7293501901959589487
+    second: Dmg_Anim_CrazyDemon03_V0.5_23
+  - first:
+      213: 3426359656497131375
+    second: Dmg_Anim_CrazyDemon03_V0.5_24
+  - first:
+      213: -4492362367758433905
+    second: Dmg_Anim_CrazyDemon03_V0.5_25
+  - first:
+      213: 7375977024561948101
+    second: Dmg_Anim_CrazyDemon03_V0.5_26
+  - first:
+      213: -299701816719472895
+    second: Dmg_Anim_CrazyDemon03_V0.5_27
+  - first:
+      213: -102175233602108148
+    second: Dmg_Anim_CrazyDemon03_V0.5_28
+  - first:
+      213: 4665710611650882428
+    second: Dmg_Anim_CrazyDemon03_V0.5_29
+  - first:
+      213: -4240335095339006622
+    second: Dmg_Anim_CrazyDemon03_V0.5_30
+  - first:
+      213: 4351613654228514743
+    second: Dmg_Anim_CrazyDemon03_V0.5_31
+  - first:
+      213: 5732574548496111338
+    second: Dmg_Anim_CrazyDemon03_V0.5_32
+  - first:
+      213: 8832852915713088974
+    second: Dmg_Anim_CrazyDemon03_V0.5_33
+  - first:
+      213: 861365450287721343
+    second: Dmg_Anim_CrazyDemon03_V0.5_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrazyHurt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.603894, y: 0.48117596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d1a6a2751645c4486e6565b2503800
+      internalID: 1008423639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 288
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.6038942, y: 0.47176394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345a922a26557a4bba399ed73c212b5
+      internalID: -746248537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 288
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.60389394, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d207f604d1ed0b4ba53e9c830f4bf37
+      internalID: -2112023583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 288
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.6038942, y: 0.50470626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ac2637643efb4b87ee575689f16e5
+      internalID: -2088361341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 288
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.6038942, y: 0.49529415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe57fc0f9ab557499259b695ec0facf
+      internalID: -388194290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_5
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 288
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.61806154, y: 0.50470626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf5df7dc633f2a4caf740bb5cf7cd6b
+      internalID: 185400626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_6
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 288
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.6038942, y: 0.48117596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab94974aa8e0d2648ad22bfb20838260
+      internalID: 800484466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_7
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 288
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.6180611, y: 0.4623518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9593d631932e97b498809e468e0313c3
+      internalID: -1936771927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5850042, y: 0.47646973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe296a63d8c7a99408c5a190d310029b
+      internalID: -2060071965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5755594, y: 0.43882132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c818c27b3f2d64d9be9ebb975daa76
+      internalID: 2122269846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5802817, y: 0.47176373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437558a8d62b8245a77216e5de1c350
+      internalID: -1962629429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_11
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.58028185, y: 0.49529397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a624168f65d67f14faf2b2c32d4e6b2c
+      internalID: 1563344349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_12
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.5850043, y: 0.47646973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc1b1b232a0364faa82c8f26fa70fa
+      internalID: -699914832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyHurt_13
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 0
+        width: 287
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515ff2c9865e98c41afb481160059300
+      internalID: -310738510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1d45820a32e56884cb86ef49f85f6c93
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrazyHurt_0: 1008423639
+      CrazyHurt_1: -746248537
+      CrazyHurt_10: -1962629429
+      CrazyHurt_11: 1563344349
+      CrazyHurt_12: -699914832
+      CrazyHurt_13: -310738510
+      CrazyHurt_2: -2112023583
+      CrazyHurt_3: -2088361341
+      CrazyHurt_4: -388194290
+      CrazyHurt_5: 185400626
+      CrazyHurt_6: 800484466
+      CrazyHurt_7: -1936771927
+      CrazyHurt_8: -2060071965
+      CrazyHurt_9: 2122269846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

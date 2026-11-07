@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: d1dec082cbfc0a14baf02fa7d0c779d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2158288177080677101
+    second: Earth Improve Effect_0
+  - first:
+      213: 5395596477464561526
+    second: Earth Improve Effect_1
+  - first:
+      213: -1109870869648403795
+    second: Earth Improve Effect_2
+  - first:
+      213: 1347840228134129835
+    second: Earth Improve Effect_3
+  - first:
+      213: 8527708096990164528
+    second: Earth Improve Effect_4
+  - first:
+      213: 735507285809272584
+    second: Earth Improve Effect_5
+  - first:
+      213: -4696697093519390698
+    second: Earth Improve Effect_6
+  - first:
+      213: -8147137256522669368
+    second: Earth Improve Effect_7
+  - first:
+      213: -1459870792519331224
+    second: Earth Improve Effect_8
+  - first:
+      213: 1083786165984097170
+    second: Earth Improve Effect_9
+  - first:
+      213: -2621697861740689391
+    second: Earth Improve Effect_10
+  - first:
+      213: -3259335557734487488
+    second: Earth Improve Effect_11
+  - first:
+      213: 1474410067981238853
+    second: Earth Improve Effect_12
+  - first:
+      213: 2153699614190866151
+    second: Earth Improve Effect_13
+  - first:
+      213: -3762638915008737478
+    second: Earth Improve Effect_14
+  - first:
+      213: 2657164034991809154
+    second: Earth Improve Effect_15
+  - first:
+      213: -6444603985246603515
+    second: Earth Improve Effect_16
+  - first:
+      213: 1266295981061893368
+    second: Earth Improve Effect_17
+  - first:
+      213: 1706613661237106266
+    second: Earth Improve Effect_18
+  - first:
+      213: -5396854067844137057
+    second: Earth Improve Effect_19
+  - first:
+      213: -2731937279728393279
+    second: Earth Improve Effect_20
+  - first:
+      213: 7565162067159371872
+    second: Earth Improve Effect_21
+  - first:
+      213: 4240984181694864589
+    second: Earth Improve Effect_22
+  - first:
+      213: -1173987790809653033
+    second: Earth Improve Effect_23
+  - first:
+      213: -8424076600930995543
+    second: Earth Improve Effect_24
+  - first:
+      213: -3923110214702948301
+    second: Earth Improve Effect_25
+  - first:
+      213: -2146392062022563925
+    second: Earth Improve Effect_26
+  - first:
+      213: 7442529098567561236
+    second: Earth Improve Effect_27
+  - first:
+      213: 6169671868164268017
+    second: Earth Improve Effect_28
+  - first:
+      213: -7766113187610616065
+    second: Earth Improve Effect_29
+  - first:
+      213: -7727968549253246277
+    second: Earth Improve Effect_30
+  - first:
+      213: 6400396831222564372
+    second: Earth Improve Effect_31
+  - first:
+      213: 8196781671327653207
+    second: Earth Improve Effect_32
+  - first:
+      213: -9201644197301824538
+    second: Earth Improve Effect_33
+  - first:
+      213: 3778321488697889292
+    second: Earth Improve Effect_34
+  - first:
+      213: 505347702052586946
+    second: Earth Improve Effect_35
+  - first:
+      213: -3649239009823848601
+    second: Earth Improve Effect_36
+  - first:
+      213: 3028258786252175642
+    second: Earth Improve Effect_37
+  - first:
+      213: 4451571490192830773
+    second: Earth Improve Effect_38
+  - first:
+      213: 1664770540138095728
+    second: Earth Improve Effect_39
+  - first:
+      213: -4657981006614862545
+    second: Earth Improve Effect_40
+  - first:
+      213: -3511079637363565672
+    second: Earth Improve Effect_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earth Improve Effect_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 900
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2b1d579a7c3fd10800000000000000
+      internalID: 2158288177080677101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Improve Effect_1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 900
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677cf9eb86201ea40800000000000000
+      internalID: 5395596477464561526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Improve Effect_2
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 900
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29d0c0352f890f0800000000000000
+      internalID: -1109870869648403795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Improve Effect_3
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1200
+        width: 900
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba09aebdb8d74b210800000000000000
+      internalID: 1347840228134129835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Improve Effect_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 900
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036325d1551885670800000000000000
+      internalID: 8527708096990164528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Improve Effect_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 900
+        height: 1200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8079f54cafb053a00800000000000000
+      internalID: 735507285809272584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Improve Effect_6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 66
+        width: 788
+        height: 1074
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618ca2ba0eaf1deb0800000000000000
+      internalID: -4696697093519390698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Improve Effect_7
+      rect:
+        serializedVersion: 2
+        x: 2747
+        y: 63
+        width: 788
+        height: 1077
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ad90a4dd8fee80800000000000000
+      internalID: -8147137256522669368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earth Improve Effect_8
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 61
+        width: 799
+        height: 1084
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dadb1334a12a141aca118c961fc39a
+      internalID: -1459870792519331224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 65404d843674f784780b5cdd34eb01c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Earth Improve Effect_0: 2158288177080677101
+      Earth Improve Effect_1: 5395596477464561526
+      Earth Improve Effect_2: -1109870869648403795
+      Earth Improve Effect_3: 1347840228134129835
+      Earth Improve Effect_4: 8527708096990164528
+      Earth Improve Effect_5: 735507285809272584
+      Earth Improve Effect_6: -4696697093519390698
+      Earth Improve Effect_7: -8147137256522669368
+      Earth Improve Effect_8: -1459870792519331224
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

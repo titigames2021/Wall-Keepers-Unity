@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 0e8667125a4d6e549ba28792470e5bdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 988548836561121389
+    second: demonito-chaman_0
+  - first:
+      213: -7278968258339555989
+    second: demonito-chaman_1
+  - first:
+      213: 8750856740979108897
+    second: demonito-chaman_2
+  - first:
+      213: -5340483613309234397
+    second: demonito-chaman_3
+  - first:
+      213: -2637699795020327412
+    second: demonito-chaman_4
+  - first:
+      213: 5286979824133796310
+    second: demonito-chaman_5
+  - first:
+      213: 5954349243933073588
+    second: demonito-chaman_6
+  - first:
+      213: -7885844987679744589
+    second: demonito-chaman_7
+  - first:
+      213: -4406805808186923820
+    second: demonito-chaman_8
+  - first:
+      213: -7266340765262997577
+    second: demonito-chaman_9
+  - first:
+      213: -4906232571415285737
+    second: demonito-chaman_10
+  - first:
+      213: 5944195895925588515
+    second: demonito-chaman_11
+  - first:
+      213: -6077753730257297339
+    second: demonito-chaman_12
+  - first:
+      213: -2585319050449031649
+    second: demonito-chaman_13
+  - first:
+      213: -3041403629775407885
+    second: demonito-chaman_14
+  - first:
+      213: -3465718007607687906
+    second: demonito-chaman_15
+  - first:
+      213: 6339405569811482394
+    second: demonito-chaman_16
+  - first:
+      213: -2379880010308479434
+    second: demonito-chaman_17
+  - first:
+      213: -8991745096479266513
+    second: demonito-chaman_18
+  - first:
+      213: 7085847776939742768
+    second: demonito-chaman_19
+  - first:
+      213: 8199692412506448880
+    second: demonito-chaman_20
+  - first:
+      213: 4624426194544206858
+    second: demonito-chaman_21
+  - first:
+      213: -6850062101276059816
+    second: demonito-chaman_22
+  - first:
+      213: 4268125732459775895
+    second: demonito-chaman_23
+  - first:
+      213: -4100808688972971339
+    second: demonito-chaman_24
+  - first:
+      213: 3586301852338851088
+    second: demonito-chaman_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demonito-chaman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 222
+        height: 300
+      alignment: 9
+      pivot: {x: 0.67496306, y: 0.44114867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d54203a10e931419b089416cf65a26
+      internalID: -1656627371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 600
+        width: 222
+        height: 300
+      alignment: 9
+      pivot: {x: 0.58483064, y: 0.46076578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b010856b060a24aa341217cfac5bbe
+      internalID: -1392377829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 600
+        width: 222
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5758725, y: 0.47660604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a6a68ff110464478a777cb7d215a14
+      internalID: 1034993970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 600
+        width: 202
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5729615, y: 0.47426656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521fe78b6d9a4c54f817a3bf68e2d8d5
+      internalID: 874795762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 600
+        width: 174
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5806688, y: 0.4695878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7795d7265a9dd8349948218d05eabf49
+      internalID: -1629898157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_5
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 601
+        width: 178
+        height: 299
+      alignment: 9
+      pivot: {x: 0.3974863, y: 0.4272359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7b57f747c8f5a42b3219727ffc7cd2
+      internalID: -1316563593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_6
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 600
+        width: 269
+        height: 300
+      alignment: 9
+      pivot: {x: 0.24388695, y: 0.46566018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128154d500774334bbe3fd600c68812d
+      internalID: 87618826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 240
+        height: 279
+      alignment: 9
+      pivot: {x: 0.6958447, y: 0.53000116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f955a50f4643b42b73c134631ba725
+      internalID: 400550575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 317
+        width: 204
+        height: 283
+      alignment: 9
+      pivot: {x: 0.61993724, y: 0.5432282}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd54b5d7595fb7418ae5a9c77d335d7
+      internalID: 531610345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 300
+        width: 222
+        height: 300
+      alignment: 9
+      pivot: {x: 0.64211625, y: 0.62662834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42128ae0b9406948bb194bf77c5cba5
+      internalID: 414378516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_10
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 298
+        width: 222
+        height: 300
+      alignment: 9
+      pivot: {x: 0.51450163, y: 0.62233573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09d0c05a07aea49a378dceef08fadd
+      internalID: 1051105724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 300
+        width: 181
+        height: 300
+      alignment: 9
+      pivot: {x: 0.57470363, y: 0.6201896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5963caa209a7677468600749ce3d811c
+      internalID: 1402241891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_12
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 300
+        width: 222
+        height: 300
+      alignment: 9
+      pivot: {x: 0.44489405, y: 0.5815572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df58106cc2bd794a8c71d1541d92a76
+      internalID: -1004182999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_13
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 300
+        width: 222
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac73fd7f927cc8e4ea9ce871a4b830fb
+      internalID: 839249543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 222
+        height: 321
+      alignment: 9
+      pivot: {x: 0.72415966, y: 0.7193767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef90ec1270bdb94791376c8ea651a80
+      internalID: -443459703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 222
+        height: 314
+      alignment: 9
+      pivot: {x: 0.63534176, y: 0.71828693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e585cccf921b843a115a9c7b5d28b2
+      internalID: 1827940983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_16
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 222
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6015064, y: 0.7128248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09547c939210534458184b8127f5b8a1
+      internalID: 1165269458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_17
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 346
+        height: 297
+      alignment: 9
+      pivot: {x: 0.63568413, y: 0.64858526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e198102cd4140e4aac9c32a37f21d5c
+      internalID: -672298075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_18
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 20
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03edbd52925e6d479b4ccb3561d8779
+      internalID: 374724734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_19
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 290
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c640fa347b4d0b04d91e0b8d7a84746b
+      internalID: 318514061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demonito-chaman_20
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 0
+        width: 177
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a107461dec3ad44b0a889c07ca6231
+      internalID: 42835686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 27c21d17209f34a4bac6f2acef952990
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      demonito-chaman_0: -1656627371
+      demonito-chaman_1: -1392377829
+      demonito-chaman_10: 1051105724
+      demonito-chaman_11: 1402241891
+      demonito-chaman_12: -1004182999
+      demonito-chaman_13: 839249543
+      demonito-chaman_14: -443459703
+      demonito-chaman_15: 1827940983
+      demonito-chaman_16: 1165269458
+      demonito-chaman_17: -672298075
+      demonito-chaman_18: 374724734
+      demonito-chaman_19: 318514061
+      demonito-chaman_2: 1034993970
+      demonito-chaman_20: 42835686
+      demonito-chaman_3: 874795762
+      demonito-chaman_4: -1629898157
+      demonito-chaman_5: -1316563593
+      demonito-chaman_6: 87618826
+      demonito-chaman_7: 400550575
+      demonito-chaman_8: 531610345
+      demonito-chaman_9: 414378516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

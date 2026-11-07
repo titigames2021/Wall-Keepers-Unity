@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 9ac1fcd4051810249b7c6eab3104a915
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1775149207698712609
+    second: MUD_0
+  - first:
+      213: -2082969223161780137
+    second: MUD_1
+  - first:
+      213: 7009968742669505798
+    second: MUD_2
+  - first:
+      213: -5951612098548217026
+    second: MUD_3
+  - first:
+      213: -3159663067956786348
+    second: MUD_4
+  - first:
+      213: -7392753697225918302
+    second: MUD_5
+  - first:
+      213: -5925682031884544154
+    second: MUD_6
+  - first:
+      213: -4876665044456856031
+    second: MUD_7
+  - first:
+      213: 8122495740180178798
+    second: MUD_8
+  - first:
+      213: 2551832427667130213
+    second: MUD_9
+  - first:
+      213: -5735376273832879304
+    second: MUD_10
+  - first:
+      213: 4815192772210339399
+    second: MUD_11
+  - first:
+      213: -2711983199298430549
+    second: MUD_12
+  - first:
+      213: 2429106557694880989
+    second: MUD_13
+  - first:
+      213: -8304566855247149117
+    second: MUD_14
+  - first:
+      213: -7278664434842094669
+    second: MUD_15
+  - first:
+      213: -3098921467394941096
+    second: MUD_16
+  - first:
+      213: 1962375391598717368
+    second: MUD_17
+  - first:
+      213: -7264693779405876415
+    second: MUD_18
+  - first:
+      213: 5292848852296815416
+    second: MUD_19
+  - first:
+      213: 8082940015228549657
+    second: MUD_20
+  - first:
+      213: -7601602571147631844
+    second: MUD_21
+  - first:
+      213: -8308604859256673394
+    second: MUD_22
+  - first:
+      213: -6664452528474141597
+    second: MUD_23
+  - first:
+      213: -3291201253644914521
+    second: MUD_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MUD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1378
+        width: 1279
+        height: 1377
+      alignment: 9
+      pivot: {x: 0.4010913, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a23c9cc892a810800000000000000
+      internalID: 1775149207698712609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD_1
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1378
+        width: 1279
+        height: 1377
+      alignment: 9
+      pivot: {x: 0.53885704, y: 0.4737516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758ee5f078ec713e0800000000000000
+      internalID: -2082969223161780137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD_2
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 1378
+        width: 1279
+        height: 1377
+      alignment: 9
+      pivot: {x: 0.46114308, y: 0.45734632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60558695e69684160800000000000000
+      internalID: 7009968742669505798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MUD_3
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 1378
+        width: 1279
+        height: 1377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bcd115450a76da0800000000000000
+      internalID: -5951612098548217026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 73304d96a6399f246935c21d6d2549ca
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MUD_0: 1775149207698712609
+      MUD_1: -2082969223161780137
+      MUD_2: 7009968742669505798
+      MUD_3: -5951612098548217026
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

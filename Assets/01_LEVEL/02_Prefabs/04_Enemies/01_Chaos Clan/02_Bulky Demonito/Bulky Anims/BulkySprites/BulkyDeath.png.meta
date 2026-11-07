@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: 717993099ee8be840981cc93e4d28897
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2203027699675954094
+    second: muriendo_0
+  - first:
+      213: 7597731974005155116
+    second: muriendo_1
+  - first:
+      213: 7324014125440191225
+    second: muriendo_2
+  - first:
+      213: 879226610357582267
+    second: muriendo_3
+  - first:
+      213: 4456181173000223653
+    second: muriendo_4
+  - first:
+      213: 324736166475789195
+    second: muriendo_5
+  - first:
+      213: -2600767837994987123
+    second: muriendo_6
+  - first:
+      213: -5950521646097618601
+    second: muriendo_7
+  - first:
+      213: 4929679865991817130
+    second: muriendo_8
+  - first:
+      213: 4638860340956277188
+    second: muriendo_9
+  - first:
+      213: -1962297899949522472
+    second: muriendo_10
+  - first:
+      213: -3496663782046831037
+    second: muriendo_11
+  - first:
+      213: 9211712595380444292
+    second: muriendo_12
+  - first:
+      213: 2107309356283708029
+    second: muriendo_13
+  - first:
+      213: 8937863179558244786
+    second: muriendo_14
+  - first:
+      213: 6320317878449839574
+    second: muriendo_15
+  - first:
+      213: 7873051854663671322
+    second: muriendo_16
+  - first:
+      213: -5529612623257133935
+    second: muriendo_17
+  - first:
+      213: 7053045072686457092
+    second: muriendo_18
+  - first:
+      213: -3630469788055190018
+    second: muriendo_19
+  - first:
+      213: -1872506419930983187
+    second: muriendo_20
+  - first:
+      213: 8101997876140054405
+    second: muriendo_21
+  - first:
+      213: -8583621206581511244
+    second: muriendo_22
+  - first:
+      213: 1837941664952802809
+    second: muriendo_23
+  - first:
+      213: 9068903574396317874
+    second: muriendo_24
+  - first:
+      213: -4760830901674999638
+    second: muriendo_25
+  - first:
+      213: 1181124743775995981
+    second: muriendo_26
+  - first:
+      213: 7741845342470377569
+    second: muriendo_27
+  - first:
+      213: 3734222674558812994
+    second: muriendo_28
+  - first:
+      213: 7761293966756266312
+    second: muriendo_29
+  - first:
+      213: -1918125220768110788
+    second: muriendo_30
+  - first:
+      213: -7429486584578662693
+    second: muriendo_31
+  - first:
+      213: 3691979640861908539
+    second: muriendo_32
+  - first:
+      213: -8129136061068007034
+    second: muriendo_33
+  - first:
+      213: -5850407736647178254
+    second: muriendo_34
+  - first:
+      213: 1252125372174118026
+    second: muriendo_35
+  - first:
+      213: -3350163716814840618
+    second: muriendo_36
+  - first:
+      213: -2830815528916579097
+    second: muriendo_37
+  - first:
+      213: -7228469281872169414
+    second: muriendo_38
+  - first:
+      213: 6070180449241316008
+    second: muriendo_39
+  - first:
+      213: -4142884906650286276
+    second: muriendo_40
+  - first:
+      213: -7264440579468951726
+    second: muriendo_41
+  - first:
+      213: -8625506050085862270
+    second: muriendo_42
+  - first:
+      213: 7167334760122755377
+    second: muriendo_43
+  - first:
+      213: 4655872187444702408
+    second: muriendo_44
+  - first:
+      213: -8888902585233173934
+    second: muriendo_45
+  - first:
+      213: -4178378829066664556
+    second: muriendo_46
+  - first:
+      213: -774757140624699355
+    second: muriendo_47
+  - first:
+      213: -8876595912936706801
+    second: muriendo_48
+  - first:
+      213: -8361521604431935310
+    second: muriendo_49
+  - first:
+      213: 6488123591538779489
+    second: muriendo_50
+  - first:
+      213: -7821998420297316778
+    second: muriendo_51
+  - first:
+      213: -5771797942501753151
+    second: muriendo_52
+  - first:
+      213: -6557087405637923890
+    second: muriendo_53
+  - first:
+      213: -9066850890698331771
+    second: muriendo_54
+  - first:
+      213: -2207267392421405736
+    second: muriendo_55
+  - first:
+      213: 4517309174574201391
+    second: muriendo_56
+  - first:
+      213: 3710630971994940723
+    second: muriendo_57
+  - first:
+      213: 6110544663814202278
+    second: muriendo_58
+  - first:
+      213: -6864553095124561368
+    second: muriendo_59
+  - first:
+      213: 2699126312597238886
+    second: muriendo_60
+  - first:
+      213: -989107695159358546
+    second: muriendo_61
+  - first:
+      213: -6036312753310642994
+    second: muriendo_62
+  - first:
+      213: 21296094152868277
+    second: muriendo_63
+  - first:
+      213: -2028629022005586677
+    second: muriendo_64
+  - first:
+      213: -5694795848141958195
+    second: muriendo_65
+  - first:
+      213: -1099634680919328373
+    second: muriendo_66
+  - first:
+      213: -7619487968317620137
+    second: muriendo_67
+  - first:
+      213: -7697053814774418616
+    second: muriendo_68
+  - first:
+      213: -4562516947199048151
+    second: muriendo_69
+  - first:
+      213: 3051252058999040368
+    second: muriendo_70
+  - first:
+      213: -5474431045611044260
+    second: muriendo_71
+  - first:
+      213: -3849395612285672504
+    second: muriendo_72
+  - first:
+      213: -3438668856821535414
+    second: muriendo_73
+  - first:
+      213: 3208288507914245454
+    second: muriendo_74
+  - first:
+      213: 7099869633547133675
+    second: muriendo_75
+  - first:
+      213: -8219759219701051548
+    second: muriendo_76
+  - first:
+      213: -1333600314023163788
+    second: muriendo_77
+  - first:
+      213: -611433185443270039
+    second: muriendo_78
+  - first:
+      213: 2813534268444344194
+    second: muriendo_79
+  - first:
+      213: -464681624648521499
+    second: muriendo_80
+  - first:
+      213: 1576876087085954814
+    second: muriendo_81
+  - first:
+      213: -7877390160306581127
+    second: muriendo_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulkyDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2308
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.4588711, y: 0.5178356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595d760c99675ca4ebe72df567675005
+      internalID: -1197361880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2308
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.47943553, y: 0.53923845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9d1e6a3dbe40f4abc1b9ab2252f8a5
+      internalID: -38817487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_2
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 2304
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.54112893, y: 0.58204395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9566e185005d19a468110d40158d861c
+      internalID: -2056576182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_3
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 2308
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.5239917, y: 0.55707407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4328e110e13645970ff23fd447bc1
+      internalID: -103131039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_4
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2308
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55707407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1766747018ae4e0449569d7942fb0ed1
+      internalID: 1922009884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1465
+        width: 1200
+        height: 843
+      alignment: 9
+      pivot: {x: 0.4657259, y: 0.49086443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0072a87d54f55b641a216120e19ae7e0
+      internalID: 975005758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1155
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.45544362, y: 0.6248493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdee00c3335fe834c9e469c366e8ba66
+      internalID: 1787692998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_7
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1155
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.5034273, y: 0.5713425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5730237beb0e5ca4ba7e8ea3a8ba3d52
+      internalID: 892046594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_8
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1155
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5535069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5ac2b7cffb17147b6d80ed822a1ef5
+      internalID: -1068485002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_9
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1151
+        width: 1200
+        height: 1153
+      alignment: 9
+      pivot: {x: 0.4897176, y: 0.58204395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8049b8993a50c49ab3a59c5f6648b6
+      internalID: -677635085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyDeath_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1200
+        height: 1280
+      alignment: 9
+      pivot: {x: 0.50342745, y: 0.58354324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d509b940275354b8c4f84e79718469
+      internalID: 159375288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ad2618689d673d9448c73d7bf538cef5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BulkyDeath_0: -1197361880
+      BulkyDeath_1: -38817487
+      BulkyDeath_10: 159375288
+      BulkyDeath_2: -2056576182
+      BulkyDeath_3: -103131039
+      BulkyDeath_4: 1922009884
+      BulkyDeath_5: 975005758
+      BulkyDeath_6: 1787692998
+      BulkyDeath_7: 892046594
+      BulkyDeath_8: -1068485002
+      BulkyDeath_9: -677635085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

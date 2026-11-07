@@ -1,0 +1,5 @@
+C:/Users/manue/Desktop/Wall-Keepers/Wall Keepers Unity/.utmp/RelWithDebInfo/2j21453q/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/manue/Desktop/Wall-Keepers/Wall Keepers Unity/.utmp/RelWithDebInfo/2j21453q/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/manue/Desktop/Wall-Keepers/Wall Keepers Unity/.utmp/RelWithDebInfo/2j21453q/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/manue/Desktop/Wall-Keepers/Wall Keepers Unity/.utmp/RelWithDebInfo/2j21453q/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/manue/Desktop/Wall-Keepers/Wall Keepers Unity/.utmp/RelWithDebInfo/2j21453q/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

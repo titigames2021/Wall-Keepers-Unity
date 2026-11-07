@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095fe339d410b2b4fb3ae82e354c45cc, type: 3}
+  m_Name: 09_Krab King
+  m_EditorClassIdentifier: 
+  sprite_bestiary: {fileID: 21300000, guid: 907c126f3859a5a4e8173f72960e6a11, type: 3}
+  i_id: 9
+  i_hp: 25000
+  i_dmg: 0
+  f_speed: 0.4
+  f_RageOfAction: 10
+  f_projectailSpeed: 0
+  i_manaEnergyReleased: 100
+  Description: 'The Krab King is a powerfull shaman who hides behind his shell and
+    summons other demonitos using its magic.
+
+
+    Size: Huge'
+  deathClip: {fileID: 8300000, guid: 36fbebcd45a512b4086422f493fee6d2, type: 3}
+  e_Clan: 2
+  e_ElementalType: 3
+  e_size: 2

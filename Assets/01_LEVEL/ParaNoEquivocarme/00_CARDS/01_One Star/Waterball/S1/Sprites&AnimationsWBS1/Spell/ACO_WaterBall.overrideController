@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ACO_WaterBall
+  m_Controller: {fileID: 9100000, guid: abf7574e2629f8240b0df537e892e8e0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3e614fc0d46bb6642b105dc6855fd7c1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f63b6515604e567458ffa6e1924c8084, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 622c16eef7e8d5e4a985e5d1f1c622bd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0be5b031d6d5d9d4cb72a4a81e01204c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 47ce1d122b8c3974b833e895438a90f7, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b814ef63b508ffa48bcb68bea70cb367, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8e452ee2909968942ab7e923c70ff857, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 63c00130c0b4851449c315c60b8bb907, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1403de4d50d0e27408e4c88406c1ed3d, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1892ac106892d824cb9cc342f0a4cf41, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: deb95c16fa91c2d49a22c6272dc8e784, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 92392e0358a3c1542a695ba491ffcb92, type: 2}

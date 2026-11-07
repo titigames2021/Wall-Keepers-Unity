@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095fe339d410b2b4fb3ae82e354c45cc, type: 3}
+  m_Name: 00_Chaos Basic
+  m_EditorClassIdentifier: 
+  sprite_bestiary: {fileID: 289988425, guid: 47b537a3f66378245947c21dd456d2e0, type: 3}
+  i_id: 0
+  i_hp: 350
+  i_dmg: 300
+  f_speed: 1
+  f_RageOfAction: 1
+  f_projectailSpeed: 0
+  i_manaEnergyReleased: 2
+  Description: 'Ordinary demonitos from the Chaos clan. They use their claws to scratch
+    and destroy everythinh they find.
+
+
+    Size: Small'
+  deathClip: {fileID: 0}
+  e_Clan: 1
+  e_ElementalType: 0
+  e_size: 0

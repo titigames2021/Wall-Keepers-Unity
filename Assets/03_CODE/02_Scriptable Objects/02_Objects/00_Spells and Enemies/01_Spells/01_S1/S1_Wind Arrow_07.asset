@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67a28c5053d354cbc9b5d80ae0aaa875, type: 3}
+  m_Name: S1_Wind Arrow_07
+  m_EditorClassIdentifier: 
+  i_id: 7
+  Description: Shoots a wind arrow that flies at super fast speed dealing damage
+    to enemies on impact.
+  e_spellType: 0
+  i_spellStarsTier: 1
+  i_mana_cost: 1
+  f_dmg: 250
+  f_duration: 0
+  f_projectileSpeed: 9
+  f_resistance: 0
+  requiredElementalRune: {fileID: 11400000, guid: b1f41260bc5382245be7bf31f10bb7ea, type: 2}
+  _card_Sprite: {fileID: 21300000, guid: 09369eac6d36dfd40b47a18c5a0170cc, type: 3}
+  _onField_Sprite: {fileID: 6585663717174138110, guid: 03ce541a0ef925949b9f6ce96b8b1537, type: 3}
+  spellPrefab: {fileID: 3710612274443187034, guid: ab89382b0d5f3e64db1a03769c1f5810, type: 3}
+  castClip: {fileID: 8300000, guid: 993d8429039484c409b86e6ab4bb4a79, type: 3}
+  impactClip: {fileID: 8300000, guid: d072348a9df3e714b8b0e37f720442f3, type: 3}
+  i_starLevel: 1
+  spr_spellRequiredCard_1: {fileID: 0}
+  spr_spellRequiredCard_2: {fileID: 0}
+  i_spellRequired_1_Id: 3
+  i_spellRequired_2_Id: 0
+  f_slowDown_value: 0
+  f_attackInterval: 0
+  f_repeatingDmgCoolDown: 0
+  e_CastingType: 1
+  e_Effect: 1
+  e_Element: 4
+  e_2Element: 0
+  b_isMerged: 0
+  fusionSprite1: {fileID: 0}
+  fusionSprite2: {fileID: 0}
+  fusionSprite3: {fileID: 0}
+  fusionSprite4: {fileID: 0}
+  fusionSprite5: {fileID: 0}
+  b_canAwake: 0
+  i_awakenLevel: 1

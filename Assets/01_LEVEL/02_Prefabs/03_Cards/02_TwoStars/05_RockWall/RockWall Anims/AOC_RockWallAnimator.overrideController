@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_RockWallAnimator
+  m_Controller: {fileID: 9100000, guid: 492b5ac707c47e240aedbefdfaa2b8e9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 174e4e44290f19e4ba64d3746fea8f89, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aacdd918753fd964abbab1cabc2ed602, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5932056294f341f46aa72a49a96c648c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6fce61980195c004894a06eaf552d684, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 668530b7a5e65ec40a449c31a5080821, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f62b0b23752316f409b7f5af9369e013, type: 2}

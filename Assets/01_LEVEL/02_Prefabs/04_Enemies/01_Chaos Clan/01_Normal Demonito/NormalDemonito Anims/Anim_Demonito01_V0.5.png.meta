@@ -1,0 +1,826 @@
+fileFormatVersion: 2
+guid: a3fd1b97705b85548965becf6bd07687
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9093698520687363292
+    second: Anim_Demonito01_V0.5_0
+  - first:
+      213: 3972897905705946632
+    second: Anim_Demonito01_V0.5_1
+  - first:
+      213: 4350064538028879709
+    second: Anim_Demonito01_V0.5_2
+  - first:
+      213: -3884041603627072941
+    second: Anim_Demonito01_V0.5_3
+  - first:
+      213: -3979778115929905503
+    second: Anim_Demonito01_V0.5_4
+  - first:
+      213: -6537439725524609817
+    second: Anim_Demonito01_V0.5_5
+  - first:
+      213: -8746439958740257003
+    second: Anim_Demonito01_V0.5_6
+  - first:
+      213: -7016016115204679069
+    second: Anim_Demonito01_V0.5_7
+  - first:
+      213: 7605486141693437504
+    second: Anim_Demonito01_V0.5_8
+  - first:
+      213: 695493537657546500
+    second: Anim_Demonito01_V0.5_9
+  - first:
+      213: 3943582590020696011
+    second: Anim_Demonito01_V0.5_10
+  - first:
+      213: 2320956825821483611
+    second: Anim_Demonito01_V0.5_11
+  - first:
+      213: 2852170899169626782
+    second: Anim_Demonito01_V0.5_12
+  - first:
+      213: -8149057913337055396
+    second: Anim_Demonito01_V0.5_13
+  - first:
+      213: 4978389605175312903
+    second: Anim_Demonito01_V0.5_14
+  - first:
+      213: -5799959566950775190
+    second: Anim_Demonito01_V0.5_15
+  - first:
+      213: 5627585663781239768
+    second: Anim_Demonito01_V0.5_16
+  - first:
+      213: -2426675608773071388
+    second: Anim_Demonito01_V0.5_17
+  - first:
+      213: -7525993125724446050
+    second: Anim_Demonito01_V0.5_18
+  - first:
+      213: 1173987049284487071
+    second: Anim_Demonito01_V0.5_19
+  - first:
+      213: -2134127281535366892
+    second: Anim_Demonito01_V0.5_20
+  - first:
+      213: 3801199425737202874
+    second: Anim_Demonito01_V0.5_21
+  - first:
+      213: -4798129445118537802
+    second: Anim_Demonito01_V0.5_22
+  - first:
+      213: 4960524299166741617
+    second: Anim_Demonito01_V0.5_23
+  - first:
+      213: 1346556579572992472
+    second: Anim_Demonito01_V0.5_24
+  - first:
+      213: -4282899914141519954
+    second: Anim_Demonito01_V0.5_25
+  - first:
+      213: 998203709110188102
+    second: Anim_Demonito01_V0.5_26
+  - first:
+      213: 6495162085056515505
+    second: Anim_Demonito01_V0.5_27
+  - first:
+      213: -4362051901404126306
+    second: Anim_Demonito01_V0.5_28
+  - first:
+      213: -5804429124023415755
+    second: Anim_Demonito01_V0.5_29
+  - first:
+      213: -7081338325325470182
+    second: Anim_Demonito01_V0.5_30
+  - first:
+      213: 4578783515179070873
+    second: Anim_Demonito01_V0.5_31
+  - first:
+      213: 5266164173682516833
+    second: Anim_Demonito01_V0.5_32
+  - first:
+      213: -6275177045554136745
+    second: Anim_Demonito01_V0.5_33
+  - first:
+      213: -4018204519921367000
+    second: Anim_Demonito01_V0.5_34
+  - first:
+      213: 6001844929901241046
+    second: Anim_Demonito01_V0.5_35
+  - first:
+      213: 8577505970884551790
+    second: Anim_Demonito01_V0.5_36
+  - first:
+      213: 4397717623336521100
+    second: Anim_Demonito01_V0.5_37
+  - first:
+      213: -3362435419728853745
+    second: Anim_Demonito01_V0.5_38
+  - first:
+      213: -5842165569874719999
+    second: Anim_Demonito01_V0.5_39
+  - first:
+      213: -2106847210193902943
+    second: Anim_Demonito01_V0.5_40
+  - first:
+      213: -3308713530380022209
+    second: Anim_Demonito01_V0.5_41
+  - first:
+      213: 5912220771434468789
+    second: Anim_Demonito01_V0.5_42
+  - first:
+      213: 3233199791060668412
+    second: Anim_Demonito01_V0.5_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 418
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8331602caf370d4fb4a6f9d872dd895
+      internalID: -532779663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 418
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197cb7dacc0685941b0f20b281fa2c46
+      internalID: 1451806180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 418
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fba848b4bbdc7544ac77f2ba544221d
+      internalID: -1524543631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_3
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 418
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0293ba2d970e86d43a647fb3d83dcf64
+      internalID: 1110733155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 418
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201055fbff34a804097cd8d8ce99b44d
+      internalID: -1380855151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_5
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 418
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b577176e09f7246bfa97098d1c1881
+      internalID: 1635137712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_6
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 418
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3d6f3203b6ed54e8c65795d7127b8f
+      internalID: -416978562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_7
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 418
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75e263436d10554781f0833df65d625
+      internalID: 2108234194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb81340916d1e7b4492e9ab3878893ff
+      internalID: 1394211090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 209
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f7ed49e3f9b444c97765c01bb91d26
+      internalID: -975987754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 209
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031bc5101e1ec2f4cb24c291a2ed56e0
+      internalID: 1529572423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_11
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 209
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b6594f71aa1e46b21fafcb2dab97f
+      internalID: -1142686199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_12
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 209
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeeb1af6f5a7324dbdd282055093a94
+      internalID: 575492502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_13
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 209
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394e532f3eb9d6d4d941c1b72b7f8be0
+      internalID: 1098434551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e7ce6f6dc80e49b41195a06fd8df6
+      internalID: 609415458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53b1a755ebb31c40b712e43c70cf758
+      internalID: -159253245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f53965c9d58f64a85e2f727965513b
+      internalID: -1015650572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_17
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cee21346bc8644797f87114b4943af
+      internalID: 1812478153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_18
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3d0133e8866264bb80f859c7588087
+      internalID: -158544779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_19
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d38ddb1a03f61a48a86c5f1bd4a1a08
+      internalID: 2097585053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_20
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff39a6ad50b18634f9a38338d3b723e7
+      internalID: -1061054384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_21
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2929dd6ee1db29d4bab376029dbe3ef7
+      internalID: 2015371866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_22
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a07fc22787904288c815711695f70
+      internalID: 1815235700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim_Demonito01_V0.5_23
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 0
+        width: 209
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6279c83e3a9007c4e828f177a159aade
+      internalID: 1099445793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 130efcb6d4edc96418bf2e87a034b59f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Anim_Demonito01_V0.5_0: -532779663
+      Anim_Demonito01_V0.5_1: 1451806180
+      Anim_Demonito01_V0.5_10: 1529572423
+      Anim_Demonito01_V0.5_11: -1142686199
+      Anim_Demonito01_V0.5_12: 575492502
+      Anim_Demonito01_V0.5_13: 1098434551
+      Anim_Demonito01_V0.5_14: 609415458
+      Anim_Demonito01_V0.5_15: -159253245
+      Anim_Demonito01_V0.5_16: -1015650572
+      Anim_Demonito01_V0.5_17: 1812478153
+      Anim_Demonito01_V0.5_18: -158544779
+      Anim_Demonito01_V0.5_19: 2097585053
+      Anim_Demonito01_V0.5_2: -1524543631
+      Anim_Demonito01_V0.5_20: -1061054384
+      Anim_Demonito01_V0.5_21: 2015371866
+      Anim_Demonito01_V0.5_22: 1815235700
+      Anim_Demonito01_V0.5_23: 1099445793
+      Anim_Demonito01_V0.5_3: 1110733155
+      Anim_Demonito01_V0.5_4: -1380855151
+      Anim_Demonito01_V0.5_5: 1635137712
+      Anim_Demonito01_V0.5_6: -416978562
+      Anim_Demonito01_V0.5_7: 2108234194
+      Anim_Demonito01_V0.5_8: 1394211090
+      Anim_Demonito01_V0.5_9: -975987754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

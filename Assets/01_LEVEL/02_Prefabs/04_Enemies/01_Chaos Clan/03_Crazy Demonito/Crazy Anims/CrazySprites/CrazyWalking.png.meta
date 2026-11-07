@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: dae4123f30479734aae0db53bf57c938
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6495620021547837736
+    second: Anim_CrazyDemon01_V0.5_0
+  - first:
+      213: -5963056115980082835
+    second: Anim_CrazyDemon01_V0.5_1
+  - first:
+      213: -4627630072066636860
+    second: Anim_CrazyDemon01_V0.5_2
+  - first:
+      213: -4645864066662521612
+    second: Anim_CrazyDemon01_V0.5_3
+  - first:
+      213: -3562742762761181144
+    second: Anim_CrazyDemon01_V0.5_4
+  - first:
+      213: 7792548795325120908
+    second: Anim_CrazyDemon01_V0.5_5
+  - first:
+      213: -8268787233754925536
+    second: Anim_CrazyDemon01_V0.5_6
+  - first:
+      213: 6764333934981634477
+    second: Anim_CrazyDemon01_V0.5_7
+  - first:
+      213: 5655758867954552036
+    second: Anim_CrazyDemon01_V0.5_8
+  - first:
+      213: 6426060274414586520
+    second: Anim_CrazyDemon01_V0.5_9
+  - first:
+      213: -7010583859301864640
+    second: Anim_CrazyDemon01_V0.5_10
+  - first:
+      213: 6819908780370348512
+    second: Anim_CrazyDemon01_V0.5_11
+  - first:
+      213: -200799264430175420
+    second: Anim_CrazyDemon01_V0.5_12
+  - first:
+      213: -2644905157131683607
+    second: Anim_CrazyDemon01_V0.5_13
+  - first:
+      213: 5177219940067370537
+    second: Anim_CrazyDemon01_V0.5_14
+  - first:
+      213: -6648099518553606437
+    second: Anim_CrazyDemon01_V0.5_15
+  - first:
+      213: 473133554412863641
+    second: Anim_CrazyDemon01_V0.5_16
+  - first:
+      213: 7432844828678627212
+    second: Anim_CrazyDemon01_V0.5_17
+  - first:
+      213: -5802652393405270583
+    second: Anim_CrazyDemon01_V0.5_18
+  - first:
+      213: -4597189461926622835
+    second: Anim_CrazyDemon01_V0.5_19
+  - first:
+      213: 8995596894221804556
+    second: Anim_CrazyDemon01_V0.5_20
+  - first:
+      213: -5907838802691890340
+    second: Anim_CrazyDemon01_V0.5_21
+  - first:
+      213: 5802570188435135066
+    second: Anim_CrazyDemon01_V0.5_22
+  - first:
+      213: 6026490461309810037
+    second: Anim_CrazyDemon01_V0.5_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrazyWalking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.603894, y: 0.53294253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479405e9bd0213d4283b3b4baf659a60
+      internalID: -1832752377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyWalking_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.60861653, y: 0.5517667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4807074768316640a89f46d162d05d8
+      internalID: 1867673029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyWalking_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.60389394, y: 0.53764856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb53b94a3e6ae941b92da68f52992b6
+      internalID: -345662015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyWalking_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.61333907, y: 0.53764856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0fbe9d9c2317c4ea7feb53c038fbf0
+      internalID: -1702045076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyWalking_4
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.60861665, y: 0.52823645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1913711bfaf979f4d84b74a80f315c34
+      internalID: 1222772715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyWalking_5
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.61333907, y: 0.53294253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda1f3cc7d528f149aec4ad2ebd4c9ce
+      internalID: 1268684557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyWalking_6
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.622784, y: 0.54706067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbedd6b9457ef4b499cadf2f63bab140
+      internalID: -682045432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrazyWalking_7
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 0
+        width: 287
+        height: 288
+      alignment: 9
+      pivot: {x: 0.622784, y: 0.53294253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e42270cc37a7c47a626315b5ba0a88
+      internalID: -1205094896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cade0fbaea850db4b8e49c28bda0d908
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrazyWalking_0: -1832752377
+      CrazyWalking_1: 1867673029
+      CrazyWalking_2: -345662015
+      CrazyWalking_3: -1702045076
+      CrazyWalking_4: 1222772715
+      CrazyWalking_5: 1268684557
+      CrazyWalking_6: -682045432
+      CrazyWalking_7: -1205094896
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

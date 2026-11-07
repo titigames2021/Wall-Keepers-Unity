@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: 03ce541a0ef925949b9f6ce96b8b1537
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6585663717174138110
+    second: FireBallAnim04_0
+  - first:
+      213: -6888588246890360468
+    second: FireBallAnim04_1
+  - first:
+      213: -350156062739256107
+    second: FireBallAnim04_2
+  - first:
+      213: 3221572273638490766
+    second: FireBallAnim04_3
+  - first:
+      213: 1798803956173166510
+    second: FireBallAnim04_4
+  - first:
+      213: -8889147750885403131
+    second: FireBallAnim04_5
+  - first:
+      213: 2101690697842159197
+    second: FireBallAnim04_6
+  - first:
+      213: -3081585144452390384
+    second: FireBallAnim04_7
+  - first:
+      213: -1862963615959298709
+    second: FireBallAnim04_8
+  - first:
+      213: 3046012487071481873
+    second: FireBallAnim04_9
+  - first:
+      213: 4051631590147865846
+    second: FireBallAnim04_10
+  - first:
+      213: 83760972180004406
+    second: FireBallAnim04_11
+  - first:
+      213: 5164581932301716194
+    second: FireBallAnim04_12
+  - first:
+      213: 5319202155368498661
+    second: FireBallAnim04_13
+  - first:
+      213: -7492482652537392326
+    second: FireBallAnim04_14
+  - first:
+      213: -2663550627749382152
+    second: FireBallAnim04_15
+  - first:
+      213: 6151119152374081086
+    second: FireBallAnim04_16
+  - first:
+      213: 3790910062840883899
+    second: FireBallAnim04_17
+  - first:
+      213: -5436064140824795242
+    second: FireBallAnim04_18
+  - first:
+      213: -180636312898250555
+    second: FireBallAnim04_19
+  - first:
+      213: 6286923139868639031
+    second: FireBallAnim04_20
+  - first:
+      213: -2448958427634972574
+    second: FireBallAnim04_21
+  - first:
+      213: -7274363665583537703
+    second: FireBallAnim04_22
+  - first:
+      213: 3892461351364027813
+    second: FireBallAnim04_23
+  - first:
+      213: -2125826586199570963
+    second: FireBallAnim04_24
+  - first:
+      213: 5856284095825483818
+    second: FireBallAnim04_25
+  - first:
+      213: 7390822163260454124
+    second: FireBallAnim04_26
+  - first:
+      213: 6807169432715009440
+    second: FireBallAnim04_27
+  - first:
+      213: -3225217910739909732
+    second: FireBallAnim04_28
+  - first:
+      213: -8638679287569080365
+    second: FireBallAnim04_29
+  - first:
+      213: -3380746634036188350
+    second: FireBallAnim04_30
+  - first:
+      213: 3317571089083104299
+    second: FireBallAnim04_31
+  - first:
+      213: -5758109495176061361
+    second: FireBallAnim04_32
+  - first:
+      213: -5457029575040460876
+    second: FireBallAnim04_33
+  - first:
+      213: 8125287585396671987
+    second: FireBallAnim04_34
+  - first:
+      213: -6936949616306829888
+    second: FireBallAnim04_35
+  - first:
+      213: 6357656390231584943
+    second: FireBallAnim04_36
+  - first:
+      213: -2273094722084616480
+    second: FireBallAnim04_37
+  - first:
+      213: -6874610341093559143
+    second: FireBallAnim04_38
+  - first:
+      213: -7894921216708793984
+    second: FireBallAnim04_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FireBallAnim04_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4d758224af46b50800000000000000
+      internalID: 6585663717174138110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c615b2c9c71d660a0800000000000000
+      internalID: -6888588246890360468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc2a788aeef32bf0800000000000000
+      internalID: -350156062739256107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 524
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82487c0ae255bc20800000000000000
+      internalID: 3221572273638490766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7d44ceaa2a6f810800000000000000
+      internalID: 1798803956173166510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5065380a73763a480800000000000000
+      internalID: -8889147750885403131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eef90fd84ba2d10800000000000000
+      internalID: 2101690697842159197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0126bc753a20c35d0800000000000000
+      internalID: -3081585144452390384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_8
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dc441367c6526e0800000000000000
+      internalID: -1862963615959298709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_9
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 262
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110cc41f73c954a20800000000000000
+      internalID: 3046012487071481873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcb38bf6794a3830800000000000000
+      internalID: 4051631590147865846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e94d01924992100800000000000000
+      internalID: 83760972180004406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea8e3087e74ca740800000000000000
+      internalID: 5164581932301716194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_13
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54b3f8d2a91d940800000000000000
+      internalID: 5319202155368498661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_14
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a337bb179ba550890800000000000000
+      internalID: -7492482652537392326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_15
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 0
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7babfe0da290bd0800000000000000
+      internalID: -2663550627749382152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_16
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 0
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36eb50774a2d5550800000000000000
+      internalID: 6151119152374081086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBallAnim04_17
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 0
+        width: 287
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa517fd940c9430800000000000000
+      internalID: 3790910062840883899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa77cb3493dbaf54d8c595c44403d0fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FireBallAnim04_0: 6585663717174138110
+      FireBallAnim04_1: -6888588246890360468
+      FireBallAnim04_10: 4051631590147865846
+      FireBallAnim04_11: 83760972180004406
+      FireBallAnim04_12: 5164581932301716194
+      FireBallAnim04_13: 5319202155368498661
+      FireBallAnim04_14: -7492482652537392326
+      FireBallAnim04_15: -2663550627749382152
+      FireBallAnim04_16: 6151119152374081086
+      FireBallAnim04_17: 3790910062840883899
+      FireBallAnim04_2: -350156062739256107
+      FireBallAnim04_3: 3221572273638490766
+      FireBallAnim04_4: 1798803956173166510
+      FireBallAnim04_5: -8889147750885403131
+      FireBallAnim04_6: 2101690697842159197
+      FireBallAnim04_7: -3081585144452390384
+      FireBallAnim04_8: -1862963615959298709
+      FireBallAnim04_9: 3046012487071481873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

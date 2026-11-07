@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ACO_FireTornado
+  m_Controller: {fileID: 9100000, guid: 686cf00378bd9d84f96fdbe02001ca8a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3e614fc0d46bb6642b105dc6855fd7c1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 643de255089a64f439221190ff44b1f0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0aeb0b77c6b15cb428448008e64e4cf3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d8b05c28b8e9a86468c63b94965420f1, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 128280d66574c3542a44c931d356a513, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f7306ee21324b7b45896cc020b5d5559, type: 2}

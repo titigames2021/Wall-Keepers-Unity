@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: 06cdd17ee0bf17c4d8a4a0d48a8ce9e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1692397143890149161
+    second: ataque2_0
+  - first:
+      213: -6240111471111793416
+    second: ataque2_1
+  - first:
+      213: -1555285865477228100
+    second: ataque2_2
+  - first:
+      213: 202015833369023717
+    second: ataque2_3
+  - first:
+      213: -481480966041215185
+    second: ataque2_4
+  - first:
+      213: -4781186415907129583
+    second: ataque2_5
+  - first:
+      213: -7761917763368568863
+    second: ataque2_6
+  - first:
+      213: -766013430480075191
+    second: ataque2_7
+  - first:
+      213: 6845077868215370417
+    second: ataque2_8
+  - first:
+      213: 4719705748548410772
+    second: ataque2_9
+  - first:
+      213: 8882602754821097734
+    second: ataque2_10
+  - first:
+      213: -4923305271509283155
+    second: ataque2_11
+  - first:
+      213: -2866761643217107179
+    second: ataque2_12
+  - first:
+      213: -7481857970878959735
+    second: ataque2_13
+  - first:
+      213: 7807985369766920896
+    second: ataque2_14
+  - first:
+      213: -3932561802510590009
+    second: ataque2_15
+  - first:
+      213: 5943251061080186084
+    second: ataque2_16
+  - first:
+      213: 3885154616743205146
+    second: ataque2_17
+  - first:
+      213: -4836565746461860093
+    second: ataque2_18
+  - first:
+      213: -2535973098331478821
+    second: ataque2_19
+  - first:
+      213: 7373463237499155626
+    second: ataque2_20
+  - first:
+      213: 4691741739312683911
+    second: ataque2_21
+  - first:
+      213: -7016671425757632396
+    second: ataque2_22
+  - first:
+      213: -5014864784217396346
+    second: ataque2_23
+  - first:
+      213: 6426253729102856274
+    second: ataque2_24
+  - first:
+      213: 3854207844623561283
+    second: ataque2_25
+  - first:
+      213: 5758384540330983576
+    second: ataque2_26
+  - first:
+      213: -8533863096030235574
+    second: ataque2_27
+  - first:
+      213: 6320957132131690180
+    second: ataque2_28
+  - first:
+      213: 2948539407404985709
+    second: ataque2_29
+  - first:
+      213: 6444467688450078988
+    second: ataque2_30
+  - first:
+      213: 8970065194184787217
+    second: ataque2_31
+  - first:
+      213: 3795034643435145578
+    second: ataque2_32
+  - first:
+      213: 8754284007504806852
+    second: ataque2_33
+  - first:
+      213: -5375089039140811558
+    second: ataque2_34
+  - first:
+      213: 8713031484502352187
+    second: ataque2_35
+  - first:
+      213: 2062175564881151313
+    second: ataque2_36
+  - first:
+      213: 6872519523997697598
+    second: ataque2_37
+  - first:
+      213: 5465437737154146381
+    second: ataque2_38
+  - first:
+      213: 7217502419556849134
+    second: ataque2_39
+  - first:
+      213: -3749421657245092519
+    second: ataque2_40
+  - first:
+      213: -2060986135256268317
+    second: ataque2_41
+  - first:
+      213: -6267099086350233956
+    second: ataque2_42
+  - first:
+      213: -3249634475695643997
+    second: ataque2_43
+  - first:
+      213: -4101131906044530930
+    second: ataque2_44
+  - first:
+      213: 6391848798053196265
+    second: ataque2_45
+  - first:
+      213: 5499673637499461736
+    second: ataque2_46
+  - first:
+      213: 3664531373626737450
+    second: ataque2_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulkyAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 856
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2e36463e89454eaaf5ca365882ee1
+      internalID: -1901420737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyAttack_1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1110
+        width: 856
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30300c388c054d43a7bab10863f49ef
+      internalID: 539919246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1110
+        width: 856
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238ffe78219b255469867297a6469bd5
+      internalID: -935076292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyAttack_3
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 1110
+        width: 856
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c238cc2143bcf6e44bf8a6b73a026ac8
+      internalID: -320455537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyAttack_4
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 1110
+        width: 856
+        height: 1110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f14431252a6b44bac1334a3872524
+      internalID: 1901372021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyAttack_5
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1110
+        width: 856
+        height: 1110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12162a79cccb6641850efaa1d59053d
+      internalID: -1308037268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyAttack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 856
+        height: 1110
+      alignment: 9
+      pivot: {x: 0.55, y: 0.79}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16b6f329cffc441be5bcbaf25597ac
+      internalID: -1169481900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyAttack_7
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 856
+        height: 1110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252f8cb0fd4cdfb40baf4f79a04a118b
+      internalID: 1539346119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkyAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 0
+        width: 856
+        height: 1110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.78}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3108705e2e499734697a78ac8f0cf6ca
+      internalID: -1935454045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1f88ddb52584274c9c8dd131ea086e8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BulkyAttack_0: -1901420737
+      BulkyAttack_1: 539919246
+      BulkyAttack_2: -935076292
+      BulkyAttack_3: -320455537
+      BulkyAttack_4: 1901372021
+      BulkyAttack_5: -1308037268
+      BulkyAttack_6: -1169481900
+      BulkyAttack_7: 1539346119
+      BulkyAttack_8: -1935454045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

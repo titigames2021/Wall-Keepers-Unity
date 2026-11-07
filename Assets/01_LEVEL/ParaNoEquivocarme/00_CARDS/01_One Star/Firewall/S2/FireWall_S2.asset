@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67a28c5053d354cbc9b5d80ae0aaa875, type: 3}
+  m_Name: FireWall_S2
+  m_EditorClassIdentifier: 
+  i_mana_cost: 3
+  f_dmg: 0
+  duration: 5
+  projectileSpeed: 0
+  _card_Sprite: {fileID: 21300000, guid: 166d0bb484eb4fc4fbc3c53ab0e86dc5, type: 3}
+  _onField_Sprite: {fileID: 337990809, guid: 63f4d52bfe490704c8186e5bba1405be, type: 3}
+  castClip: {fileID: 0}
+  impactClip: {fileID: 0}
+  i_AmoutCards: 1
+  i_starLevel: 1
+  f_SlowDown: 0
+  duration2: 0
+  e_CastingType: 2
+  e_Effect: 0
+  e_Element: 0
+  b_isMerged: 0
